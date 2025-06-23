@@ -1,0 +1,2358 @@
+{
+  "English": {
+    "Basic Test 1": [
+      {
+        "id": 1,
+        "question": "She **(quickly)** ran to the store",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 2,
+        "solution": "Adverb"
+      },
+      {
+        "id": 2,
+        "question": "The sun **(is)** shining.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 4,
+        "solution": "Verb"
+      },
+      {
+        "id": 3,
+        "question": "The grass is **(green)**.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 1,
+        "solution": "Adjective"
+      },
+      {
+        "id": 4,
+        "question": "He is very **(quick)**.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 1,
+        "solution": "Adjective"
+      },
+      {
+        "id": 5,
+        "question": "She sang **(beautifully)**.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 2,
+        "solution": "Adverb"
+      },
+      {
+        "id": 6,
+        "question": "He completed the task **(efficiently)**.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 2,
+        "solution": "Adverb"
+      },
+      {
+        "id": 7,
+        "question": "He placed the book on the **(table)**.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 3,
+        "solution": "Noun"
+      },
+      {
+        "id": 8,
+        "question": "The roses are **(red)**.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 1,
+        "solution": "Adjective"
+      },
+      {
+        "id": 9,
+        "question": "The teacher **(explained)** the concept.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 4,
+        "solution": "Verb"
+      },
+      {
+        "id": 10,
+        "question": "The **(quick)** brown fox jumped over the lazy dog.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Preposition",
+          "Verb"
+        ],
+        "answer": 1,
+        "solution": "Adjective"
+      },
+      {
+        "id": 11,
+        "question": "The cat is sitting **(under)** the table.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Preposition",
+          "Verb"
+        ],
+        "answer": 3,
+        "solution": "Preposition"
+      },
+      {
+        "id": 12,
+        "question": "He is a talented **(musician)**.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 3,
+        "solution": "Noun"
+      },
+      {
+        "id": 13,
+        "question": "She always arrives **(late)** to class.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Conjunction"
+        ],
+        "answer": 2,
+        "solution": "Adverb"
+      },
+      {
+        "id": 14,
+        "question": "We went for a walk **(after)** dinner.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Preposition",
+          "Verb"
+        ],
+        "answer": 3,
+        "solution": "Preposition"
+      },
+      {
+        "id": 15,
+        "question": "The old man told a **(fascinating)** story.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 1,
+        "solution": "Adjective"
+      },
+      {
+        "id": 16,
+        "question": "The cake is **(delicious)**.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 1,
+        "solution": "Adjective"
+      },
+      {
+        "id": 17,
+        "question": "She speaks **(five)** languages fluently.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 1,
+        "solution": "Adjective"
+      },
+      {
+        "id": 18,
+        "question": "We will meet **(near)** the clock tower.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Preposition",
+          "Verb"
+        ],
+        "answer": 3,
+        "solution": "Preposition"
+      },
+      {
+        "id": 19,
+        "question": "The stars shone **(brightly)** in the night sky.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 2,
+        "solution": "Adverb"
+      },
+      {
+        "id": 20,
+        "question": "I saw a snake **(while)** I was walking.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Conjunction",
+          "Verb"
+        ],
+        "answer": 3,
+        "solution": "Conjunction"
+      },
+      {
+        "id": 21,
+        "question": "Radhika was sitting **(between)** Sonali and Priya.",
+        "options": [
+          "Adjective",
+          "Preposition",
+          "Conjunction",
+          "Verb"
+        ],
+        "answer": 2,
+        "solution": "Preposition"
+      },
+      {
+        "id": 22,
+        "question": "**(Wow!)** He is very handsome.",
+        "options": [
+          "Interjection",
+          "Adverb",
+          "Conjunction",
+          "Verb"
+        ],
+        "answer": 1,
+        "solution": "Interjection"
+      },
+      {
+        "id": 23,
+        "question": "He is driving very **(fast)**.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 2,
+        "solution": "Adverb"
+      },
+      {
+        "id": 24,
+        "question": "He completed the task with **(honesty)**.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 3,
+        "solution": "Noun"
+      },
+      {
+        "id": 25,
+        "question": "He behaves very **(arrogantly)**.",
+        "options": [
+          "Adjective",
+          "Adverb",
+          "Conjunction",
+          "Noun"
+        ],
+        "answer": 2,
+        "solution": "Adverb"
+      }
+    ],
+    "Basic Test 2": [
+      {
+        "id": 1,
+        "question": "She wore a **(beautiful)** dress.",
+        "options": [
+          "qualitative",
+          "quantitative",
+          "possessive",
+          "demonstrative"
+        ],
+        "answer": 1,
+        "solution": "Qualitative adjective"
+      },
+      {
+        "id": 2,
+        "question": "**(This)** team has played very well.",
+        "options": [
+          "qualitative",
+          "quantitative",
+          "possessive",
+          "demonstrative"
+        ],
+        "answer": 4,
+        "solution": "demonstrative adjective"
+      },
+      {
+        "id": 3,
+        "question": "Rohan has bought **(many)** cars.",
+        "options": [
+          "qualitative",
+          "quantitative",
+          "proper",
+          "demonstrative"
+        ],
+        "answer": 2,
+        "solution": "quantitative adjective"
+      },
+      {
+        "id": 4,
+        "question": "He ate **(three)** slices of pizza for lunch.",
+        "options": [
+          "qualitative",
+          "cardinal",
+          "possessive",
+          "ordinal"
+        ],
+        "answer": 2,
+        "solution": "cardinal adjective"
+      },
+      {
+        "id": 5,
+        "question": "This is my **(first)** trip to London.",
+        "options": [
+          "qualitative",
+          "ordinal",
+          "possessive",
+          "demonstrative"
+        ],
+        "answer": 2,
+        "solution": "ordinal adjective"
+      },
+      {
+        "id": 6,
+        "question": "He wore a **(shiny)** necklace.",
+        "options": [
+          "qualitative",
+          "quantitative",
+          "possessive",
+          "demonstrative"
+        ],
+        "answer": 1,
+        "solution": "qualitative adjective"
+      },
+      {
+        "id": 7,
+        "question": "He wanted an **(Italian)** watch.",
+        "options": [
+          "qualitative",
+          "proper",
+          "possessive",
+          "demonstrative"
+        ],
+        "answer": 2,
+        "solution": "proper adjective"
+      },
+      {
+        "id": 8,
+        "question": "**(Her)** bag was stolen in the hall.",
+        "options": [
+          "qualitative",
+          "proper",
+          "possessive",
+          "demonstrative"
+        ],
+        "answer": 3,
+        "solution": "possessive adjective"
+      },
+      {
+        "id": 9,
+        "question": "**(Several)** students attended the seminar.",
+        "options": [
+          "qualitative",
+          "quantitative",
+          "possessive",
+          "demonstrative"
+        ],
+        "answer": 2,
+        "solution": "quantitative adjective"
+      },
+      {
+        "id": 10,
+        "question": "The dog barked at the **(strange)** man.",
+        "options": [
+          "qualitative",
+          "quantitative",
+          "possessive",
+          "demonstrative"
+        ],
+        "answer": 1,
+        "solution": "Qualitative adjective"
+      },
+      {
+        "id": 11,
+        "question": "The cat chased **(its)** tail.",
+        "options": [
+          "qualitative",
+          "quantitative",
+          "possessive",
+          "demonstrative"
+        ],
+        "answer": 3,
+        "solution": "possessive adjective"
+      },
+      {
+        "id": 12,
+        "question": "She has **(few)** options.",
+        "options": [
+          "qualitative",
+          "quantitative",
+          "possessive",
+          "demonstrative"
+        ],
+        "answer": 2,
+        "solution": "quantitative adjective"
+      },
+      {
+        "id": 13,
+        "question": "I saw her with Kunal **(yesterday)**.",
+        "options": [
+          "adverb of manner",
+          "adverb of time",
+          "adverb of degree",
+          "adverb of place"
+        ],
+        "answer": 2,
+        "solution": "adverb of time"
+      },
+      {
+        "id": 14,
+        "question": "He answered the question **(correctly)**.",
+        "options": [
+          "adverb of manner",
+          "adverb of time",
+          "adverb of degree",
+          "adverb of place"
+        ],
+        "answer": 1,
+        "solution": "adverb of manner"
+      },
+      {
+        "id": 15,
+        "question": "They are playing **(outside)** with their friends.",
+        "options": [
+          "adverb of manner",
+          "adverb of time",
+          "adverb of degree",
+          "adverb of place"
+        ],
+        "answer": 4,
+        "solution": "adverb of place"
+      },
+      {
+        "id": 16,
+        "question": "He speaks **(too)** loudly.",
+        "options": [
+          "adverb of frequency",
+          "adverb of time",
+          "adverb of degree",
+          "adverb of place"
+        ],
+        "answer": 3,
+        "solution": "adverb of degree"
+      },
+      {
+        "id": 17,
+        "question": "My mother **(often)** scolds me.",
+        "options": [
+          "adverb of frequency",
+          "adverb of time",
+          "adverb of degree",
+          "adverb of place"
+        ],
+        "answer": 1,
+        "solution": "adverb of frequency"
+      },
+      {
+        "id": 18,
+        "question": "The sun shines **(brightly)**.",
+        "options": [
+          "adverb of manner",
+          "adverb of time",
+          "adverb of degree",
+          "adverb of place"
+        ],
+        "answer": 1,
+        "solution": "adverb of manner"
+      },
+      {
+        "id": 19,
+        "question": "The package arrived very **(early)**.",
+        "options": [
+          "adverb of manner",
+          "adverb of time",
+          "adverb of degree",
+          "adverb of place"
+        ],
+        "answer": 2,
+        "solution": "adverb of time"
+      },
+      {
+        "id": 20,
+        "question": "She whispered **(softly)**.",
+        "options": [
+          "adverb of manner",
+          "adverb of time",
+          "adverb of degree",
+          "adverb of place"
+        ],
+        "answer": 1,
+        "solution": "adverb of manner"
+      },
+      {
+        "id": 21,
+        "question": "He bought a bike from **(Delhi)**.",
+        "options": [
+          "Proper noun",
+          "Common noun",
+          "Collective noun",
+          "Material noun"
+        ],
+        "answer": 1,
+        "solution": "Proper noun"
+      },
+      {
+        "id": 22,
+        "question": "The **(teacher)** punished all the students.",
+        "options": [
+          "Proper noun",
+          "Common noun",
+          "Collective noun",
+          "Material noun"
+        ],
+        "answer": 2,
+        "solution": "Common noun"
+      },
+      {
+        "id": 23,
+        "question": "Mohan broke his **(toys)**.",
+        "options": [
+          "Proper noun",
+          "Common noun",
+          "Collective noun",
+          "Material noun"
+        ],
+        "answer": 2,
+        "solution": "Common noun"
+      },
+      {
+        "id": 24,
+        "question": "The **(band)** performed really well at the concert.",
+        "options": [
+          "Abstract noun",
+          "Common noun",
+          "Collective noun",
+          "Material noun"
+        ],
+        "answer": 3,
+        "solution": "Collective noun"
+      },
+      {
+        "id": 25,
+        "question": "Children need love and **(affection)**.",
+        "options": [
+          "Abstract noun",
+          "Common noun",
+          "Collective noun",
+          "Material noun"
+        ],
+        "answer": 1,
+        "solution": "Abstract noun"
+      }
+    ],
+    "Basic Test 3": [
+      {
+        "id": 1,
+        "question": "She sang the song **beautiful(a)/beautifully(b)/beauty(c)**.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 2,
+        "solution": "beautifully"
+      },
+      {
+        "id": 2,
+        "question": "She has a **gracefully(a)/graceful(b)/gracefulness(c)** smile.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 2,
+        "solution": "graceful"
+      },
+      {
+        "id": 3,
+        "question": "She spoke to the audience **confident(a)/confidently(b)/confidence(c)**.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 2,
+        "solution": "confidently"
+      },
+      {
+        "id": 4,
+        "question": "All the people appreciated his **creatively(a)/creative(b)/creativity(c)**.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 3,
+        "solution": "creativity"
+      },
+      {
+        "id": 5,
+        "question": "The child opened the door **slow(a)/slowly(b)/slowness(c)**.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 2,
+        "solution": "slowly"
+      },
+      {
+        "id": 6,
+        "question": "The project was very **successful(a)/successfully(b)/success(c)**.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 1,
+        "solution": "successful"
+      },
+      {
+        "id": 7,
+        "question": "The car moved through traffic **smooth(a)/smoothly(b)/smoothness(c)**.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 2,
+        "solution": "smoothly"
+      },
+      {
+        "id": 8,
+        "question": "She is a very **calmly(a)/calmness(b)/calm(c)** person.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 3,
+        "solution": "calm"
+      },
+      {
+        "id": 9,
+        "question": "The children played **happily(a)/happy(b)/happiness(c)** in the park.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 1,
+        "solution": "happily"
+      },
+      {
+        "id": 10,
+        "question": "His **sudden(a)/suddenly(b)/suddenness(c)** arrival surprised everyone.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 1,
+        "solution": "sudden"
+      },
+      {
+        "id": 11,
+        "question": "The weather is extremely **pleasant(a)/pleasantly(b)/pleasure(c)** today.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 1,
+        "solution": "pleasant"
+      },
+      {
+        "id": 12,
+        "question": "We were disturbed by the **loudly(a)/loud(b)/loudness(c)** music.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 2,
+        "solution": "loud"
+      },
+      {
+        "id": 13,
+        "question": "His **bravely(a)/brave(b)/bravery(c)** saved him from the danger.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 3,
+        "solution": "bravery"
+      },
+      {
+        "id": 14,
+        "question": "She answered the question **correctly(a)/correct(b)/correctness(c)**.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 1,
+        "solution": "correctly"
+      },
+      {
+        "id": 15,
+        "question": "His painting captured the **beauty(a)/beautifully(b)/beautiful(c)** of those mountains",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 1,
+        "solution": "beauty"
+      },
+      {
+        "id": 16,
+        "question": "This is a very **interestingly(a)/interesting(b)/interest(c)** book.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 2,
+        "solution": "interesting"
+      },
+      {
+        "id": 17,
+        "question": "He looked at her **lovingly(a)/loving(b)/love(c)**.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 1,
+        "solution": "lovingly"
+      },
+      {
+        "id": 18,
+        "question": "He completed the task with good **efficiently(a)/efficient(b)/efficiency(c)**.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 3,
+        "solution": "efficiency"
+      },
+      {
+        "id": 19,
+        "question": "He should control his **angrily(a)/angry(b)/anger(c)**.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 3,
+        "solution": "anger"
+      },
+      {
+        "id": 20,
+        "question": "His speech was very **inspiring(a)/inspiration(b)/inspire(c)**.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 1,
+        "solution": "inspiring"
+      },
+      {
+        "id": 21,
+        "question": "We should solve the dispute **amicable(a)/amicably(b)/amity(c)**.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 2,
+        "solution": "amicably"
+      },
+      {
+        "id": 22,
+        "question": "Radhika always behaves in a **polite(a)/politely(b)/politeness(c)** manner.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 1,
+        "solution": "polite"
+      },
+      {
+        "id": 23,
+        "question": "The **loving(a)/lovingly(b)/love(c)** mother hugged her child.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 1,
+        "solution": "loving"
+      },
+      {
+        "id": 24,
+        "question": "You should prove your **loyal(a)/loyally(b)/loyalty(c)**.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 3,
+        "solution": "loyalty"
+      },
+      {
+        "id": 25,
+        "question": "Swati talks in a **rudely(a)/rude(b)/rudeness(c)** way.",
+        "options": [
+          "(a)",
+          "(b)",
+          "(c)",
+          ""
+        ],
+        "answer": 2,
+        "solution": "rude"
+      }
+    ],
+    "Pronoun Test 1": [
+      {
+        "id": 1,
+        "question": "Considerable encouragement for the scheme / has been received from the Bengal Chamber of Commerce /which has promised their full support.",
+        "options": [
+          "Considerable encouragement for the scheme",
+          "has been received from the Bengal Chamber of Commerce",
+          "which has promised their full support",
+          "No error"
+        ],
+        "answer": 3,
+        "solution": "Yahan which wala clause Bengal Chamber of Commerce ke liye aaya hai. Jo ki kisi sanstha ka naam hai aur Singular hai. Isliye yahan 'their' nahi 'its' ka prayog hoga."
+      },
+      {
+        "id": 2,
+        "question": "He is one of / those who would much rather / sacrifice his life than turn / disloyal to the country.",
+        "options": [
+          "He is one of",
+          "those who would much rather",
+          "sacrifice his life than turn",
+          "disloyal to the country."
+        ],
+        "answer": 3,
+        "solution": "Yahan ye who wala Adjectival Clause those ko refer karne ke liye likha gya hai jo ki Plural hai. Yaani cheeze plural ke hisaab se chalegi, isliye Possessive Adjective 'His' nahi 'their' ka use hoga."
+      },
+      {
+        "id": 3,
+        "question": "The Taj Mahal / is one of / the most beautiful / creation in the world.",
+        "options": [
+          "The Taj Mahal",
+          "the most beautiful",
+          "creation in the world.",
+          "is one of"
+        ],
+        "answer": 3,
+        "solution": "Yahan \"of\" Preposition selection ko dikhane ke liye use ki gayi hai isliye iske baad aane wala Noun Plural me prayog kiya jayega isliye 'Creation' nahi 'Creations' ka use hoga."
+      },
+      {
+        "id": 4,
+        "question": "It goes without saying / that your house which / is in Delhi is far better / than my one in various ways.",
+        "options": [
+          "It goes without saying",
+          "that your house which",
+          "is in Delhi is far better",
+          "than my one in various ways"
+        ],
+        "answer": 4,
+        "solution": "Your house ka comparison 'my house' se hona hai jiske liye Possessive pronoun \"mine\" ka use hoga 'My one' jaisa English me koi shabd nahi hai."
+      },
+      {
+        "id": 5,
+        "question": "I am not sure / if the red car / in the parking slot / is your.",
+        "options": [
+          "in the parking slot",
+          "is your.",
+          "I am not sure",
+          "if the red car"
+        ],
+        "answer": 2,
+        "solution": "Possessive Adjective kabhi akele use nahi hote yahan \"your car\" wala meaning dena tha isliye Possessive Pronoun \"yours\" ka prayog hoga."
+      },
+      {
+        "id": 6,
+        "question": "Each cigarette which / a person smokes does / some harm and eventually you / may get a serious disease from its effects.",
+        "options": [
+          "Each cigarette which",
+          "a person smokes does",
+          "some harm and eventually you",
+          "may get a serious disease from its effects."
+        ],
+        "answer": 3,
+        "solution": "Vakya ke meaning ke anusar serious bimari us vyakti ko hogi jo cigrette smoke karta hai na ki is vakya ko sunne wale ko 'you' pronoun listener ko represent karta hai, hame us vyakti ko refer karna hai jo cigrette smoke karta hai isliye yahan par 'you' nahi 'he' ka prayog hoga."
+      },
+      {
+        "id": 7,
+        "question": "Any of the two / pictures which depict / the real pictures of the present / politicians is worth seeing.",
+        "options": [
+          "Any of the two",
+          "pictures which depict",
+          "the real pictures of the present",
+          "politicians is worth seeing"
+        ],
+        "answer": 1,
+        "solution": "Any का use हम तब करते हैं जब हमें दो से ज़्यादा में से कोई भी एक वाला meaning देना होता है और either का use हम तब करते हैं जब हमें दो में से कोई भी एक वाला meaning देना होता है। यहाँ दो चीजों की बात हो रही है इसलिए यहाँ ‘any’ का नहीं ‘either’ का use होगा।"
+      },
+      {
+        "id": 8,
+        "question": "You say / it's your problem / but I say it's / my also.",
+        "options": [
+          "You say",
+          "it's your problem",
+          "but I say it's",
+          "my also"
+        ],
+        "answer": 4,
+        "solution": "Possessive adjective akele use nahi kiye jaate, yahan 'my problem' wala meaning dena hai. Isliye yahan Possessive pronoun 'mine' ka use hoga."
+      },
+      {
+        "id": 9,
+        "question": "I had to hold on to the wall / to steady itself / or I could have fallen.",
+        "options": [
+          "to the wall",
+          "to steady itself",
+          "or I could have fallen.",
+          "I had to hold on"
+        ],
+        "answer": 2,
+        "solution": "Yahan vakya ka meaning yeh hai ki mujhe deewar ko pakadna pada khud ko sthir karne ke liye. Toh 'I' ke anusar yahan Reflexive pronoun 'Itself' nahi balki 'myself' ka prayog hoga."
+      },
+      {
+        "id": 10,
+        "question": "You may be an editor or a reporter, / this makes you sit, / that makes you run.",
+        "options": [
+          "You may be an editor or a reporter,",
+          "this makes you sit,",
+          "that makes you run",
+          "No error"
+        ],
+        "answer": 1,
+        "solution": "Yeh usi concept par based hai jo class me aapko Cricket and Chess wale error me padhaya gya tha. Yahan this apne nearest noun reporter ko refer kar rha hai. Aur that editor ko refer kar raha hai parantu usse Meaning galat ho rha hai isliye yahan par editor aur reporter ko Interchange karna padega."
+      },
+      {
+        "id": 11,
+        "question": "Neither of the two medical students/ suspected in the 'missing girl' case/ have so far been arrested.",
+        "options": [
+          "Neither of the two medical students",
+          "suspected in the 'missing girl' case",
+          "have so far been arrested",
+          "No error"
+        ],
+        "answer": 3,
+        "solution": "Neither ek distributive pronoun hota hai. Isliye verb yahan singular aati hai. Yahan par 'have' nahi 'has' ka use hoga.\nNote: Suspected yahan koi verb ki tarah se karya nahin kar raha hai yeh Past Participle hai jo ki Adjective ki tarah karya kar rha hai."
+      },
+      {
+        "id": 12,
+        "question": "With food granaries overflowing, the Government is looking to liquidate his grain stock to prevent damage.",
+        "options": [
+          "to prevent damage.",
+          "to liquidate his grain stock",
+          "the Government is looking",
+          "With food granaries overflowing,"
+        ],
+        "answer": 2,
+        "solution": "Yahan hume Government Subject ke anusar Possessive adjective lagana hai. Isliye yahan 'His' nahin 'Its' ka use hoga."
+      },
+      {
+        "id": 13,
+        "question": "The people in my office are smarter than other offices.",
+        "options": [
+          "The people in",
+          "smarter than other offices.",
+          "my office are",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Mere office ke People ka comparison dusre office ke people se hoga na ki office se isliye 'those in other offices' likhna padega."
+      },
+      {
+        "id": 14,
+        "question": "My older brother, / which you’ll / meet later, / is a dentist.",
+        "options": [
+          "My older brother,",
+          "which you’ll",
+          "meet later,",
+          "is a dentist."
+        ],
+        "answer": 2,
+        "solution": "Yahan hume Brother, noun ko Refer karne ke liye ek Relative Pronoun likhna hai aur Human being ke liye who/whom ka prayog kiya jata hai which animals aur things ke liye use kiya jata hai yahan hume meet verb ka object banana hai isliye 'whom' ka prayog hoga."
+      },
+      {
+        "id": 15,
+        "question": "A current account is a deposit account/ which is offered by banks mainly/ to firms and companies who / need banking facilities very frequently.",
+        "options": [
+          "A current account is a deposit account",
+          "which is offered by banks mainly",
+          "to firms and companies who",
+          "need banking facilities very frequently."
+        ],
+        "answer": 3,
+        "solution": "Yahan hume firms and companies ko refer karne ke liye ek Relative Pronoun likhna hai yeh dono non-living hai. Isliye yahan par 'who' nahi 'which' ka prayog hoga."
+      },
+      {
+        "id": 16,
+        "question": "We ordered a Pizza / which are one of / my favourite foods.",
+        "options": [
+          "which are one of",
+          "No error",
+          "my favourite foods.",
+          "We ordered a Pizza"
+        ],
+        "answer": 1,
+        "solution": "Yahan 'which' Relative Pronoun pizza ke liye likha gya hai. Relative Pronoun ka apna khudka koi number Gender nahi hota yeh 'which' yahan Pizza ke liye aaya hai jo ki singular ki tarah use ho raha hai. Isliye 'which' ke baad Singular Verb ka prayog hoga 'are' nahin 'is' aayega."
+      },
+      {
+        "id": 17,
+        "question": "This is the woman/ whom all sons are married/ and well/ settled in their life.",
+        "options": [
+          "This is the woman",
+          "whom all sons are married",
+          "and well",
+          "settled in their life"
+        ],
+        "answer": 2,
+        "solution": "Is vakya ka arth yeh hai ki ye wo aurat hai jiske saare bete Married hain aur well settled hain, toh yahan hume woman ka sons par Possesion bananaa hai toh yahan ek esa shabd chahiye jo Possession ko dikhata ho isliye 'whose' ka use hoga 'whom' keval ek objective case hota hai. Yahan Objective Case ki requirement nahin hai, kyunki All sons Subject ho chuka hai, are linking verb hai aur 'married' aur 'well settled' adjective hai jo subject complement ki tarah se kaam kar rahe hain. Isliye yahan hume Objective Case ki avshyakta nahi hai. Balki ek esa shabd chahiye jo woman ka 'All sons' par Possession dikhaye isliye yahan 'whom' nahi 'whose' ka use hoga."
+      },
+      {
+        "id": 18,
+        "question": "Now it has finally dawned/ upon her that one/ should never compromise/ with his dignity, integrity and self respect.",
+        "options": [
+          "Now it has finally dawned",
+          "upon her that one",
+          "should never compromise",
+          "with his dignity, integrity and self respect"
+        ],
+        "answer": 4,
+        "solution": "Is Clause ka subject 'one' hai. Isliye possession bhi 'one's' ke according hi banega. Isliye 'his' nahi 'one's' ka prayog hoga."
+      },
+      {
+        "id": 19,
+        "question": "There are a number of new/ arrivals in this shoe store/ but only those shoes/ which are old one are available on discounted price.",
+        "options": [
+          "There are a number of new",
+          "arrivals in this shoe store",
+          "but only those shoes",
+          "which are old one are available on discounted price"
+        ],
+        "answer": 4,
+        "solution": "Yahan do galtiyan hai. One ka jagah Ones ka use hoga kyunki hume Shoes ko refer karne ke liye Plural Pronoun chahiye aur dusre which ki jagah that ka use hoga kyunki yeh Relative Pronooun shoes ko refer kar rha hai. Jisse pehle only those laga hua hai. Jo is par emphasis daal raha hai. Is liye yahan 'which' nahi 'that' relative Pronoun use hoga."
+      },
+      {
+        "id": 20,
+        "question": "Your friend and you/ are here, but who/ of you is to work with me.",
+        "options": [
+          "Your friend and you",
+          "are here, but who",
+          "of you is to work with me",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Yahan is clause ka arth yeh hai ki tum me se mere sath kaun kaam karega is Clause ke meaning se aur sath hi Of Preposition jo Selection ko dikhati hai usko lage hone se clear ho raha hai ki hume yahan Selection karwana hai. Aur Selection case me humesha 'Which' interrogative pronoun ka prayog hota hai."
+      },
+      {
+        "id": 21,
+        "question": "The articles/ published in this magazine/ are better than/ that magazine.",
+        "options": [
+          "The articles",
+          "published in this magazine",
+          "are better than",
+          "that magazine"
+        ],
+        "answer": 4,
+        "solution": "Ek magazine ke Articles ka Comparison dusre magazine ke Articles se hi hoga isliye yahan those ka prayog hoga sath hi Published Adjective jo first clause me de rakha hai. Use bhi hume meaning ko same rakhne ke liye, repeat karna padega. Isliye 'those published in that magazine' ka use hoga."
+      },
+      {
+        "id": 22,
+        "question": "After a long gap, / we went shopping / last Sunday and bought / that we wanted.",
+        "options": [
+          "we went shopping",
+          "After a long gap,",
+          "that we wanted.",
+          "last Sunday and bought"
+        ],
+        "answer": 3,
+        "solution": "Yahan hume bought verb ka object banane ke liye noun clause ki requirement hai na ki koi Adjectival Clause ki isliye hum yahan par that nahi what relative pronoun ka use karenge jo noun clause banane ke liye use kiya jata hai.\nNote:- we went shopping me koi galti nahi hai yahan 'went' ke baad 'for' preposition understood ho jaati hai yeh structure Allowed hai."
+      },
+      {
+        "id": 23,
+        "question": "He was not aware of/ the things and the people/ who had surrounded him.",
+        "options": [
+          "He was not aware of",
+          "the things and the people",
+          "who had surrounded him",
+          "No error"
+        ],
+        "answer": 3,
+        "solution": "Yahan hume esa Relative Pronoun chahiye jo cheezon aur insaano dono ko refer kar sakta ho isliye yahan 'that' relative Pronoun ka use hoga."
+      },
+      {
+        "id": 24,
+        "question": "Her mother promised to / give her anything what she / wanted if she/ passed in the examination.",
+        "options": [
+          "Her mother promised to",
+          "give her anything what she",
+          "wanted if she",
+          "passed in the examination"
+        ],
+        "answer": 2,
+        "solution": "Yahan anything pronoun ko define karne ke liye ek Adjectival Clause ki zarurat hai na ki Noun clause ki isliye yahan 'what' nahi 'that' relative pronoun ka use kiya jayega."
+      },
+      {
+        "id": 25,
+        "question": "Those who are late they will not be allowed inside the classroom.",
+        "options": [
+          "Those who are late",
+          "they will not be allowed",
+          "inside the classroom.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Yahan 'will not be allowed' wala jo part hai. Yeh verb those pronoun ke liye aayi hona chahiye thi, yadi hum they laga denge toh those pronoun ko verb nahi milegi isliye they pronoun yahan superfluous hai ise drop kar diya jayega."
+      },
+      {
+        "id": 26,
+        "question": "He has never hurt my sentiments/ that is a mark of a great/ and altruistic lover.",
+        "options": [
+          "He has never hurt my sentiments",
+          "that is a mark of a great",
+          "and altruistic lover",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Yahan relative pronoun ka antecedent poora clause ban raha hai aur poore Clause ko refer karne ke liye 'which' Relative Pronoun ka use kiya jaata hai."
+      },
+      {
+        "id": 27,
+        "question": "Whom do you / think she is, if she knows / so many things / about you?",
+        "options": [
+          "Whom do you",
+          "think she is, if she knows",
+          "so many things",
+          "about you?"
+        ],
+        "answer": 1,
+        "solution": "Yahan 'who' and 'whom' she is wale clause ke according bhara jaana hai, linking verb ke baad kabhi objective case nahi aate, humesha subjective case hi aate hain isliye 'whom' nahi 'who' ka prayog kiya jayega."
+      },
+      {
+        "id": 28,
+        "question": "You can buy that/ you want if/ you top this exam.",
+        "options": [
+          "You can buy that",
+          "you want if",
+          "you top this exam.",
+          "No error"
+        ],
+        "answer": 1,
+        "solution": "Yahan buy verb ko object ki zarurat hai. Yaani noun clause ki zarurat hai. Isliye yahan 'that' ka nahi what/whatever ka use hoga what ka arth hoga jo tumhe chahiye aur whatever ka arth hoga jo bhi tumhe chahye. Dono hi use kiye jaa sakte hain."
+      },
+      {
+        "id": 29,
+        "question": "He is the same man which I saw yesterday at the gate.",
+        "options": [
+          "He is",
+          "the same man",
+          "at the gate.",
+          "which I saw"
+        ],
+        "answer": 4,
+        "solution": "Yahan the same se, man par emphasis daala jaa raha hai. Isliye yahan relative pronooun 'which' nahi 'that' ka use hoga."
+      },
+      {
+        "id": 30,
+        "question": "The five brothers / are at daggers-drawn,/ so they feel it below their dignity/ to talk to each other.",
+        "options": [
+          "The five brothers",
+          "are at daggers-drawn,",
+          "so they feel it below their dignity",
+          "to talk to each other."
+        ],
+        "answer": 4,
+        "solution": "Yahan five brothers ke liye Reciprocal pronoun lagana hai isliye reciprocal pronoun 'one another' ka use hoga na ki 'each other' ka."
+      }
+    ],
+    "Pronoun Test 2": [
+      {
+        "id": 1,
+        "question": "We thought / there was a good idea / to wear snow boots / before we stepped out.",
+        "options": [
+          "We thought",
+          "before we stepped out",
+          "to wear snow boots",
+          "there was a good idea"
+        ],
+        "answer": 4,
+        "solution": "'It' and 'there' dono hi introductory Subject ka kaam kar lete hain. But dono alag alag jagah use kiye jaate hain. Yahan hume 'to wear' infinitive ko refer karne ke liye Introductory Subject ki zarurat thi. Jo kaam 'it' karta hai 'there' nahi."
+      },
+      {
+        "id": 2,
+        "question": "I find that / I get myself tired / very easily / these days.",
+        "options": [
+          "these days",
+          "I get myself tired",
+          "I find that",
+          "very easily"
+        ],
+        "answer": 2,
+        "solution": "Yahan 'get' linking verb ki tarah se work kar raha 'I' subject banega 'get' linking verb hai aur 'tired' subject complement ki tarah se work kar raha hai. Yahan koi Action nahi ho rha hai na hi kisi object ki zarurat hai isliye yahan Reflexive pronoun 'myself' ka prayog nahi hoga."
+      },
+      {
+        "id": 3,
+        "question": "There is many ways / to make / a stranger feel / welcome in the community.",
+        "options": [
+          "to make",
+          "a stranger feel",
+          "There is many ways",
+          "welcome in the community"
+        ],
+        "answer": 3,
+        "solution": "Jab 'there' word introductory subject ki tarah work karta hai to verb real subject ke according aati hai. Yahan real subject 'ways' hai isliye verb plural aayegi 'is' nahi 'are' ka use hoga."
+      },
+      {
+        "id": 4,
+        "question": "Me and my friends / often go / to the cinema / together.",
+        "options": [
+          "to the cinema",
+          "often go",
+          "Me and my friends",
+          "Together"
+        ],
+        "answer": 3,
+        "solution": "Yahan do changes karne padenge, ek toh yeh General sentence hai isliye Pronoun ka sequence '231' use karna tha, aur dusra hume yahan subjective case ki zarurat hai isliye 'me' nahi 'I' aana tha isliye yahan par my friend and I ka use kiya jayega."
+      },
+      {
+        "id": 5,
+        "question": "Payal as well as her friends was / absented themselves / from the class because / it was the day of 'Bihar-band'.",
+        "options": [
+          "Payal as well as her friends was",
+          "absented themselves",
+          "from the class because",
+          "it was the day of 'Bihar-band'."
+        ],
+        "answer": 2,
+        "solution": "Absent do kaam karta hai verb banna ya adjective banna jab yeh verb banta hai toh apne sath Reflexive Pronoun rakhta hai but is sentence ka structure thoda complex hai yahan (a) part me was diya gya hai aur (b) part me absented likha gya hai agar hum ise passive maane toh bhi passive ke andar object nahi hota hai isliye themselves drop hoga leking yahan passive ka koi sense nahi hai isliye passive manna bhi sahi nahi hoga toh sabse best options yahan pr yeh kiya ja sakta hai ki absented ko kaat kar absent likh de jisse veh adjective ban jayega aur adjective ke sath reflexive pronoun nahi aata hai toh themselves ko drop kar diya jayega. Yaani sahi sentence hoga Payal as well as her friends was absent from the class.\nNote:- as well as yahan koi simile nahi hai yeh ek Prepositional phrase hai isliye verb Payal ke according aayegi jo ki was likhi gayi hai jo ki sahi hai."
+      },
+      {
+        "id": 6,
+        "question": "The principal objected / to them wearing short skirts / at the function.",
+        "options": [
+          "The principal objected",
+          "to them wearing short skirts",
+          "at the function.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "'object to' yeh ek Phrasal verb ki tarah se work karta hai aur sentence ke meaning ke according principal ka jo objection hai veh wearing se hai, na ki them se isliye object to phrasal verb ka object wearing banega jo ki ek noun Gerund ke roop me work karega isliye yahan isse pehle 'them' pronoun ka nahi 'their' possessive adjective ka use hoga."
+      },
+      {
+        "id": 7,
+        "question": "Rashmi and me are / planning to go on / a road trip to Manali / next summer.",
+        "options": [
+          "Rashmi and me are",
+          "planning to go on",
+          "a road trip to Manali",
+          "next summer."
+        ],
+        "answer": 1,
+        "solution": "Yahan hume Verb ke subject ki zarurat hai isliye 'me' nahi 'i' ka use kiya jayega."
+      },
+      {
+        "id": 8,
+        "question": "Neither he / nor his brother / can walk faster / than me.",
+        "options": [
+          "Neither he",
+          "nor his brother",
+          "can walk faster",
+          "than me."
+        ],
+        "answer": 4,
+        "solution": "Subject ka comparison Subject se hota hai. Isliye yahan than ke baad objective case 'me' nahi 'I' ka use hoga, jiske baad 'can' modal understood hai, use likhna chahe toh likh bhi sakte hain 'than me' nahi 'than I' (Can) ka use hoga."
+      },
+      {
+        "id": 9,
+        "question": "It will / be us who will / buy a new house / No error.",
+        "options": [
+          "It will",
+          "be us who will",
+          "buy a new house",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Yahan 'it' introductory subject hai. Hume real subject 'we' par stress daalna tha isliye yahan Subjective case 'we' ka use hoga na ki objective case 'us' ka."
+      },
+      {
+        "id": 10,
+        "question": "Who was / there but she to look / after the family in distress?",
+        "options": [
+          "Who was",
+          "there but she to look",
+          "after the family in distress?",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Yahan 'but' ka matlab 'ke sivay ya ke alawa' hai. Yaani but yahan par preposition ki tarah work kar rha hai. Isliye uske baad Objective case ka use hoga. 'she' nahi 'her' ka use kiya jayega."
+      },
+      {
+        "id": 11,
+        "question": "He prostrated before / his master / who had returned from / London after a year.",
+        "options": [
+          "He prostrated before",
+          "his master",
+          "who had returned from",
+          "London after a year"
+        ],
+        "answer": 1,
+        "solution": "Prostrate verb ek transitive verb hoti hai jise object chahiye aur yahan meaning dena hai, usne khud ko jhukaya, isliye Prostrate Verb ke object ke roop me 'himself' reflexive pronoun ka use kiya jayega."
+      },
+      {
+        "id": 12,
+        "question": "He, you and I are to be blamed / for all the mess in / the last evening's program.",
+        "options": [
+          "He, you and I are to be blamed",
+          "for all the mess in",
+          "the last evening's program",
+          "No error"
+        ],
+        "answer": 1,
+        "solution": "Yahan blamed verb se pta chal raha hai ki koi galat kaam ko represent karna isliye yahan Pronoun ka sequence 123 chalega."
+      },
+      {
+        "id": 13,
+        "question": "We must do / regular exercises / to keep / ourselves fit.",
+        "options": [
+          "We must do",
+          "regular exercises",
+          "to keep",
+          "ourselves fit."
+        ],
+        "answer": 4,
+        "solution": "Jab action khud par hi hota hai toh 'keep' linking verb ki tarah se work karti hai is sentence ka matlab hai ki, hume Regular exercise karni chahiye fit rehne ke liye isliye yahan par Reflexive pronoun ka use nahi hoga."
+      },
+      {
+        "id": 14,
+        "question": "In the ideal 21st century classroom, children are actually excited about going to school, and there is little or no discipline problems because everyone is eager to learn.",
+        "options": [
+          "children are actually excited",
+          "In the ideal 21st century classroom",
+          "there is little",
+          "everyone is eager"
+        ],
+        "answer": 3,
+        "solution": "Yahan 'there' introductory subject hai aur 'discipline problems' real subject hai, 'there' ke Case me real subject ke according verb aati hai. Isliye plural verb ka use kiya jayega isliye 'is' nahi 'are' ka use hoga."
+      },
+      {
+        "id": 15,
+        "question": "The manager said, “Could you please / confirm me whether you / have received all the items / that you had ordered?”",
+        "options": [
+          "The manager said, “Could you please",
+          "that you had ordered?”",
+          "have received all the items",
+          "confirm me whether you"
+        ],
+        "answer": 4,
+        "solution": "Confirm verb on object Generally koi cheez hoti hai, kisi cheez ko confirm kiya jaata hai na ki kisi person ko isliye yahan confirm verb ka object aage likha whether wala clause banega, but agar hume Human being ko bhi object banana ho toh confirm verb ke baad 'to' preposition laga kar Human being ko is preposition ka object bana kar likh sakte hain. Toh ya toh hum sentence me se 'Me' ko hata sakte hain ya 'Me' se pehle 'to' laga kar sentence ko theek kar sakte hain."
+      },
+      {
+        "id": 16,
+        "question": "I asked my friend / where had he / learnt to dance / so well.",
+        "options": [
+          "where had he",
+          "learnt to dance",
+          "I asked my friend",
+          "so well"
+        ],
+        "answer": 1,
+        "solution": "Yahan speaker kisi ko kuchh puchh nahi raha balki kisi ko kuchh bata rha hai. Yeh Indirect Speech me likha gya sentence hai. Isliye yahan Interrogative Structure ka use nahi hoga. 'where had he'  nahi 'where he had' ka use hoga taaki sentence Assertive ban sake."
+      },
+      {
+        "id": 17,
+        "question": "Lalitha will go / to sister’s house / in Mumbai / this summer.",
+        "options": [
+          "to sister’s house",
+          "in Mumbai",
+          "Lalitha will go",
+          "this summer"
+        ],
+        "answer": 1,
+        "solution": "Sentence ke meaning ke according 'sister’s' se pehle 'her' possessive adjective ka use karna padega."
+      },
+      {
+        "id": 18,
+        "question": "The man standing / beside the minister is  / a friend of me.",
+        "options": [
+          "The man standing",
+          "beside the minister is",
+          "a friend of me",
+          "No error"
+        ],
+        "answer": 3,
+        "solution": "A freind of mine: Is structure ka meaning hota hai ki mere doston me se koi ek. Yahan 'of' preposition selection ka work karta hai.\nThe friend of me: Is structure ka meaning hota hai mera koi ek particular dost. Yahan 'of' prepostion possession ka work karta hai."
+      },
+      {
+        "id": 19,
+        "question": "No one of them came to the inauguration of our new Factory.",
+        "options": [
+          "our new factory",
+          "No one of them",
+          "inauguration of",
+          "came to the"
+        ],
+        "answer": 2,
+        "solution": "'No one' aur 'none' me kuchh difference hota hai jaise ki,\n(a) 'none' insaano aur cheezo dono ke liye aa sakta hai. 'no one' generally sirf insaano ke liye use kiya jaata hai.\n(b) 'none' ko kisi 'Group me se koi nahi' kehne liye  use kar sakte hai, but 'no one' 'group me se koi nahi'  wala meaning dene ke liye use hota hai. Yahan group me se koi nahi wala meaning dena hai, isliye 'no one' nahi 'none' ka use hoga."
+      },
+      {
+        "id": 20,
+        "question": "I don’t recognise none of the politicians who have been invited to be the speakers today.",
+        "options": [
+          "the speakers today",
+          "invited to be",
+          "the politicians who have been",
+          "I don’t recognise none of"
+        ],
+        "answer": 4,
+        "solution": "Yahan recognize se pehle jo 'not' hai uski wajah se yeh clause pehle hi negative ho chuka hai. None lagane se Double Negative ho jayega isliye yahan par 'none' nahi 'any' ka use kiya jayega."
+      },
+      {
+        "id": 21,
+        "question": "In order for he to attend the meeting, he needs to prepare exhaustive notes.",
+        "options": [
+          "to attend the meeting",
+          "he needs to prepare",
+          "exhaustive notes",
+          "In order for he"
+        ],
+        "answer": 4,
+        "solution": "use 'him' instead of 'he' kyunki for ek preposition hai aur preposition ke baad iska object aata hai isliye 'he' ke objective case 'him' ka use kiya jayega."
+      },
+      {
+        "id": 22,
+        "question": "What should we do / is a matter of / our own choice / and desire.",
+        "options": [
+          "What should we do",
+          "is a matter of",
+          "our own choice",
+          "and desire"
+        ],
+        "answer": 1,
+        "solution": "Yeh koi question nahi hai isliye interrogative structure ka nahi assertive structure ka use hoga Subject ke baad verb aayegi isliye yahan 'what we should do' ka use hoga na ki 'what should we do' ka."
+      },
+      {
+        "id": 23,
+        "question": "On Saturday Rahul visited his professor to whom he had an appointment.",
+        "options": [
+          "to whom he had",
+          "Rahul visited his professor",
+          "an appointment",
+          "On Saturday"
+        ],
+        "answer": 1,
+        "solution": "Is sentence me pronoun ki nahi balki prepostion ki galti hai. Appointment kisi ke sath fix hota hai isliye yahan par 'to whom' nahi 'with whom' likhna chahiye tha.\nFor example:- He had an appointment with his doctor."
+      },
+      {
+        "id": 24,
+        "question": "Mr. Sunil Pawar, our representative / he will / attend the meeting / on our behalf.",
+        "options": [
+          "Mr. Sunil Pawar, our representative",
+          "he will",
+          "attend the meeting",
+          "on our behalf"
+        ],
+        "answer": 2,
+        "solution": "Yahan Mr. Sunil Pawar subject ki tarah se work kar raha hai, our representative case in apposition hai jo subject ko define kar rha hai aage aane wali verb subject 'Sunil Pawar' ko milni chahiye thi. Isliye yahan likha gya 'he' pronoun superfluous hai use hata den."
+      },
+      {
+        "id": 25,
+        "question": "They who are in this room / should not move from the place / where they are standing, said the / leader of the criminals.",
+        "options": [
+          "They who are in this room",
+          "should not move from the place",
+          "where they are standing, said the",
+          "leader of the criminals"
+        ],
+        "answer": 1,
+        "solution": "Relative Pronoun se pehle 'they' ka demonstrative Version likha jaata hai isliye yahan 'they' nahi 'those' ka use kiya jayega, yeh baat aapko yaad hi karni hai. Bas dhyan rakhiye Introductory Subject 'It' wale jo sentence hote hain.\nFor example :- It is they who took you to hospital.\nYahan par 'They' hi rahega isme 'Those' nahi karna hai."
+      },
+      {
+        "id": 26,
+        "question": "Cows are amongst the gentlest of animals; none shows more passionate tenderness towards their young.",
+        "options": [
+          "none shows more",
+          "towards their young",
+          "the gentlest of animals",
+          "Cows are amongst"
+        ],
+        "answer": 1,
+        "solution": "Waise toh 'none' ke sath singular aur plural verb dono hi allowed hoti hai balki singular verb ko prefer kiya jaata hai but yahan sentence me aage 'their' possessive adjective ka use kiya jaata hai jisse pta chal raha hai ki plural wala sense dena hai aur yeh Question ek famous Author ki novel ki line se uthaya gya hai toh jaisa author ne likha tha SSC ne aisa hi utha liya hai isliye yahan par 'their' ko dekhte hue hum plural verb ka use karenge."
+      },
+      {
+        "id": 27,
+        "question": "The woman is waiting to see you looks rather angry.",
+        "options": [
+          "The women whose waiting to see you looks rather angry",
+          "The women who is waiting see you looks rather angry",
+          "The woman who is waiting to see you looks rather angry",
+          "No improvement"
+        ],
+        "answer": 3,
+        "solution": "Yahan do verb di gayi hai. Jisse pata chal raha hai ki do clauses banne chahiye aur sentence ka meaning bhi kuchh esa hai. Jo aurat bahar tumhe milne ka wait kar rhi hai, gusse me dikhayi pad rahi hai. Isliye yahan par 'who' relative pronoun ka use hoga aur wait ke baad direct verb nahi likh sakte isliye infinitive 'to see' ka use hoga, isliye (c) option best hai."
+      },
+      {
+        "id": 28,
+        "question": "Thomas is a man of word who have been paying back the borrowed money in instalments.",
+        "options": [
+          "in instalments",
+          "Thomas is a man of word",
+          "who have been paying back",
+          "the borrowed money"
+        ],
+        "answer": 3,
+        "solution": "Yahan 'who' relative pronoun hai, Thomas ko hum keh sakte hain 'a man of word' jiska meaning hota hai apni baat ka pakka hona. 'Thomas' singular hai isliye 'who' ke baad singualr verb ka use kiya jaayega, 'have' nahi 'has' aayega."
+      },
+      {
+        "id": 29,
+        "question": "Civil servants / should exert to help / a common man.",
+        "options": [
+          "Civil servants",
+          "should exert to help",
+          "a common man",
+          "no error"
+        ],
+        "answer": 2,
+        "solution": "use 'themselves' after 'exert'\n'exert' verb transitive hai isliye reflexive pronoun ka use karenge jo exert verb ka object banega.\nexert - to make big mental or physical efforts."
+      },
+      {
+        "id": 30,
+        "question": "She is the woman / who I know, / you can trust blindly.",
+        "options": [
+          "She is the woman",
+          "who I know,",
+          "you can trust blindly.",
+          "no error"
+        ],
+        "answer": 2,
+        "solution": "replace 'who' with 'whom'.\nYahan relative pronoun 'trust' verb ke liye lagana hai. Jise object chahiye. Isliye whom ka use hoga.\nNote :- Relative pronoun who/whom ka yahan 'know' verb se koi relation nahi hai."
+      }
+    ],
+    "Adjective Test 1": [
+      {
+        "id": 1,
+        "question": "The wedding gown / looked decently / despite being / studded with jewels.",
+        "options": [
+          "The wedding gown",
+          "despite being",
+          "looked decently",
+          "studded with jewels"
+        ],
+        "answer": 3,
+        "solution": "(c) Use 'decent' instead of 'decently' kyunki looked yahan linking verb hai aur linking verb ke baad adjective ka use hota hai 'decently' adverb aur 'decent' adjective hai.\n\nNote:- look verb ka matlab jab 'dekhna' hota hai tab yeh verb action verb hoti hai. Jab look verb ka matlab 'dikhayi padna' hota hai tab yeh linking verb hoti hai.\n\nEg:- (a) She is looking at me (action verb)\n       (b) She looks sad (linking verb)"
+      },
+      {
+        "id": 2,
+        "question": "The less you are confused while taking / these tests, the less errors / you will make.",
+        "options": [
+          "The less you are confused while taking",
+          "these tests, the less errors",
+          "you will make.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use fewer errors in place of less errors. kyunki 'errors' noun countable hai aur countable ke sath little nahi few adjective ki degree ka use hota hai."
+      },
+      {
+        "id": 3,
+        "question": "The recently hike / in the price of petroleum products / will hit / household budgets severely.",
+        "options": [
+          "will hit",
+          "The recently hike",
+          "household budgets severely",
+          "in the price of petroleum products"
+        ],
+        "answer": 2,
+        "solution": "(b) use ‘recent’ instead of ‘recently’ yahan 'hike' noun hai aur noun ke pehle adjective ka use kiya jaata hai 'recently' adverb aur 'recent' adjective hai."
+      },
+      {
+        "id": 4,
+        "question": "None can / believe that / Ramesh is happier / than grieved to know it.",
+        "options": [
+          "None can",
+          "believe that",
+          "Ramesh is happier",
+          "than grieved to know it"
+        ],
+        "answer": 3,
+        "solution": "Use more happy in place of happier.  kyunki jab ek hi person ki do qualities ka apas me comparison hota hai, toh comparative degree 'er' wale structure se nahi 'more' wale structure se banayi jaati hi."
+      },
+      {
+        "id": 5,
+        "question": "If he wants / farther information, / send him / to me.",
+        "options": [
+          "farther information",
+          "to me",
+          "If he wants",
+          "send him"
+        ],
+        "answer": 1,
+        "solution": "(a) use ‘further’ instead of ‘farther’ kyunki farther ka use distance ko refer karne ke liye kiya jaata hai jabki 'further' ka use more/addition ko refer karne ke liye kiya jaata hai."
+      },
+      {
+        "id": 6,
+        "question": "Your comment / on this issue / is more right / and I am with you all along the way.",
+        "options": [
+          "Your comment",
+          "on this issue",
+          "is more right",
+          "and I am with you all along the way"
+        ],
+        "answer": 3,
+        "solution": "Remove ‘more’ before ‘right’.  kyunki 'right' adjective apne aap me absolute hai isko qualify karne ke liye koi adverb nahi lagega."
+      },
+      {
+        "id": 7,
+        "question": "The team won / very easily / at the recent sports event.",
+        "options": [
+          "at the recent sports event",
+          "very easily",
+          "The team won",
+          "No error"
+        ],
+        "answer": 4,
+        "solution": "No error\n\nNote:- Sports event me koi galti nahi hai khelo ko represent karne ke liye 'sports' word ka hi use hoga 'sport' word ka nahi."
+      },
+      {
+        "id": 8,
+        "question": "Sachin Tendulkar is the humblest / and prolific / cricket player in the history of cricket.",
+        "options": [
+          "Sachin Tendulkar is the humblest",
+          "and prolific",
+          "cricket player in the history of cricket.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use most prolific in place of prolific. Kyunki jab do adjective 'and' conjuction se jode jaate hain toh dono same degree me likhe jaate hai."
+      },
+      {
+        "id": 9,
+        "question": "It was really surprising / that the two bosom friends fought / over such a triviale matter / and stopped all communications with each other.",
+        "options": [
+          "over such a triviale matter",
+          "It was really surprising",
+          "and stopped all communications with each other",
+          "that the two bosom friends fought"
+        ],
+        "answer": 1,
+        "solution": "(a) use ‘trivial’ instead of ‘triviale’ because the correct word is trivial which means having little value or importance:\n\nNote:- Is type ke spelling based error waise toh kam aate hain lekin kabhi kabhi aa jaate hain."
+      },
+      {
+        "id": 10,
+        "question": "Ramesh is smarter / enough to get / selected for this / post, without any recommendations.",
+        "options": [
+          "Ramesh is smarter",
+          "enough to get",
+          "selected for this",
+          "post, without any recommendations."
+        ],
+        "answer": 1,
+        "solution": "Use smart in place of smarter. Kyunki yahan Ramesh ka kisi aur se comparison nahi karna hai isliye comparative degree use nahi hogi. Yahan meaning dena hai Ramesh enough smart hai."
+      },
+      {
+        "id": 11,
+        "question": "The management is not perturbed about appointing / someone who is knowledgeable but is more inclined / towards filling the position with a person / who will be obsequous and will dance to their tunes.",
+        "options": [
+          "someone who is knowledgeable but is more inclined",
+          "towards filling the position with a person",
+          "The management is not perturbed about appointing",
+          "who will be obsequous and will dance to their tunes"
+        ],
+        "answer": 4,
+        "solution": "(d) use ‘obsequious’ instead of ‘obsequous’ because the correct word is obsequious which means too eager to praise or obey someone aur (d) part me 'their' ki jagah par 'Its' bhi hoga. Kyunki yeh managment ke liye aaya hai.\n\nNote:- Is type ke spelling based questions rarely hi exam me aate hain lekin kabhi kabhi aa jaate hain."
+      },
+      {
+        "id": 12,
+        "question": "Of the three, women wine and songs, / the former / brought about his ruin.",
+        "options": [
+          "Of the three, women wine and songs,",
+          "the former",
+          "brought about his ruin.",
+          "no error"
+        ],
+        "answer": 2,
+        "solution": "Use first in place of former. Kyunki yahan teen me se sabse pehle waale ki baat karni hai isliye 'first' ka use hoga 'former' word ka use hum tab karte hain jab do me se pehle ko kehna hota hai."
+      },
+      {
+        "id": 13,
+        "question": "The Dussehra celebrations / in Mysore / this year / are grandest than / in any other part / of the state.",
+        "options": [
+          "in Mysore",
+          "The Dussehra celebrations",
+          "are grandest than",
+          "any other part"
+        ],
+        "answer": 3,
+        "solution": "(c) Grandest than ki jagah par grander than those ka use hoga kyunki 'than' conjunction se pata chal raha hai ki yahan comparative degree lagani hai.\n\nNote:- Yahan Mysore me ho rahe dussehra celebration ka comparison baaki poore state me ho rahe dussehra celebration se karna hai but yahan superlative degree ka use nahi hoga kyunki than bhi laga hai aur other bhi laga hai warna fir do part me error karna pad jaata hai aur jaisa ki aapko class me padhaya gaya hai comparative degree laga kar bhi kisi ek ka comparision ek se zyada cheezon ke sath kiya jaa sakta hai."
+      },
+      {
+        "id": 14,
+        "question": "No less than thousands of spectators are / waiting for Dhoni to come out / in the field and play his / masterful stroke.",
+        "options": [
+          "No less than thousands of spectators are",
+          "waiting for Dhoni to come out",
+          "in the field and play his",
+          "masterful stroke"
+        ],
+        "answer": 1,
+        "solution": "Use fewer in place of less. Kyunki 'no less than' is phrase ka use uncountable cheezon ke liye hota hai aur 'no fewer than' is phrase ka use countable cheezon ke liye hota hai. Aage likha thousands of spectators se pata chal rha hai ki veh countable hai plural hai isliye 'no fewer than' ka use hoga."
+      },
+      {
+        "id": 15,
+        "question": "The weather / is much / more warmer / than it was a few days before.",
+        "options": [
+          "more warmer",
+          "than it was a few days before.",
+          "The weather",
+          "is much"
+        ],
+        "answer": 1,
+        "solution": "(a) Warmer se pehle likha gaya 'more' hatana padega kyunki warmer already comparative degree hai iske sath more laga kar ise aur comparative banane ki zarurat nahi hi. Agar 'intensity' hi badhane ki baat hai toh uske liye 'much' already laga hua hai. Isliye yahan 'more' ko drop kar diya jayega."
+      },
+      {
+        "id": 16,
+        "question": "While you are in Agra, / you must not miss / seeing the TajMahal, / because it is a worth seeing monument.",
+        "options": [
+          "While you are in Agra,",
+          "you must not miss",
+          "seeing the TajMahal,",
+          "because it is a worth seeing monument"
+        ],
+        "answer": 4,
+        "solution": "Use monument worth seeing in place of worth seeing monument. Kyunki ‘worth + V1 + ing’ se jab adjective banate hain to ing wala structure humesha worth ke baad hi lagana hota hai yeh structure aapko yaad hi karna hi.\n\nEg:- It is a movie worth watching.\n        It is a place worth visiting."
+      },
+      {
+        "id": 17,
+        "question": "After entering the town, / go straight and then / take a sharpest turn / towards your left / to reach the mall.",
+        "options": [
+          "take a sharpest turn",
+          "towards your left",
+          "After entering the town",
+          "to reach the mall"
+        ],
+        "answer": 1,
+        "solution": "(a) use ‘sharp’ instead of ‘sharpest’ kyunki sharpest superlative degree hoti hai aur yahan positive degree ki zarurat hai kyunki yahan 'turn' ka kisi aur turn se comparison nahi karna hai."
+      },
+      {
+        "id": 18,
+        "question": "Little support from / your parents would have / placed you on the top / of the world for sure.",
+        "options": [
+          "Little support from",
+          "your parents would have",
+          "placed you on the top",
+          "of the world for sure"
+        ],
+        "answer": 1,
+        "solution": "Kyunki 'a little' ka matlab hota hai 'Thoda' aur 'little' ka matlab hota hai 'na ke barabar' aur yahan sentence ka meaning positive hai. Yahan meaning yeh hai ki parents se mili hui thodi si bhi support tumhe pakka duniya ke top tak pahuncha deti hai. Yahan 'na ke barabar' support wala meaning nahi dena hai."
+      },
+      {
+        "id": 19,
+        "question": "Economists have declared that 2020 graduates / will face the worse job depression / since the Great Depression / because of the COVID-19 pandemic.",
+        "options": [
+          "Economists have declared that 2020 graduates",
+          "will face the worse job depression",
+          "because of the COVID-19 pandemic",
+          "since the Great Depression"
+        ],
+        "answer": 2,
+        "solution": "(b) use ‘worst’ instead of ‘worse’ kyunki worse comparative degree hoti hai aur yahan superlative degree ki need hai kyunki yahan 2020 ke depression ka comparison 'great depression' se lekar ab tak duniya me aaye saare depression se karna hai.\n\nNote:- depression ka matlab hota hai bahut bada recession"
+      },
+      {
+        "id": 20,
+        "question": "It is well known / that Mrs. Indira Gandhi / was the first politician / of her time.",
+        "options": [
+          "It is well known",
+          "that Mrs. Indira Gandhi",
+          "was the first politician",
+          "of her time."
+        ],
+        "answer": 3,
+        "solution": "Use ‘foremost’ in place of ‘first’ kyunki first ka matlab hota hai 'sabse pehla' aur foremost ka matlab hota hai 'us time me sabse mashoor' toh yahan sentence ke meaning ke according 'foremost' ka use hoga."
+      },
+      {
+        "id": 21,
+        "question": "Parul is / ten years / elder than / her sibling.",
+        "options": [
+          "elder than",
+          "Parul is",
+          "her sibling",
+          "ten years"
+        ],
+        "answer": 1,
+        "solution": "(a) Zyadatar books me is question ka answer aapko elder ke baad 'to' lagana milega aur yeh concept S.P. Bakshi me galat likha tha jiski wajah se har book ke andar yahi answer aapko diya gya hai aapko bhi 'elder' ke baad 'to' hi manna padega but agar sahi grammar ki baat karen toh elder word ese linking verb ke baad laga kar Comparison ke liye use nahi hota Elder word sirf noun ke pehle likha jaa sakta hai.\n\nEg- She is my elder sister.\n\nAgar 'pure grammar' ki baat karen toh yahan par sahi answer hona chahiye tha older than leking ab saari books me bhi galat likha hai toh obviously competitive exams galat ko hi sahi manenge. Isliye exams etc. me aap bhi 'elder to' hi karke aayiyega."
+      },
+      {
+        "id": 22,
+        "question": "Bharatpur is transforming into / India's Most fastest growing bird sanctuary / attracting thousands of rare migratory birds / from Europe and Siberia.",
+        "options": [
+          "Bharatpur is transforming into",
+          "India's Most fastest growing bird sanctuary",
+          "attracting thousands of rare migratory birds",
+          "from Europe and Siberia."
+        ],
+        "answer": 2,
+        "solution": "Kyunki 'fastest' apne aap me superlative degree hai aur uske sath 'most' laga kar use aur superlative banane ki zarurat nahi hai, fir bhi agar intensity badhani hi ho toh 'by far the fastest' ya 'much the fastest' ka use kar sakte hain."
+      },
+      {
+        "id": 23,
+        "question": "Do you earn / so much to / make both / ends meet?",
+        "options": [
+          "make both",
+          "so much to",
+          "ends meet",
+          "Do you earn"
+        ],
+        "answer": 2,
+        "solution": "(b) use ‘enough instead of ‘so much’ kyunki yahan hum kehna chahte hain ki 'kya aap paryapt paisa kamate hai?' Isliye enough ka use hoga aur 'so' ke sath generally 'that' ka pair banta hai isliye bhi yahan 'so' nahi aa payega.\n\nEg. He is so rich that he can by any car."
+      },
+      {
+        "id": 24,
+        "question": "This book is / as good, if / not better than that book.",
+        "options": [
+          "This book is",
+          "as good, if",
+          "not better than that book.",
+          "no error"
+        ],
+        "answer": 2,
+        "solution": "Use ‘as good as’ in place of ‘as good’. kyunki 'as good as' yahan par ek simile hai jise poora hi likha jayega. Is sentence ka asli structure yeh hai 'This book is as good as that book is if it is not better than that book is' yahan iska meaning yeh hai ki 'yeh kitaab utni hi achchi hai jitni veh kitaab hai agar usse zyada achchi nahi hai' toh inhi dono books ka do baar comparison hai isliye ‘subject + verb’ understood ho rhe hain but simile ek conjuction ka kaam karti hai veh poori hi likhi jayegi."
+      },
+      {
+        "id": 25,
+        "question": "He was not able / to give / many time / to his research.",
+        "options": [
+          "many time",
+          "He was not able",
+          "to give",
+          "to his research"
+        ],
+        "answer": 1,
+        "solution": "(a) use ‘much’ instead of ‘many’ kyunki time ek uncountable noun hai iske sath 'many' ka use nahi kiya jaa sakta isliye 'much' ka use hoga."
+      },
+      {
+        "id": 26,
+        "question": "Hari lost / a hundred rupees note / yesterday.",
+        "options": [
+          "Hari lost",
+          "a hundred rupees note",
+          "yesterday.",
+          "no error"
+        ],
+        "answer": 2,
+        "solution": "Use ‘rupee’ in place of ‘rupees’ kyunki yahan 'hundred rupees' ye phrase 'note' noun ke liye adjective ki tarah se kaam kar rha hai isliye iska plural nahi kiya jaayega."
+      },
+      {
+        "id": 27,
+        "question": "An eight years old / girl has / made this / beautiful painting.",
+        "options": [
+          "made this",
+          "An eight years old",
+          "girl has",
+          "beautiful painting"
+        ],
+        "answer": 2,
+        "solution": "(b)'Eight year old girl' yahan par 'girl' noun ke liye adjective ki tarah se work kar rha hai isliye uska plural nahi kiya jayega isliye 'eight years old' nahi 'eight year old' hoga."
+      },
+      {
+        "id": 28,
+        "question": "Death is / more preferable / to / dishonor.",
+        "options": [
+          "Death is",
+          "more preferable",
+          "to",
+          "dishonor"
+        ],
+        "answer": 2,
+        "solution": "Remove ‘more’ kyunki preferable apne aap me hi comparison ko dikhata hai uske sath 'more' laga kar use comparative karne ki need nahi hai."
+      },
+      {
+        "id": 29,
+        "question": "All these boys / have come to college / without few knowledge / of English.",
+        "options": [
+          "without few knowledge",
+          "have come to college",
+          "of English",
+          "All these boys"
+        ],
+        "answer": 1,
+        "solution": "(a) Use ‘any’ instead of ‘few’ kyunki knowledge noun uncountable hota hai aur 'few' countable ke liye lagta hai isliye few toh aa nahi sakta dusri baat yahan par 'little' bhi nahi aa sakta kyunki 'without' laga hone ki wajah se sentence ka meaning already negative ho chuka hai. Yahan par ek neutral word lagana padega jo na positive ho na hi negative ho isliye meaning ke according yahan 'any' word ka use kiya jayega."
+      },
+      {
+        "id": 30,
+        "question": "The militants / entered the palace / from the utmost gate / with guns hidden in their clothes.",
+        "options": [
+          "The militants",
+          "entered the palace",
+          "from the utmost gate",
+          "with guns hidden in their clothes."
+        ],
+        "answer": 3,
+        "solution": "Use outermost in place of utmost. 'Outermost' ka matlab hota hai 'sabse bahar wala' aur 'utmost' ka matlab hota hai 'greatest'\n\nEg. This is a matter of utmost importance."
+      }
+    ],
+    "Adjective Test 2": [
+      {
+        "id": 1,
+        "question": "The wedding reception will be hosted in Mumbai at a late date.",
+        "options": [
+          "in Mumbai",
+          "will be hosted",
+          "at a late date",
+          "The wedding reception"
+        ],
+        "answer": 3,
+        "solution": "(c) use ‘later’ instead of ‘late’\nLate - (happening or being) near the end of a period of time:\nLater - at a time in the future or after the time you have mentioned:"
+      },
+      {
+        "id": 2,
+        "question": "Gold is / the most / precious of / all other metals.",
+        "options": [
+          "Gold is",
+          "the most",
+          "precious of",
+          "all other metals"
+        ],
+        "answer": 4,
+        "solution": "Remove other. kyunki 'superlative degree ke case me exclude krne ki need nahi hoti."
+      },
+      {
+        "id": 3,
+        "question": "According to a recent study, drinking green tea thrice a week is associated with a longest and healthy life.",
+        "options": [
+          "drinking green tea thrice a week",
+          "a longest and healthy life",
+          "is associated with",
+          "According to a recent study"
+        ],
+        "answer": 2,
+        "solution": "‘Longest’ ki jagah par 'long' ka use kren kyunki jab 'and' conjuntion se do adjectives judte hain toh dono same degree me hone chahiye.\nNote:- Agar hum yahan 'longer and healthier' likhte toh aur better meaning aata kyunki hume yahan 'green tea na peene walon' ka comparison 'green tea peene walon' se karna hai, isliye 'longer and hearthier' dono comparative degree me likhna better hai."
+      },
+      {
+        "id": 4,
+        "question": "Of the three cities, Mumbai, Delhi and Kolkata, / the latter is the / dirtiest.",
+        "options": [
+          "Of the three cities, Mumbai, Delhi and Kolkata,",
+          "the latter is the",
+          "dirtiest",
+          "no error"
+        ],
+        "answer": 2,
+        "solution": "Use last in place of latter. kyunki do se zyaada options me se last wale ko refer karne ke liye 'last' word ka use hota hai, do me se baad wale ko refer krne ke liye 'latter' ka use hota hai."
+      },
+      {
+        "id": 5,
+        "question": "You must make a choice immediately because there is few time left.",
+        "options": [
+          "because there is",
+          "You must make",
+          "few time left",
+          "a choice immediately"
+        ],
+        "answer": 3,
+        "solution": "(c) use ‘little’ instead of ‘few’ kyunki 'few' ka use countable noun ke sath kiya jaata hai aur 'time' ek uncountable noun hai isliye 'little/less' ka use hoga."
+      },
+      {
+        "id": 6,
+        "question": "On entering the crowding room / I could not see one person / whom I knew.",
+        "options": [
+          "On entering the crowding room",
+          "I could not see one person",
+          "whom I knew.",
+          "No error"
+        ],
+        "answer": 1,
+        "solution": "Use crowded in place of crowding\nyeh concept present participle vs past participle ke use par based hain.\nEg. Horrifying man = Darawna aadmi\nHorrified man = dara hua aadmi\nPresent participle jab kisi noun ke liye lagaya jaata hai toh veh noun present participle me ho rhe kaam ka 'doer' hota hai aur past participle jab kisi noun ke liye lagaya jaata hai toh veh noun past participle me ho rhe kaam ka receiver hota hai."
+      },
+      {
+        "id": 7,
+        "question": "The invited guests preferred orange juice than hot coffee or chilled grapes.",
+        "options": [
+          "The invited guests",
+          "or chilled grapes",
+          "preferred orange juice",
+          "than hot coffee"
+        ],
+        "answer": 4,
+        "solution": "(d) use ‘preferred orange juice to’ instead of ‘preferred orange juice’ kyunki senior, junior, prefer, preferred, prior, posterior, etc. ke sath to ka use kiya jaata hai than ka nahi."
+      },
+      {
+        "id": 8,
+        "question": "The vacancy was filled / by a young scholar / who had an extensible knowledge of ancient art.",
+        "options": [
+          "The vacancy was filled",
+          "by a young scholar",
+          "who had an extensible knowledge of ancient art.",
+          "no error"
+        ],
+        "answer": 3,
+        "solution": "Use 'extensive' in place of 'extensible'.\nextensible :-able to be extended or stretched; extendable\nextensive :- vast, large in quantity or number."
+      },
+      {
+        "id": 9,
+        "question": "The shopkeeper said / that he would accept / no less than three hundred rupees for the watch.",
+        "options": [
+          "The shopkeeper said",
+          "that he would accept",
+          "no less than three hundred rupees for the watch.",
+          "No error"
+        ],
+        "answer": 4,
+        "solution": "No error\ntime, value, weight and length ko dikhane waale words jab ek unit ki tarah kaam karte hai toh unhe uncountable ki tarah treat kiya jaata hai.\nEg. 10 kilometers is a long distance to travel on foot.\n10000 rupees is a very big amount for me."
+      },
+      {
+        "id": 10,
+        "question": "She is so vivacious / and expressive that she is a dear girl / to all of us.",
+        "options": [
+          "She is so vivacious",
+          "and expressive that she is a dear girl",
+          "to all of us.",
+          "no error"
+        ],
+        "answer": 2,
+        "solution": "Place dear after girl. 'To all of us' veh phrase 'dear' adjective ko qualify karne ke liye aaya hai isliye sentence me 'ambiguity' ko hatane ke liye 'dear' adjective ko iske pehle likh diya jaata hai."
+      },
+      {
+        "id": 11,
+        "question": "The both children go to the same school.",
+        "options": [
+          "children go",
+          "The both",
+          "to the",
+          "same school"
+        ],
+        "answer": 2,
+        "solution": "(b) use ‘both the’ instead of ‘the both’ kyunki 'all' aur 'both' ye do ese adjective hote hain jinke baad article ya koi aur possessive adjective etc. ka use kiya jaata hai.\nEg. All the boys\nBoth the boys\nAll my friends\nBoth my friends\nNote:- yeh baat aapko yaad hi karni hai."
+      },
+      {
+        "id": 12,
+        "question": "Unless it is accepted to both the parties, an / arbitrator would be of no / use to settle this dispute.",
+        "options": [
+          "Unless it is accepted to both the parties, an",
+          "arbitrator would be of no",
+          "use to settle this dispute.",
+          "no error"
+        ],
+        "answer": 1,
+        "solution": "Use acceptable in place of accepted.\naccepted - Jise 'accept' kar liya gaya ho.\nacceptable - Jise 'accept' kiya jaa sake.\nAgar 'it is accepted' ka use karenge toh veh passive structure ho jayega aur aage 'by+doer' jaise kuchh nahi likha isliye meaning ke according aur structure ke according 'it is accepted' galat ho jayega. 'it is acceptable' se meaning and grammar dono theek rahenge."
+      },
+      {
+        "id": 13,
+        "question": "He likes to put all the garbage into a black small bag.",
+        "options": [
+          "into a",
+          "all the garbage",
+          "He likes to put",
+          "black small bag"
+        ],
+        "answer": 4,
+        "solution": "(d) use ‘small black bag’ instead of ‘black small bag’ kyunki kisi noun ke pehle use kiya jaane waale qualitative adjectives ka order opinion-Size-Age-Shape-Colour-Origin-Material hota hai."
+      },
+      {
+        "id": 14,
+        "question": "She has lost / the watch very / gifted by / her boyfriend.",
+        "options": [
+          "She has lost",
+          "the watch very",
+          "gifted by",
+          "her boyfriend."
+        ],
+        "answer": 2,
+        "solution": "Use the very watch in place of the watch very.\n'very' yahan emphatic adjective ki tarah se kaam kar rha hai watch ke liye iski position 'watch' noun se pehle hogi."
+      },
+      {
+        "id": 15,
+        "question": "I had a hard time paying the driver as I had only hundreds rupee note.",
+        "options": [
+          "paying the driver",
+          "only hundreds rupee note",
+          "I had a hard time",
+          "as I had"
+        ],
+        "answer": 2,
+        "solution": "only hundred rupees note ki jagah inme se koi ek use kren:\n- only one hundred rupee note. (Sirf ek 100 rupees ka note)\n- only one hundred rupees (Sirf 100 rupees)\n- only hundred rupee notes (Sirf 100-100 rupees wale note)"
+      },
+      {
+        "id": 16,
+        "question": "When I was walking / along the bank of the river, / I saw an asleep man / in rags and tatters.",
+        "options": [
+          "When I was walking",
+          "along the bank of the river,",
+          "I saw an asleep man",
+          "in rags and tatters"
+        ],
+        "answer": 3,
+        "solution": "Use I saw a man who was asleep in place of I saw an asleep man.\nkyunki 'asleep' ek esa adjective hai jo ki noun se pehle nahi lagaya jaata balki iska use 'predicatively' yaani linking verb ke baad likh kar kiya jaata hai."
+      },
+      {
+        "id": 17,
+        "question": "Don’t worry, there is less time for the train to arrive.",
+        "options": [
+          "Don’t worry",
+          "there is less time",
+          "No error",
+          "for the train to arrive"
+        ],
+        "answer": 2,
+        "solution": "yahan koi comparison nahi ho rha isliye 'less' ka use nahi hoga. inme se koi bhi word laga sakte hain:\nsome time (thoda time)\nenough time (Paryapt time)\na little time (thoda time)\nNote:- yahan 'few' ki jagah 'little' ka use nahi ho sakta kyunki sentence ke shuru me 'don't worry' likha hai jisse pta chal raha hai ki hum aage positive meaning dena chahte hain. 'little' laga dene se meaning ho jayega ki 'na ke barabar time bacha hai'."
+      },
+      {
+        "id": 18,
+        "question": "The food tasted deliciously / and all present in the party / enjoyed it to their full.",
+        "options": [
+          "The food tasted deliciously",
+          "and all present in the party",
+          "enjoyed it to their full",
+          "no error"
+        ],
+        "answer": 1,
+        "solution": "Use delicious in place of deliciously\nkyunki 'taste' ek linking verb ki tarah se kaam kar rhi hai isliye uske baad koi adverb nahi balki adjective ka use kiya jaayega."
+      },
+      {
+        "id": 19,
+        "question": "He lost all his hardly earned money.",
+        "options": [
+          "all his",
+          "hardly earned money",
+          "No error",
+          "He lost"
+        ],
+        "answer": 2,
+        "solution": "use ‘hard’ instead of ‘hardly’\nHardly (adv)(na ke barabar) – only just; almost not:\nHard (adv)(mehenat se/zor se) – needing or using a lot of physical or mental"
+      },
+      {
+        "id": 20,
+        "question": "He lost all his hardly earned money.",
+        "options": [
+          "all his",
+          "hardly earned money",
+          "No error",
+          "He lost"
+        ],
+        "answer": 2,
+        "solution": "use ‘hard’ instead of ‘hardly’\nHardly (adv)(na ke barabar) – only just; almost not:\nHard (adv)(mehenat se/zor se) – needing or using a lot of physical or mental"
+      },
+      {
+        "id": 21,
+        "question": "She ran so fastly that I could not overtake her.",
+        "options": [
+          "that I could",
+          "She ran so fastly",
+          "No error",
+          "not overtake her"
+        ],
+        "answer": 2,
+        "solution": "(b) use ‘fast’ instead of ‘fastly’ kyunki 'fastly' koi word nahi hota,\ncorrect word 'fast' hota hai chahe hume adjective banana ho ya adverb banana ho word 'fast' hi use kiya jaata hai."
+      },
+      {
+        "id": 22,
+        "question": "Even today / it is incredulous to think / that men have walked on the moon.",
+        "options": [
+          "Even today",
+          "it is incredulous to think",
+          "that men have walked on the moon.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use incredible in place of incredulous.\nincredible (positive sense) (kuchh itna achcha ya bada ho ki yakeen na ho ki ye sahi me hai): impossible or very difficult to believe\nincredulous (negative sense) (jo kisi cheez par shak kare): not willing or not able to believe something"
+      },
+      {
+        "id": 23,
+        "question": "Platinum is costlier than any metal found on earth.",
+        "options": [
+          "costlier than",
+          "Platinum is",
+          "found on earth",
+          "any other metals"
+        ],
+        "answer": 4,
+        "solution": "‘Any metal’ ki jagah 'any other metal' ka use karen. kyunki jab ek noun ka comparison ek ese group se karna hota hai jiska wo khud ek part hota hai toh use exclude karna padta hai isliye yahan 'other' lagakar exclude karna padega."
+      },
+      {
+        "id": 24,
+        "question": "A skilful advertiser may be able to create / practically a monopoly for himself / not because his product is superior to / but because he has succeeded in inducing people to believe that it is.",
+        "options": [
+          "A skilful advertiser may be able to create",
+          "practically a monopoly for himself",
+          "not because his product is superior to",
+          "but because he has succeeded in inducing people to believe that it is."
+        ],
+        "answer": 3,
+        "solution": "Remove to after superior. kyunki yahan 'to' preposition ke baad koi noun hi available nahi hai isliye yahan superior ke baad to ka use nahi hoga."
+      },
+      {
+        "id": 25,
+        "question": "Deepak said he would pack few things he had and vacate the hostel room the next day.",
+        "options": [
+          "the next day",
+          "Deepak said he would pack",
+          "pack few things he had",
+          "and vacate the hostel room"
+        ],
+        "answer": 3,
+        "solution": "(c) use ‘the few’ instead of ‘few’ kyunki yahan meaning yeh hai ki wo apna thoda jitna equal hai wo pack karega aur hostel khali kar dega.\nNote:- he had se pehle \"that\" understood hai yahan 'the few things that he had = the few things he had'"
+      },
+      {
+        "id": 26,
+        "question": "Although the toys are altogether in the cupboard they are not properly arranged.",
+        "options": [
+          "in the cupboard",
+          "are altogether",
+          "are not properly arranged",
+          "Although the toys"
+        ],
+        "answer": 2,
+        "solution": "(b) use ‘all together’ instead of ‘altogether’\nAltogether – ‘completely’ or ‘in total’\nAll together – ‘with each other’, and is similar to together"
+      },
+      {
+        "id": 27,
+        "question": "Scientists have found that life was creeping and crawling about the Earth 1.5 billion years early than previously thought.",
+        "options": [
+          "previously thought",
+          "1.5 billion years early than",
+          "Scientists have found",
+          "about the Earth"
+        ],
+        "answer": 2,
+        "solution": "(b) use ‘earlier’ instead of ‘early’ kyunki 'early' positive degree hoti hai aur yahan 'than' se pta chal rha ki comparative degree ki zarurat hai, isliye earlier ka use hoga."
+      },
+      {
+        "id": 28,
+        "question": "You should know / that the blind / leads a very difficult life.",
+        "options": [
+          "You should know",
+          "that the blind",
+          "leads a very difficult life",
+          "no error"
+        ],
+        "answer": 3,
+        "solution": "replace leads with lead. 'the blind' ka matlab hai 'all blind people' – 'the + adjective' yahan ek common plural noun bana hua hai, isliye yahan plural verb ka use kiya jayega."
+      },
+      {
+        "id": 29,
+        "question": "I will give you / my notes if you promise / to return the same by Sunday.",
+        "options": [
+          "I will give you",
+          "my notes if you promise",
+          "to return the same by Sunday",
+          "no error"
+        ],
+        "answer": 3,
+        "solution": "replace 'the same' with 'them'. 'the same' ka use adjective ke roop me kiya jaata hai par hume yahan pronoun ki zarurat hai jo 'notes' noun ko refer karega and 'to return' infinitive ka object banega."
+      },
+      {
+        "id": 30,
+        "question": "The photograph which / was taken by Rahul is / comparatively better than this one.",
+        "options": [
+          "The photograph which",
+          "was taken by Rahul is",
+          "comparatively better than this one.",
+          "no error"
+        ],
+        "answer": 3,
+        "solution": "For exams replace 'better’ with 'good’\nNote:-(c) According to correct grammar comparatively should be removed. but sab books me iska answer galat diya hai toh aapko bhi paper me 'good' hi karke aana padega."
+      }
+    ]
+  }
+}
