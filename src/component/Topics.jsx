@@ -16,12 +16,12 @@ const Topics = () => {
       <h1 className='text-3xl font-medium mb-6'>English</h1>
       <div className='space-y-4'>
         {topics.map((topic, index) => (
-          <div key={index} className='flex justify-between bg-white rounded-lg shadow p-4 items-center'>
-            <h1 className='text-xl font-semibold'>{topic}</h1>
-            <div className='flex gap-5 items-center'>
-                <h1 className={`text-lg font-medium ${getStoredPercentage(topic)=="Not Attempted" ? "text-red-600" : "text-green-700" }`}> {getStoredPercentage(topic)}</h1>
+          <div key={index} className='flex md:flex-row flex-col justify-between bg-white rounded-lg shadow p-4 md:items-center'>
+            <h1 className='md:text-xl font-semibold'>{topic}</h1>
+            <div className='flex gap-5 items-center justify-between'>
+                <h1 className={`md:text-lg font-medium ${getStoredPercentage(topic)=="Not Attempted" ? "text-red-600" : "text-green-700" }`}> {getStoredPercentage(topic)}</h1>
                 <button
-                className='px-4 cursor-pointer py-2 rounded bg-green-500 text-white font-medium'
+                className='px-4 py-1 cursor-pointer md:py-2 rounded bg-green-500 text-white font-medium'
                 onClick={() => navigate(`/questions/${encodeURIComponent(topic)}`)}
                 >
                 Start

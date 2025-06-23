@@ -32,7 +32,7 @@ const Questions = () => {
       <button className='mb-5 cursor-pointer' onClick={()=>navigate("/")}>All Topics</button>
       <h1 className='text-3xl font-medium mb-6'>{decodedName}</h1>
       <div className='flex gap-4'>
-        <div className='w-[80%] flex bg-white shadow-lg rounded-xl p-[2rem]'>
+        <div className='w-full md:w-[80%] flex md:flex-row flex-col gap-5 md:gap-0 bg-white shadow-lg rounded-xl p-[2rem]'>
           <div className='w-[70%]'>
             <h2 className='text-xl font-medium mb-4'>
               Q{currentQuestion.id}.{' '}
@@ -95,7 +95,7 @@ const Questions = () => {
           </div>
 
           {submitted && (
-            <div className='w-[30%] mt-4 text-green-600 text-lg font-medium'>
+            <div className='w-full md:w-[30%] mt-4 text-green-600 text-lg font-medium'>
               <h1>Score: {correctCount} / {questions.length}</h1>
               <h1 className='text-red-600'>Incorrect: {questions.length - correctCount}</h1>
               <h1 className='text-yellow-700'>Percentage: {((correctCount / questions.length) * 100).toFixed(2)}%</h1>
@@ -103,7 +103,7 @@ const Questions = () => {
           )}
         </div>
 
-        <div className='w-[20%] bg-white shadow-lg rounded-xl p-[1rem]'>
+        <div className='hidden md:block w-[20%] bg-white shadow-lg rounded-xl p-[1rem]'>
           <h3 className='font-semibold text-lg mb-3'>Progress</h3>
           <div className='flex flex-wrap gap-5 text-sm ml-4'>
             {questions.map((q) => (
