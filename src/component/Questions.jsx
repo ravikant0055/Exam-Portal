@@ -33,7 +33,7 @@ const Questions = () => {
       <h1 className='text-3xl font-medium mb-6'>{decodedName}</h1>
       <div className='flex gap-4'>
         <div className='w-full md:w-[80%] flex md:flex-row flex-col gap-5 md:gap-0 bg-white shadow-lg rounded-xl p-[2rem]'>
-          <div className='w-[70%]'>
+          <div className='w-full md:w-[70%]'>
             <h2 className='text-xl font-medium mb-4'>
               Q{currentQuestion.id}.{' '}
               <span
