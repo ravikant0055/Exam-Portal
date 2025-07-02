@@ -2353,6 +2353,730 @@
         "answer": 3,
         "solution": "For exams replace 'better’ with 'good’\nNote:-(c) According to correct grammar comparatively should be removed. but sab books me iska answer galat diya hai toh aapko bhi paper me 'good' hi karke aana padega."
       }
+    ],
+    "Verb Test 1": [
+      {
+        "id": 1,
+        "question": "The newspaper reported / that it was a mystery / how the thieves enter / into the house.",
+        "options": [
+          "The newspaper reported",
+          "that it was a mystery",
+          "how the thieves enter",
+          "into the house"
+        ],
+        "answer": 2,
+        "solution": "replace enter with broke\nkyuki main clause past me hai to subclause bhi past me hoga.\nbreak into (phrasal verb) - kisi ghar ya building etc me bina permission ghus jane\ngenerally chori karne ke irade se\nNOTE:-  Yahan 'enter' ki jagah 'entered' nahi kar sakte kyunki aage wale part me into diya hua hai, enter ke sath 'into' nahi aata kyunki 'enter' transitive verb hoti hai and ise object chahiye."
+      },
+      {
+        "id": 2,
+        "question": "What should have been/ a great disaster /  was averted.",
+        "options": [
+          "What should have been",
+          "a great disaster",
+          "was averted.",
+          "https://t.me/+5a3H-AYvX7E3YjVk"
+        ],
+        "answer": 1,
+        "solution": "Use ‘could’ in place of ‘should’.\nMeaning based error hai ye.\nWhat should have been a great disaster = Jo bahut bada Distaster hona chahiye tha.\nWhat could have been a great disaster = Jo bahut bada distaster ho sakta tha."
+      },
+      {
+        "id": 3,
+        "question": "The arm was so badly injured / that he must have / it amputated",
+        "options": [
+          "The arm was so badly injured",
+          "that he must have",
+          "it amputated",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use ‘had to have’ in place of ‘must have’.\nMain clause past me hai isliye 'must' ki past form 'had to' use hogi.\nIske aage ka structure causative verb par based hai jo advance verb chapter me padhaya jayega."
+      },
+      {
+        "id": 4,
+        "question": "You must / be hurry, / otherwise you will / miss the train.",
+        "options": [
+          "miss the train.",
+          "be hurry,",
+          "You must",
+          "otherwise you will"
+        ],
+        "answer": 2,
+        "solution": "Remove 'be' kyunki 'must' modal ke baad ek hi main verb aayegi 'be' and 'hurry' dono verbs hain. Sentence ke meaning ke according yahan 'hurry' main verb rahenge."
+      },
+      {
+        "id": 5,
+        "question": "There was such a crowd/ that he would / not find his brother.",
+        "options": [
+          "There was such a crowd",
+          "that he would",
+          "not find his brother.",
+          "No Error"
+        ],
+        "answer": 2,
+        "solution": "Use ‘could’ in place of ‘would’.\nMeaning based error hai ye.\nhe would not find his brother = wo apne bhai ko nahi dhundega.\nhe could not find his brother = wo apne bhai ko nahi dhund paaya tha."
+      },
+      {
+        "id": 6,
+        "question": "Distrust seems to / be a factor borne out /of prevailing circumstances.",
+        "options": [
+          "Distrust seems to",
+          "be a factor borne out",
+          "of prevailing circumstances.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use ‘born’ in place of ‘borne’\nBoth born and borne are forms of verb 'bear'. Born is commonly used with the meaning \"to give birth.\" Borne is used in adjective form with the meaning being carried by. eg water borne (paani ke dwara carry kiya jaane wala) air borne (hawa ke dwara carry kiya jaane wala) etc.\nShe was born in a log cabin in March of 1817.\nThis illnesses is caused by water-borne bacteria"
+      },
+      {
+        "id": 7,
+        "question": "The scooter that / I am using / these days is belonging / to my brother.",
+        "options": [
+          "to my brother",
+          "I am using",
+          "The scooter that",
+          "these days is belonging"
+        ],
+        "answer": 4,
+        "solution": "use ‘belongs’ instead of ‘is belonging’ Kyunki belong ek stative verb hai, Stative verb esi verbs hoti hain jinhe hum 'ing' form me use nahi karte.\nLike -feel, believe, smell, hear, listen, look, belong, have, etc."
+      },
+      {
+        "id": 8,
+        "question": "Would you find me / absent please do not/ forget to leave a message behind.",
+        "options": [
+          "Would you find me",
+          "absent please do not",
+          "forget to leave a message behind.",
+          "No Error"
+        ],
+        "answer": 1,
+        "solution": "Use 'should' in place of 'would'. Yeh 'should' word ka ek unique use hai. Generally toh yeh modal hi hota hai par 'should' word conjunction bhi ban sakta hai aur tab iska matlab hota hai 'agar'. Yahan sentence ke meaning ke according 'agar' meaning dena hai isliye 'if' ya 'should' ka use hoga."
+      },
+      {
+        "id": 9,
+        "question": "The new taxation rates / announced by the government / are bound to effect the export sector.",
+        "options": [
+          "The new taxation rates",
+          "announced by the government",
+          "are bound to effect the export sector.",
+          "No error"
+        ],
+        "answer": 3,
+        "solution": "Use ‘affect’ in place of ‘effect’. 'affect' generally ek verb ka work karta hai aur 'effect' noun ka. Infinitive 'to+v1' se banta hai, isliye yahan 'to affect' aayega."
+      },
+      {
+        "id": 10,
+        "question": "A book market / was been operated by some  readers / in the street when / they reached there.",
+        "options": [
+          "they reached there.",
+          "A book market",
+          "was been operated by some readers",
+          "in the street when"
+        ],
+        "answer": 3,
+        "solution": "use ‘being’ instead of ‘been’ kyunki past continuous tense ka active voice me structure 'was/were + ing' hota hai aur passive voice me 'was/were + being + v3' hota hai. Yahan meaning ye dena hai ki 'ek book market ko operate kiya jaa raha tha'."
+      },
+      {
+        "id": 11,
+        "question": "He uses to study / till 11 P.M. / and then goes before / the library closes.",
+        "options": [
+          "He uses to study",
+          "till 11 P.M.",
+          "and then goes before",
+          "the library closes."
+        ],
+        "answer": 1,
+        "solution": "Use 'studies' in place of 'uses to study'. poore sentence ko padh ke pata chal raha hai ki yahan present ke habitual action ki baat ho rahi hai isliye yahan present indefinite tense lagega jisme verb ki first form use hoti hai. Yahan koi past ki habit nahi hai."
+      },
+      {
+        "id": 12,
+        "question": "Every night I am / in the habit of hearing/ the news on the Radio",
+        "options": [
+          "Every night I am",
+          "in the habit of hearing",
+          "the news on the Radio",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use listening to in place of hearing.\nlisten - intentionally kisi cheez ko sunna.\nhear- koi cheez sunai de jaana."
+      },
+      {
+        "id": 13,
+        "question": "The audience has being / angry as the magician / is not performing/ as expected.",
+        "options": [
+          "is not performing",
+          "as expected",
+          "The audience has being",
+          "angry as the magician"
+        ],
+        "answer": 3,
+        "solution": "use ‘is’ instead of ‘has being’ kyunki has ke baad 'ing' form nahi aayegi. Yahan meaning ye dena hai ki audience gusse me hai kyunki magician waisa perform nahi kar rha jaisa expected tha. Iske liye 'the audience is angry' likhna best rahega."
+      },
+      {
+        "id": 14,
+        "question": "I have friends/ who should love / to stay at home, / but they have to go to work.",
+        "options": [
+          "I have friends",
+          "who should love",
+          "to stay at home,",
+          "but they have to go to work."
+        ],
+        "answer": 2,
+        "solution": "Use 'would' in place of 'should'.\nyeh modal ke meaning par based error hai.\nfriends who should love to stay at home = friends jinhe ghar par rehna pasand karna chahiye.\nfriends who would love to stay at home = friends jo ghar par rehna pasand karenge."
+      },
+      {
+        "id": 15,
+        "question": "The Desais soon / got used to live / in the country.",
+        "options": [
+          "The Desais soon",
+          "got used to live",
+          "in the country",
+          "No Error"
+        ],
+        "answer": 2,
+        "solution": "Use 'got used to living' in place of 'got used to live’ here the structure is :-\ngot - linking verb\nused - adjective (sub complement) (aadi hona)\nto- fix preposition\nliving- gerund (object of preposition)"
+      },
+      {
+        "id": 16,
+        "question": "The man who / was committed / the theft last night / was caught this evening.",
+        "options": [
+          "was caught this evening.",
+          "was committed",
+          "The man who",
+          "the theft last night"
+        ],
+        "answer": 2,
+        "solution": "Remove 'was’ 'man' commit action doer hai isliye verb active form me aayegi isliye 'was' ko hatana hoga kyunki 'was+verb' ki 3rd form passive voice hoti hai."
+      },
+      {
+        "id": 17,
+        "question": "Every morning / he might kiss / his beloved / and set off for work.",
+        "options": [
+          "Every morning",
+          "he might kiss",
+          "his beloved",
+          "and set off for work."
+        ],
+        "answer": 2,
+        "solution": "Use 'used to or would' in place of 'might'. kyunki yahan hume past ki habit show karni hai."
+      },
+      {
+        "id": 18,
+        "question": "When the allotted time /was over they torn off /the papers which they had used.",
+        "options": [
+          "When the allotted time",
+          "was over they torn off",
+          "the papers which they had used",
+          "No erorr"
+        ],
+        "answer": 2,
+        "solution": "Use 'tore' in place of 'torn’.\ntear tore torn\n'tore' verb ki 2nd form hai aur 'torn' 3rd form hai. Yahan 2 past ke actions ki baat ho rahi hai isliye yahan verb ki 2nd form aayegi."
+      },
+      {
+        "id": 19,
+        "question": "Psychology has been / defined the scientific study of / human psyche and behaviour.",
+        "options": [
+          "defined the scientific study of",
+          "Psychology has been",
+          "human psyche and behaviour",
+          "No error"
+        ],
+        "answer": 1,
+        "solution": "use ‘defined as the’ instead of ‘defined the’\nkyunki kuchh esi verbs hoti hai jinke baad 'as' ka use kiya jaata hai. like - define, regard, describe, treat, know etc\nkyunki in verbs me generally esa meaning banta hai 'kisi ko kisi ke jaisa manna'\neg - Kalidasa is known as the Shakespeare of India."
+      },
+      {
+        "id": 20,
+        "question": "The unreasonable behaviour /of his daughter / was thoroughly /upset Mr. Gupta.",
+        "options": [
+          "The unreasonable behaviour",
+          "of his daughter",
+          "was thoroughly",
+          "upset Mr. Gupta."
+        ],
+        "answer": 3,
+        "solution": "use 'upset' in place of 'was upset’.\nkyunki yahan active voice ka use hoga na ki passive ka. Yahan meaning yeh hai ki:- uski daughter ke unreasonable behaviour ne Mr. Gupta ko poori tarah se upset kar diya."
+      },
+      {
+        "id": 21,
+        "question": "The child cut his /finger with a razor /and bleeded profusely",
+        "options": [
+          "The child cut his",
+          "finger with a razor",
+          "and bleeded profusely",
+          "No erorr"
+        ],
+        "answer": 3,
+        "solution": "Use ‘bled’ in place of ‘bleeded’.\nkyunki 'bleed' verb ki forms ese chalti hain-\nbleed        bled           bled"
+      },
+      {
+        "id": 22,
+        "question": "The knight was received / compliments from the king /for his bravery.",
+        "options": [
+          "No error",
+          "for his bravery",
+          "compliments from the king",
+          "The knight was received"
+        ],
+        "answer": 4,
+        "solution": "Use ‘received ’ in place of ‘was received ’ kyunki yahan passive voice nahi active voice ki zarurat hai. Passive me verb ka object nahi hota yahan 'compliments' object hai."
+      },
+      {
+        "id": 23,
+        "question": "The criminal /will certainly be hung /because the charges brought upon /him are very serious.",
+        "options": [
+          "The criminal",
+          "will certainly be hung",
+          "because the charges brought upon",
+          "him are very serious."
+        ],
+        "answer": 2,
+        "solution": "Use 'hanged' in place of 'hung.'\nhang hung hung (लटकाना)\nhang hanged hanged(फांसी दनेा)"
+      },
+      {
+        "id": 24,
+        "question": "Whatever one may say/ of him,/ none dare call on question / his honesty of purpose.",
+        "options": [
+          "Whatever one may say",
+          "of him,",
+          "none dare call on question",
+          "his honesty of purpose."
+        ],
+        "answer": 3,
+        "solution": "Use 'dares to call' in place of 'dare call’.\nYahan koi 'not' wala ya interrogative structure nahi ban raha isliye yahan 'dare' ko 'main verb' manenge isliye uske baad call ko 'to call' karenge kyunki 2 verbs ek sath nahi aayengi.\nNote:- None ke baad generally singular verb prefer ki jaati hai."
+      },
+      {
+        "id": 25,
+        "question": "When the villagers put up a firm resistance to the fearsome bandit with all their might, he ultimately fleed the spot.",
+        "options": [
+          "When the villagers put up a firm resistance to the fearsome bandit with all their might, he ultimately fled the spot.",
+          "When the villagers put up a firm resistance to the fearsome bandit with all their might, he ultimately flew the spot.",
+          "When the villagers putted up a firm resistance to the fearsome bandit with all their might, he ultimately fleed the spot.",
+          "When the villagers put up a firm resistance to the fearsome bandit with all their might, he ultimately flown the spot."
+        ],
+        "answer": 1,
+        "solution": "use ‘fled’ instead of ‘fleed’\nkyunki 'flee' verb ki 2nd and 3rd dono form 'fled' hi hoti hai.\nFlee – Fled - Fled"
+      },
+      {
+        "id": 26,
+        "question": "When I was young./ i can run /faster than mohan.",
+        "options": [
+          "When I was young.",
+          "i can run",
+          "aster than mohan.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use ‘could’ in place of ‘can’. kyunki yahan 'past' ki baat ho rahi hai."
+      },
+      {
+        "id": 27,
+        "question": "I never considered him to be a person who would / go back on his promise and / then do not even apologise.",
+        "options": [
+          "I never considered him to be a person who would",
+          "go back on his promise and",
+          "then do not even apologise.",
+          "No error"
+        ],
+        "answer": 3,
+        "solution": "Remove 'do' kyunki yahan 2 verbs 'and' conjuction se jodi gayi hai isliye 2nd verb apologise se pehle bhi 'would' modal understood hai.\nwho would go back on his promise and then (would) not even apologise."
+      },
+      {
+        "id": 28,
+        "question": "As soon as we went for an afternoon siesta, my pet rabbit Tia digged a huge hole right in the middle of the lawn.",
+        "options": [
+          "As soon as we gone for an afternoon siesta, my pet rabbit Tia digged a huge hole right in the middle of the lawn.",
+          "As soon as we gone for an afternoon siesta, my pet rabbit Tia dug a huge hole right in the middle of the lawn.",
+          "As soon as we were going for an afternoon siesta, my pet rabbit Tia digged a huge hole right in the middle of the lawn.",
+          "As soon as we went for an afternoon siesta, my pet rabbit Tia dug a huge hole right in the middle of the lawn."
+        ],
+        "answer": 4,
+        "solution": "use ‘dug’ instead of ‘digged’ kyunki 'dig' verb ki 2nd and 3rd dono form 'dug' hi hoti hai.\nDig – Dug - Dug"
+      },
+      {
+        "id": 29,
+        "question": "A soldier / could fight / for his country and save his county’s honour.",
+        "options": [
+          "A soldier",
+          "could fight",
+          "for his country and save his county’s honour.",
+          "No error."
+        ],
+        "answer": 2,
+        "solution": "Use 'must' in place of 'could'.\nyeh modal verb ke meaning par based error hai.\nA soldier could fight for his country = ek soldier apne desh ke liye lad sakta hai.\nA soldier must fight for his country =  ek soldier ko apne desh ke liye zarur ladna chahiye."
+      },
+      {
+        "id": 30,
+        "question": "Would you liked / to have / some fries / along with your coffee, / sir?” / asked the waiter.",
+        "options": [
+          "asked the waiter",
+          "along with your coffee",
+          "Would you liked",
+          "some fries"
+        ],
+        "answer": 3,
+        "solution": "use ‘like’ instead of ‘liked’ kyunki modal verbs ke baad verb ki 'base form' ka use kiya jaata hai."
+      }
+    ],
+    "Verb Test 2": [
+      {
+        "id": 1,
+        "question": "He may live long”/ his sad mother/ prayed.",
+        "options": [
+          "He may live long”",
+          "his sad mother",
+          "prayed.",
+          "No erorr"
+        ],
+        "answer": 1,
+        "solution": "Use 'may he live long' in place of 'He may live long'. kyunki yeh ek optative sentence hai.\nNote:- yahan 'may' ki jagah 'might' nahi hoga kyunki yeh direct speech me likha gya hai."
+      },
+      {
+        "id": 2,
+        "question": "Raman putted the vegetables / in the frying pan / and after adding some water, / closed the lid.",
+        "options": [
+          "and after adding some water",
+          "closed the lid",
+          "in the frying pan",
+          "Raman putted the vegetables"
+        ],
+        "answer": 4,
+        "solution": "Use ‘put’ instead of ‘putted' kyunki 'put' verb ki saari forms same hoti hain.\nPut – Put - Put"
+      },
+      {
+        "id": 3,
+        "question": "If you get good marks/I shall happy/as much as you.",
+        "options": [
+          "If you get good marks",
+          "I shall happy",
+          "as much as you.",
+          "No erorr"
+        ],
+        "answer": 2,
+        "solution": "Use 'shall be happy' in place of 'shall happy'. kyunki 'shall' ek modal hai aur 'happy' ek adjective hai toh hume shall ke baad ek esi main verb ki zarurat hai jiske baad akela adjective 'happy' aa sake isliye yahan main verb ke roop me ek linking verb 'be' ka use hoga."
+      },
+      {
+        "id": 4,
+        "question": "When the villagers / were attacked, / they were raised to violence.",
+        "options": [
+          "When the villagers",
+          "were attacked,",
+          "they were raised to violence.",
+          "No Error"
+        ],
+        "answer": 3,
+        "solution": "Use ‘roused’ in place of ‘raised’.\nraise :- kisi cheez ko uthana\nrouse :- kisi person ke andar kisi feeling ko jagana."
+      },
+      {
+        "id": 5,
+        "question": "All those students / who are participating / in the play / have been notify / to stay back for rehearsal / after 3:00 p.m.",
+        "options": [
+          "to stay back for rehearsal",
+          "after 3:00 p.m.",
+          "have been notify",
+          "who are participating"
+        ],
+        "answer": 3,
+        "solution": "Use ‘have been notified’ instead of ‘have been notify’ kyunki 'students' notify action ke receiver hain isliye verb passive form me aayegi, 'have been notified' ka use hoga."
+      },
+      {
+        "id": 6,
+        "question": "Why didn’t you submitted your project on time?",
+        "options": [
+          "you submitted",
+          "your project",
+          "Why didn’t",
+          "on time"
+        ],
+        "answer": 1,
+        "solution": "Use 'submit' instead of 'submitted' kyunki Do/Does/Did ke baad verb ki base form ka use kiya jaata hai."
+      },
+      {
+        "id": 7,
+        "question": "Electric heaters were providing to all the officers at the guest house.",
+        "options": [
+          "at the guest house",
+          "were providing",
+          "to all the officers",
+          "Electric heaters"
+        ],
+        "answer": 2,
+        "solution": "Use ‘were provided’ instead of ‘were providing’ kyunki yahan passive form me verb chahiye."
+      },
+      {
+        "id": 8,
+        "question": "Einstein’s school teachers thought he would never success in life.",
+        "options": [
+          "thought he would",
+          "never success",
+          "in life",
+          "Einstein’s school teachers"
+        ],
+        "answer": 2,
+        "solution": "Use ‘succeed’ instead of ‘success’ kyunki modal verbs ke baad base verb aata hai."
+      },
+      {
+        "id": 9,
+        "question": "You need not tell a lie / when the judge asked you where you were / When the crime was committed.",
+        "options": [
+          "You need not tell a lie",
+          "when the judge asked you where you were",
+          "When the crime was committed.",
+          "No error"
+        ],
+        "answer": 1,
+        "solution": "Use ‘need not have told a lie’ kyunki yeh past ka context hai."
+      },
+      {
+        "id": 10,
+        "question": "If we have no definite aim before us / we would only wonder about in aimless pursuits / and achieve nothing.",
+        "options": [
+          "If we have no definite aim before us",
+          "we would only wonder about in aimless pursuits",
+          "and achieve nothing.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use ‘wander’ instead of ‘wonder’. Wander = aimlessly move; Wonder = curiosity."
+      },
+      {
+        "id": 11,
+        "question": "The monkeys swinged / on the branches and / jumped over the compound wall.",
+        "options": [
+          "The monkeys swinged",
+          "No error",
+          "on the branches and",
+          "jumped over the compound wall"
+        ],
+        "answer": 1,
+        "solution": "Use ‘swung’ instead of ‘swinged’.\nSwing – Swung – Swung"
+      },
+      {
+        "id": 12,
+        "question": "I can explain you the reason for the delay in executing your order.",
+        "options": [
+          "the delay in executing",
+          "the reason for",
+          "your order",
+          "I can explain you"
+        ],
+        "answer": 4,
+        "solution": "Correct: 'explain the reason' or 'explain to you the reason'. 'Explain' ka object person nahi hota."
+      },
+      {
+        "id": 13,
+        "question": "Need you to buy so many books?",
+        "options": [
+          "so many books",
+          "Need you",
+          "to buy",
+          "No error"
+        ],
+        "answer": 3,
+        "solution": "Correct form: ‘Need you buy’. Modal structure ke according infinitive without ‘to’ aayega."
+      },
+      {
+        "id": 14,
+        "question": "The doctor advised Mr. Murugan that, / because of his severe cramps, / he should lay in the bed for a few days.",
+        "options": [
+          "The doctor advised Mr. Murugan that,",
+          "because of his severe cramps,",
+          "he should lay in the bed for a few days.",
+          "No error"
+        ],
+        "answer": 3,
+        "solution": "Use ‘lie’ instead of ‘lay’.\nLie = letna\nLay = letaana"
+      },
+      {
+        "id": 15,
+        "question": "Though the police tried all sorts of methods to illicit / information from the public / they remained silent.",
+        "options": [
+          "Though the police tried all sorts of methods to illicit",
+          "information from the public",
+          "they remained silent.",
+          "No error"
+        ],
+        "answer": 1,
+        "solution": "Use ‘elicit’ instead of ‘illicit’.\nElicit = draw out info.\nIllicit = illegal"
+      },
+      {
+        "id": 16,
+        "question": "I ordered his dismissal when he flouted the company rules.",
+        "options": [
+          "I ordered his dismissal",
+          "No error",
+          "when he flouted",
+          "the company rules"
+        ],
+        "answer": 2,
+        "solution": "No error. Sentence is correct as written."
+      },
+      {
+        "id": 17,
+        "question": "News of the calamity is reached the family members the next day.",
+        "options": [
+          "the family members",
+          "News of the calamity",
+          "is reached",
+          "the next day"
+        ],
+        "answer": 3,
+        "solution": "Use ‘reached’ instead of ‘is reached’. Passive nahi, active form lagega."
+      },
+      {
+        "id": 18,
+        "question": "Bhagat Singh lie down / his life /  for his motherland.",
+        "options": [
+          "Bhagat Singh lie down",
+          "his life",
+          "for his motherland.",
+          "No error"
+        ],
+        "answer": 1,
+        "solution": "Use ‘laid down’ instead of ‘lie down’. Lay down = kurbaan karna."
+      },
+      {
+        "id": 19,
+        "question": "The tennis player easy through the /opening set before her opponent and rallied to take the /final two sets for the biggest victory of her young career.",
+        "options": [
+          "The tennis player easy through the",
+          "opening set before her opponent and rallied to take the",
+          "final two sets for the biggest victory of her young career.",
+          "No erorr"
+        ],
+        "answer": 1,
+        "solution": "Use ‘eased’ instead of ‘easy’. Adjective nahi, verb chahiye."
+      },
+      {
+        "id": 20,
+        "question": "This summer, I’ve met down a lot of interesting people.",
+        "options": [
+          "interesting people",
+          "I’ve met down",
+          "a lot of",
+          "This summer"
+        ],
+        "answer": 2,
+        "solution": "Use ‘met’ instead of ‘met down’. ‘Meet down’ koi valid phrasal verb nahi hai."
+      },
+      {
+        "id": 21,
+        "question": "I use to going for a morning walk when I was living in Dehradun.",
+        "options": [
+          "living in Dehradun",
+          "for a morning walk",
+          "when I was",
+          "use to going"
+        ],
+        "answer": 4,
+        "solution": "Use ‘used to go’ instead of ‘use to going’. 'Used to' + base verb past habit dikhata hai."
+      },
+      {
+        "id": 22,
+        "question": "You may ask / someone where the ship / is bounded for.",
+        "options": [
+          "You may ask",
+          "someone where the ship",
+          "is bounded for.",
+          "No Error"
+        ],
+        "answer": 3,
+        "solution": "Use ‘bound’ instead of ‘bounded’. 'Bound for' = heading toward a destination."
+      },
+      {
+        "id": 23,
+        "question": "The problems that  our/ country has and will face / are the outcome of the selfishness /of our so called saviors.",
+        "options": [
+          "The problems that  our",
+          "country has and will face",
+          "are the outcome of the selfishness",
+          "of our so called saviors."
+        ],
+        "answer": 2,
+        "solution": "Use 'has faced and will face'. 'Has' ke baad v3 aata hai; 'will' ke baad base verb."
+      },
+      {
+        "id": 24,
+        "question": "They made her as the Chairperson of their bank.",
+        "options": [
+          "no error",
+          "as the Chairperson",
+          "of their bank",
+          "They made her"
+        ],
+        "answer": 2,
+        "solution": "Remove 'as'. 'Make someone Chairperson' structure hota hai. Comparison nahi ho raha."
+      },
+      {
+        "id": 25,
+        "question": "It is be said that in 2019 the Indian Stock Market will fall drastically and we can expect that fall very soon.",
+        "options": [
+          "we can expect",
+          "It is be said",
+          "that in 2019",
+          "the Indian Stock Market will fall"
+        ],
+        "answer": 2,
+        "solution": "Use ‘It is said’ or ‘It is being said’. 'is be' incorrect structure hai."
+      },
+      {
+        "id": 26,
+        "question": "Most of my friends/ heard the earthquake / but I was totally unaware of it.",
+        "options": [
+          "Most of my friends",
+          "heard the earthquake",
+          "but I was totally unaware of it.",
+          "No erorr"
+        ],
+        "answer": 2,
+        "solution": "Use ‘felt’ instead of ‘heard’. Earthquake feel hota hai, suna nahi jaata."
+      },
+      {
+        "id": 27,
+        "question": "The President/overtakes/in Bangladesh.",
+        "options": [
+          "The President",
+          "overtakes",
+          "in Bangladesh",
+          "No erorr"
+        ],
+        "answer": 2,
+        "solution": "Use ‘takes over’ instead of ‘overtakes’. 'Take over' = assume responsibility; 'overtake' = aage nikalna."
+      },
+      {
+        "id": 28,
+        "question": "Our equipment gets damage/very often in summer because/there are frequent power cuts.",
+        "options": [
+          "Our equipment gets damage",
+          "very often in summer because",
+          "there are frequent power cuts.",
+          "No erorr"
+        ],
+        "answer": 1,
+        "solution": "Use ‘damaged’ instead of ‘damage’. 'Get' ke baad past participle (v3) lagta hai."
+      },
+      {
+        "id": 29,
+        "question": "It was a windy autumn day and leaves were fallen rapidly from the trees.",
+        "options": [
+          "It was a",
+          "leaves were fallen",
+          "windy autumn day",
+          "rapidly from trees"
+        ],
+        "answer": 2,
+        "solution": "Use ‘falling’ instead of ‘fallen’. Continuous action show ho rahi hai, passive nahi."
+      },
+      {
+        "id": 30,
+        "question": "He transferred/the melted iron/in a large container.",
+        "options": [
+          "He transferred",
+          "the melted iron",
+          "in a large container",
+          "No erorr"
+        ],
+        "answer": 2,
+        "solution": "Use ‘molten’ instead of ‘melted’. 'Molten' is adjective used for metal; 'melted' is verb form."
+      }
     ]
   }
 }
