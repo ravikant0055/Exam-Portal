@@ -71,14 +71,14 @@ const Questions = () => {
               <button
                 disabled={current === 0}
                 onClick={() => setCurrent(current - 1)}
-                className='px-3 py-2 rounded-lg font-medium bg-orange-300 disabled:opacity-50'
+                className='px-5 py-2 rounded font-medium bg-[#f11f3d] text-white disabled:opacity-50'
               >
                 Previous
               </button>
               {current < questions.length - 1 && (
                 <button
                   onClick={() => setCurrent(current + 1)}
-                  className='px-3 py-2 rounded-lg font-medium bg-blue-500 text-white'
+                  className='px-9 py-2 rounded font-medium bg-[#296ff6] text-white'
                 >
                   Next
                 </button>
@@ -107,7 +107,7 @@ const Questions = () => {
           <h3 className='font-semibold text-lg mb-3'>Progress</h3>
           <div className='flex flex-wrap gap-5 text-sm ml-4'>
             {questions.map((q) => (
-              <h1 key={q.id} className={`list-none py-2 w-[40px] font-medium text-center rounded-lg ${selectedAnswers[q.id] ? 'bg-green-400' : 'bg-orange-300'}`}>
+              <h1 key={q.id} className={`list-none py-2 w-[40px] text-white font-medium text-center rounded ${selectedAnswers[q.id] ? 'bg-[#4ecc63]' : 'bg-[#296ff6]'}`}>
                 Q{q.id}
               </h1>
             ))}
