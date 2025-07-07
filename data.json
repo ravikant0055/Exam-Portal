@@ -3077,6 +3077,730 @@
         "answer": 2,
         "solution": "Use ‘molten’ instead of ‘melted’. 'Molten' is adjective used for metal; 'melted' is verb form."
       }
+    ],
+    "Noun Test 1": [
+      {
+        "id": 1,
+        "question": "The boy had run away / because he couldn’t stand / his father beat him / for one more day.",
+        "options": [
+          "his father beat him",
+          "because he couldn’t stand",
+          "The boy had run away",
+          "for one more day"
+        ],
+        "answer": 1,
+        "solution": "Use 'his father's beating' instead of 'his father beat' sentence ka meaning yeh hai ki- ''wo ladka bhaag gya tha kyunki wo bardashta nahi kar paaya apne pita ki maar ko''. 'Could not stand' verb ka object 'beating' gerund banega aur usse pehle likhe 'father' noun ko possessive case me karke father's karna padega."
+      },
+      {
+        "id": 2,
+        "question": "Mother-in-laws from different / daily soaps have been / nominated for this category.",
+        "options": [
+          "Mother-in-laws from different",
+          "daily soaps have been",
+          "nominated for this category.",
+          "No error"
+        ],
+        "answer": 1,
+        "solution": "Use 'mothers-in-law' in place of 'mother-in-laws'. Compound noun ka plural karne ke liye noun ki tarah act karne wale word ka plural karte hain."
+      },
+      {
+        "id": 3,
+        "question": "My neighbour’s grandson / is only / five month old.",
+        "options": [
+          "No error",
+          "My neighbour’s grandson",
+          "is only",
+          "five month old"
+        ],
+        "answer": 4,
+        "solution": "Use ‘months’ instead of ‘month’ kyunki 'five' ek numeral adjective hai iske baad plural noun ka use hoga."
+      },
+      {
+        "id": 4,
+        "question": "The efficiency of an / employee also depends on the / surrounding in which he or she works.",
+        "options": [
+          "The efficiency of an",
+          "employee also depends on the",
+          "surrounding in which he or she works.",
+          "No error"
+        ],
+        "answer": 3,
+        "solution": "Use ‘surroundings’ in place of ‘surrounding’. Yahan 'on' preposition ka object banane ke liye ek noun ki need hai. surrounding = adjective, surroundings = noun."
+      },
+      {
+        "id": 5,
+        "question": "There have been / three breaks-in / in our society / this month.",
+        "options": [
+          "three breaks-in",
+          "this month",
+          "in our society",
+          "There have been"
+        ],
+        "answer": 1,
+        "solution": "Use ‘break-ins’ instead of ‘breaks-in’ kyunki 'break-in' ka plural 'break-ins' hota hai. Yeh aapko yaad hi karna padega. Break-in - the crime of entering a building by damaging a door or window, usually in order to steal."
+      },
+      {
+        "id": 6,
+        "question": "I want to know / where the headquarter of / Delhi police is situated.",
+        "options": [
+          "I want to know",
+          "where the headquarter of",
+          "Delhi police is situated.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use ‘headquarters’ in place of ‘headquarter’. 'headquarters' un nouns me se hai jinki singular and plural me spelling same hi rehti hai."
+      },
+      {
+        "id": 7,
+        "question": "We bought / two dozens / mangoes from / the market.",
+        "options": [
+          "the market",
+          "We bought",
+          "two dozens",
+          "mangoes from"
+        ],
+        "answer": 3,
+        "solution": "Use ‘two dozen’ instead of ‘two dozens’ kyunki yahan 'two dozen' ko 'mangoes' noun ke liye adjective ki tarah use kiya jaa raha hai isliye iska plural nahi hoga."
+      },
+      {
+        "id": 8,
+        "question": "Some seats are / reserved for disabled / in each compartment.",
+        "options": [
+          "Some seats are",
+          "reserved for disabled",
+          "in each compartment.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use 'the disabled' or 'disabled people' in place of disabled. Yahan 'for' preposition ka object banane ke liye noun ki zarurat hai. Jiska matlab hota hai 'handicapped people'. the disabled = disabled people"
+      },
+      {
+        "id": 9,
+        "question": "I do not / like to read / these kind / of novels.",
+        "options": [
+          "I do not",
+          "these kind",
+          "of novels",
+          "like to read"
+        ],
+        "answer": 2,
+        "solution": "Use ‘this kind’ or ‘these kinds’ instead of ‘these kind'. Plural noun ke sath 'these' and singular noun ke sath 'this' ka use hoga."
+      },
+      {
+        "id": 10,
+        "question": "The balance in his saving / account is not enough for him to / avail himself of these facilities.",
+        "options": [
+          "The balance in his saving",
+          "account is not enough for him to",
+          "avail himself of these facilities.",
+          "No error"
+        ],
+        "answer": 1,
+        "solution": "Use ‘savings’ in place of ‘saving’. 'Savings' and 'earnings' humesha plural me hi likhe jaate hain."
+      },
+      {
+        "id": 11,
+        "question": "Shall / we go / for walking / in the park?",
+        "options": [
+          "Shall",
+          "in the park",
+          "we go",
+          "for walking"
+        ],
+        "answer": 4,
+        "solution": "Use ‘a walk’ in place of ‘walking’. Kyunki go ke baad 'walk', 'ride', 'run', 'swim' jaise verbs ka jab fixed expression hota hai tab unke sath 'for a' ka use kiya jaata hai. Go for a walk/ride/swim etc."
+      },
+      {
+        "id": 12,
+        "question": "The President of India / constitutional power is limitless / but it is the P.M. who is, / indeed, powerful.",
+        "options": [
+          "The President of India",
+          "constitutional power is limitless",
+          "but it is the P.M. who is,",
+          "indeed, powerful."
+        ],
+        "answer": 1,
+        "solution": "Use ‘India’s’ in place of ‘India’. Possessive case dikhane ke liye apostrophe s ka use hota hai. Yahan sentence ka sense hai: India's President = भारत का राष्ट्रपति"
+      },
+      {
+        "id": 13,
+        "question": "The Principal requested / the teacher’s / to monitor / and take care of the small children.",
+        "options": [
+          "The Principal requested",
+          "the teacher’s",
+          "to monitor",
+          "and take care of the small children."
+        ],
+        "answer": 2,
+        "solution": "Use ‘teachers’ in place of ‘teacher’s’. Yahan koi possession nahi ho raha isliye possessive case (apostrophe) ka use nahi hoga. Teacher's = teacher का, jabki yahan teachers = शिक्षकगण chahiye."
+      },
+      {
+        "id": 14,
+        "question": "There was / no money in the bank / in Dhananjay’s / and Mritunjay’s joint account.",
+        "options": [
+          "There was",
+          "no money in the bank",
+          "in Dhananjay’s",
+          "and Mritunjay’s joint account."
+        ],
+        "answer": 3,
+        "solution": "Use ‘Dhananjay’ in place of ‘Dhananjay’s’. Jab do vyakti kisi ek hi vastu ke owner hote hain tab kewal second vyakti ke sath apostrophe lagate hain. i.e. Dhananjay and Mritunjay’s joint account."
+      },
+      {
+        "id": 15,
+        "question": "All our / furnitures were / spoiled in the recent / rains and floods.",
+        "options": [
+          "furnitures were",
+          "rains and floods",
+          "spoiled in the recent",
+          "All our"
+        ],
+        "answer": 1,
+        "solution": "Use ‘furniture was’ in place of ‘furnitures were’. Furniture ek uncountable noun hai isliye iska plural form nahi hota. Iske sath singular verb ka use hota hai."
+      },
+      {
+        "id": 16,
+        "question": "The offsprings of this / species leave their parents / as soon as they mature.",
+        "options": [
+          "The offsprings of this",
+          "species leave their parents",
+          "as soon as they mature.",
+          "No error"
+        ],
+        "answer": 1,
+        "solution": "Use ‘offspring’ in place of ‘offsprings’. Offspring aisa noun hai jiska singular aur plural form same hota hai jaise – species, deer, sheep, aircraft, etc."
+      },
+      {
+        "id": 17,
+        "question": "Doctors say that home isolation is far more effective than hospitalize in cases of mild infection.",
+        "options": [
+          "far more effective",
+          "than hospitalize",
+          "isolation is",
+          "Doctors say that"
+        ],
+        "answer": 2,
+        "solution": "Use ‘hospitalization’ in place of ‘hospitalize’. Hospitalization – the process of admitting someone into hospital. Isolate – verb hota hai, Isolation – noun. Comparison same parts of speech ke beech hoti hai."
+      },
+      {
+        "id": 18,
+        "question": "He did not know even / the name of the scientist / who discovered / the laws of the earth gravitational force.",
+        "options": [
+          "He did not know even",
+          "the name of the scientist",
+          "who discovered",
+          "the laws of the earth gravitational force."
+        ],
+        "answer": 4,
+        "solution": "Use ‘earth’s’ in place of ‘earth’. Possessive case me earth ko earth’s karna hoga kyunki gravitational force ka sambandh earth se hai."
+      },
+      {
+        "id": 19,
+        "question": "Your advices were timely / and guided me / to take the right decisions.",
+        "options": [
+          "to take the right decisions",
+          "No error",
+          "and guided me",
+          "Your advices were timely"
+        ],
+        "answer": 4,
+        "solution": "Use ‘pieces of advice’ in place of ‘advices’. Advice ek uncountable noun hai isliye iska plural form nahi hota."
+      },
+      {
+        "id": 20,
+        "question": "His maid servant / behaviour is undoubtedly / indecent but I don’t / understand how he tolerates it.",
+        "options": [
+          "His maid servant",
+          "behaviour is undoubtedly",
+          "indecent but I don’t",
+          "understand how he tolerates it."
+        ],
+        "answer": 1,
+        "solution": "Use ‘servant’s behaviour’ in place of ‘maid servant behaviour’. Possessive case dikhane ke liye apostrophe s ka use hoga. maid servant’s behaviour = नौकरानी का व्यवहार"
+      },
+      {
+        "id": 21,
+        "question": "She speaks / very highly / of both her / daughter-in-laws.",
+        "options": [
+          "She speaks",
+          "daughter-in-laws",
+          "very highly",
+          "of both her"
+        ],
+        "answer": 2,
+        "solution": "Use ‘daughters-in-law’ instead of ‘daughter-in-laws’ kyunki 'daughter-in-law' ka plural 'daughters-in-law' hota hai."
+      },
+      {
+        "id": 22,
+        "question": "It was India’s / past glory / that attracted / a number of invaders in the remote past.",
+        "options": [
+          "It was India’s",
+          "past glory",
+          "that attracted",
+          "a number of invaders in the remote past."
+        ],
+        "answer": 5,
+        "solution": "No error.\nNote :- Country and city ke name ke sath apostrophe laga sakte hain.\nIndia's population = population of India\nDelhi's pollution = pollution of Delhi."
+      },
+      {
+        "id": 23,
+        "question": "His loyalty / and honesty / are above / suspect.",
+        "options": [
+          "suspect",
+          "and honesty",
+          "His loyalty",
+          "are above"
+        ],
+        "answer": 1,
+        "solution": "Use ‘suspicion’ instead of ‘suspect’.\nabove suspicion = sandeh ke pare\nSuspect – a person who is believed to be guilty of something.\nSuspicion – a belief or idea that something may or may not be true."
+      },
+      {
+        "id": 24,
+        "question": "Many of us don’t / know the exact reason / of the earthquake.",
+        "options": [
+          "Many of us don’t",
+          "know the exact reason",
+          "of the earthquake.",
+          "No error."
+        ],
+        "answer": 2,
+        "solution": "Use ‘cause’ in place of ‘reason’.\nApne aap hone wale events ki wajah ke liye 'cause' word ka use karte hai."
+      },
+      {
+        "id": 25,
+        "question": "His mean / are very limited / yet he does not curtail / his expenditure and spends lavishly.",
+        "options": [
+          "His mean",
+          "are very limited",
+          "yet he does not curtail",
+          "his expenditure and spends lavishly."
+        ],
+        "answer": 1,
+        "solution": "Use ‘means’ in place of ‘mean’.\n'Income/resources' wale meaning me means word ka hi use hota hai iske sath verb plural aati hai."
+      },
+      {
+        "id": 26,
+        "question": "The information you are asking for is quite irrelevance.",
+        "options": [
+          "asking for",
+          "is quite irrelevance",
+          "you are",
+          "The information"
+        ],
+        "answer": 2,
+        "solution": "Use ‘irrelevant’ instead of ‘irrelevance’ kyunki 'irrelevance' ek noun hai jabki 'irrelevant' ek adjective aur yahan adjective ki zarurat hai na ki noun ki."
+      },
+      {
+        "id": 27,
+        "question": "Anu saw / her shade / in the river.",
+        "options": [
+          "Anu saw",
+          "her shade",
+          "in the river.",
+          "no error"
+        ],
+        "answer": 2,
+        "solution": "Use ‘shadow’ in place of ‘shade’.\nshadow = parchhai\nshade = dhoop se chhaya."
+      },
+      {
+        "id": 28,
+        "question": "The man played the flute and led all the mouse out of the town.",
+        "options": [
+          "all the mouse",
+          "out of the town",
+          "The man played",
+          "the flute and led"
+        ],
+        "answer": 1,
+        "solution": "Use ‘mice’ instead of ‘mouse’ kyunki 'mouse' ka plural 'mice' hota hai."
+      },
+      {
+        "id": 29,
+        "question": "The French / have strange / habits.",
+        "options": [
+          "The French",
+          "have strange",
+          "habits",
+          "no error"
+        ],
+        "answer": 3,
+        "solution": "Use ‘customs’ in place of ‘habits’.\nEk single person ki aadat ke liye 'habit' word ka use hota hai aur society me koi aadat jisko sab follow karte hain uske liye 'custom (rivaaz)' word ka use hota hai."
+      },
+      {
+        "id": 30,
+        "question": "He loses his tempers on the slightest provocation.",
+        "options": [
+          "provocation",
+          "He loses",
+          "the slightest",
+          "his tempers on"
+        ],
+        "answer": 4,
+        "solution": "Use ‘temper’ instead of ‘tempers’ kyunki 'temper' ek uncountable noun hai iska plural form nahi hota hai."
+      }
+    ],
+    "Noun Test 2": [
+      {
+        "id": 1,
+        "question": "The Commonwealth Games had a grand opening ceremony with spectacular cultural performings.",
+        "options": [
+          "with spectacular",
+          "a grand opening",
+          "cultural performings",
+          "The Commonwealth Games had"
+        ],
+        "answer": 3,
+        "solution": "Use ‘performances’ instead of ‘performings’ kyunki 'perform' verb ki noun form 'performance' hoti hai, 'performing' ko gerund maan ke use nahi kar sakte kyunki gerund ki plural form nahi hoti."
+      },
+      {
+        "id": 2,
+        "question": "The long-distance train / which met with an accident / was carrying some army personal.",
+        "options": [
+          "The long-distance train",
+          "which met with an accident",
+          "was carrying some army personal.",
+          "No Error"
+        ],
+        "answer": 3,
+        "solution": "Use ‘personnel’ in place of ‘personal’.\npersonal = niji\npersonnel = staff"
+      },
+      {
+        "id": 3,
+        "question": "The publics are not satisfied with the new act.",
+        "options": [
+          "The publics are",
+          "not satisfied",
+          "with the",
+          "new act"
+        ],
+        "answer": 1,
+        "solution": "Use ‘the public is’ instead of ‘the publics are’ kyunki 'public' noun ko generally singular form me hi use kiya jaata hai."
+      },
+      {
+        "id": 4,
+        "question": "Your son’s-in-law’s / friend is seriously ill / and he wants you / to see him as soon as possible.",
+        "options": [
+          "Your son’s-in-law’s",
+          "friend is seriously ill",
+          "and he wants you",
+          "to see him as soon as possible."
+        ],
+        "answer": 1,
+        "solution": "Use ‘sons-in-law’s friend’ or ‘son-in-law's friend’ in place of ‘son’s-in-law’s friend’.\nsons-in-law’s friend = damadon ka friend\nson-in-law's friend = damaad ka friend"
+      },
+      {
+        "id": 5,
+        "question": "They had to wait for the luggages to be put into the cab before they themselves got into it.",
+        "options": [
+          "to be put into the cab",
+          "for the luggages",
+          "They had to wait",
+          "before they themselves got into it"
+        ],
+        "answer": 2,
+        "solution": "Use ‘luggage’ instead of ‘luggages’ kyunki luggage ek uncountable noun hai iska plural form nahi hota hai."
+      },
+      {
+        "id": 6,
+        "question": "The modern man is busy acquiring more and more wealth and designing ways to invest it in more sense pleasures.",
+        "options": [
+          "designing ways to invest it",
+          "in more sense pleasures",
+          "modern man is busy",
+          "acquiring more and more wealth"
+        ],
+        "answer": 2,
+        "solution": "Use ‘sensuous’ instead of ‘sense’ kyunki 'pleasure' ek noun hai iske pehle adjective ka use hoga. 'sense' ek noun hai aur 'sensuous' ek adjective hai."
+      },
+      {
+        "id": 7,
+        "question": "The survey gives / us much knowledge of the / public’s opinion / on the matter of terrorism.",
+        "options": [
+          "The survey gives",
+          "us much knowledge of the",
+          "public’s opinion",
+          "on the matter of terrorism."
+        ],
+        "answer": 3,
+        "solution": "Use ‘public’ in place of ‘public’s’ kyunki 'public opinion' ek compound noun ya fixed expression hai."
+      },
+      {
+        "id": 8,
+        "question": "Among the reasons cited by the employee for quitting the job were the pressure of work, the outstation duties and desiring to pursue her hobbies.",
+        "options": [
+          "Among the reasons cited by the employee",
+          "and desiring to pursue her hobbies",
+          "No error",
+          "were the pressure of work, the outstation duties"
+        ],
+        "answer": 2,
+        "solution": "Use ‘desire’ instead of ‘desiring’ kyunki yahan 'pressure of work', 'the outstation duties' and 'desire to pursue her hobbies' in teen nouns ko join karna tha isliye yahan sentence me ek similarity banaye rakhne ke liye 'desire' noun ka use hoga na ki 'desiring' gerund ka. Grammar me is concept ko parallelism kehte hain."
+      },
+      {
+        "id": 9,
+        "question": "‘Language consists of several stratums’, / said a linguist / in his lecture on Language / and Linguistics.",
+        "options": [
+          "‘Language consists of several stratums’,",
+          "said a linguist",
+          "in his lecture on Language",
+          "and Linguistics."
+        ],
+        "answer": 1,
+        "solution": "Use ‘strata’ in place of ‘stratums’. 'Stratum' ka plural 'strata' hota hai."
+      },
+      {
+        "id": 10,
+        "question": "The chart papers were distributed among all the childrens.",
+        "options": [
+          "The chart papers",
+          "among all",
+          "were distributed",
+          "the childrens"
+        ],
+        "answer": 4,
+        "solution": "Use ‘children’ instead of ‘childrens’ kyunki 'children' khud hi plural noun hai, iska plural nahi hota hai."
+      },
+      {
+        "id": 11,
+        "question": "Your tone of speaking / as well as your friends / is really extremely sarcastic / yet we never take it seriously.",
+        "options": [
+          "Your tone of speaking",
+          "as well as your friends",
+          "is really extremely sarcastic",
+          "yet we never take it seriously."
+        ],
+        "answer": 2,
+        "solution": "Use ‘friend’s’ in place of ‘friends’. Kyunki sentence ke meaning ke according 'friend' ka tone par possession banana hai."
+      },
+      {
+        "id": 12,
+        "question": "My visiting to my family are few and far between.",
+        "options": [
+          "No error",
+          "few and far between",
+          "My visiting to",
+          "my family are"
+        ],
+        "answer": 3,
+        "solution": "Use ‘my visits to’ instead of ‘my visiting to’ kyunki 'visit' ek noun ban sakta hai aur 'are' verb se pata chal raha hai ki yahan plural noun ka use kiya gaya hai. Gerund ka plural form nahi hota. Note: Agar noun lag sakta ho toh jabardasti gerund nahi lagate."
+      },
+      {
+        "id": 13,
+        "question": "He did not approve / of his son raising / stupid questions and thereby / vexing the teacher.",
+        "options": [
+          "He did not approve",
+          "of his son raising",
+          "stupid questions and thereby",
+          "vexing the teacher."
+        ],
+        "answer": 2,
+        "solution": "Use ‘son’s’ in place of ‘son’. Yahan meaning dena hai ki usne approve nahi kiya uske son ka stupid questions raise karna. Yahan 'approve of' phrasal verb ka object 'raising' gerund banega. Isliye 'son' noun ko possessive case me karna padega."
+      },
+      {
+        "id": 14,
+        "question": "These stray cattles are roaming around the town.",
+        "options": [
+          "These",
+          "stray cattles",
+          "the town",
+          "are roaming around"
+        ],
+        "answer": 2,
+        "solution": "Use ‘cattle’ instead of ‘cattles’ kyunki 'cattle' khud hi ek plural noun hai."
+      },
+      {
+        "id": 15,
+        "question": "You shall get / all the informations / if you read this book carefully.",
+        "options": [
+          "You shall get",
+          "all the informations",
+          "if you read this book carefully.",
+          "No Error"
+        ],
+        "answer": 2,
+        "solution": "Use ‘information’ in place of ‘informations’ kyunki 'information' uncountable noun hai iska plural nahi hota."
+      },
+      {
+        "id": 16,
+        "question": "We have taken on / the responsibility of / arranging the required training / and supervise of the new staff.",
+        "options": [
+          "We have taken on",
+          "the responsibility of",
+          "arranging the required training",
+          "and supervise of the new staff"
+        ],
+        "answer": 4,
+        "solution": "Use 'supervising the new staff' in place of 'supervise of the new staff'. Yahan arranging and supervising gerunds ko 'and' se joda gaya hai isliye parallelism ke according gerund use hoga."
+      },
+      {
+        "id": 17,
+        "question": "‘I have never seen / such a lovely spectacles / in my life’, said / the passer-by.",
+        "options": [
+          "‘I have never seen",
+          "such a lovely spectacles",
+          "in my life’, said",
+          "the passer-by."
+        ],
+        "answer": 2,
+        "solution": "Use ‘spectacle’ in place of ‘spectacles’. Spectacles = chasma; spectacle = drashya. Sentence ke meaning ke according yahan 'spectacle' aayega."
+      },
+      {
+        "id": 18,
+        "question": "With the literacy rates in this / region as low as 10% / we need to encourage the / local people to build schools.",
+        "options": [
+          "With the literacy rates in this",
+          "region as low as 10%",
+          "we need to encourage the",
+          "local people to build schools."
+        ],
+        "answer": 1,
+        "solution": "Use ‘rate’ in place of ‘rates’. Kisi ek region ki literacy rate obviously ek hi hogi toh 'rate' noun ko singular me likha jayega."
+      },
+      {
+        "id": 19,
+        "question": "Hectic schedules can / take a toll on anybody and / the solutions to this is / a quick holiday to some exotic location.",
+        "options": [
+          "Hectic schedules can",
+          "take a toll on anybody and",
+          "the solutions to this is",
+          "a quick holiday to some exotic location."
+        ],
+        "answer": 3,
+        "solution": "Use ‘solution’ in place of ‘solutions’. Yahan 'the solution' noun ke liye 'is' singular verb ka use hua hai aur sentence me aage 'a quick holiday' bas ek hi solution likha hai toh clear hai ki solution noun ko bhi singular me likhna padega."
+      },
+      {
+        "id": 20,
+        "question": "Owing to his heavy engagement, / he could not write even the two-third / of the book of which / the publication was extend before January.",
+        "options": [
+          "Owing to his heavy engagement",
+          "he could not write even the two-third",
+          "of the book of which",
+          "the publication was extend before January."
+        ],
+        "answer": 2,
+        "solution": "Use ‘two-thirds’ in place of ‘two-third’. Jab fractions ko words ki form me likhte hain toh agar numerator 1 hota hai toh last me 's' nahi aata aur agar numerator 1 ke alawa kuchh hota hai toh 's' lagta hai.\nEg. 1/3 = one third, 2/3 = two-thirds"
+      },
+      {
+        "id": 21,
+        "question": "Since you are unable / to repay the loan you have no alternate / but to seek / an extension.",
+        "options": [
+          "Since you are unable",
+          "to repay the loan you have no alternate",
+          "but to seek",
+          "an extension."
+        ],
+        "answer": 2,
+        "solution": "Use ‘alternative’ after ‘alternate’.\n\nalternative = other option\nalternate = ek chhod ke ek\n\neg: I go there on alternate days."
+      },
+      {
+        "id": 22,
+        "question": "Some required measures / have to be taken to increase / the proceed of the annual sale.",
+        "options": [
+          "Some required measures",
+          "have to be taken to increase",
+          "the proceed of the annual sale.",
+          "No error"
+        ],
+        "answer": 3,
+        "solution": "Use ‘proceeds’ in place of ‘proceed’.\n\nproceed (verb) = aage badhna\nproceeds (noun) = money or other property received as the result of a sale or other transaction especially involving collateral."
+      },
+      {
+        "id": 23,
+        "question": "My uncle’s secretary’s wife / is / very charming.",
+        "options": [
+          "My uncle’s secretary’s wife",
+          "is",
+          "very charming.",
+          "no error"
+        ],
+        "answer": 1,
+        "solution": "Use ‘the wife of my uncle’s secretary’ in place of ‘my uncle’s secretary’s wife’."
+      },
+      {
+        "id": 24,
+        "question": "It will take at least / one and a half year / to complete this project.",
+        "options": [
+          "It will take at least",
+          "one and a half year",
+          "to complete this project.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use ‘years’ in place of ‘year’.\n\n‘one and a half’ = 1 + 1/2\nIske sath verb aur noun plural aayenge."
+      },
+      {
+        "id": 25,
+        "question": "The karkarduama court has issued / five summons against him / so far, but he / has attended to none of them.",
+        "options": [
+          "The karkarduama court has issued",
+          "five summons against him",
+          "so far, but he",
+          "has attended to none of them."
+        ],
+        "answer": 2,
+        "solution": "Use ‘summonses’ in place of ‘summons’.\n\n‘summons’ (singular)\n‘summonses’ (plural)"
+      },
+      {
+        "id": 26,
+        "question": "I do not / know / my date of birth.",
+        "options": [
+          "I do not",
+          "know",
+          "my date of birth.",
+          "no error"
+        ],
+        "answer": 3,
+        "solution": "Use ‘the date of my birth’ in place of ‘my date of birth’.\n\nInformal ya spoken me 'my date of birth' hi bolte hain but grammar ke according ‘the date of my birth’ sahi usage hai."
+      },
+      {
+        "id": 27,
+        "question": "The extra benefits in addition to its / flexibility of operation / and superior finish makes / it the most desirable machine of its kind.",
+        "options": [
+          "The extra benefits in addition to its",
+          "flexibility of operation",
+          "and superior finish makes",
+          "it the most desirable machine of its kind."
+        ],
+        "answer": 3,
+        "solution": "Use ‘make’ in place of ‘makes’.\n\nIs verb ka subject ‘extra benefits’ hai jo ki plural hai."
+      },
+      {
+        "id": 28,
+        "question": "Cannot you see / that the cattle / is grazing in the field? / So, you cannot play there.",
+        "options": [
+          "Cannot you see",
+          "that the cattle",
+          "is grazing in the field?",
+          "So, you cannot play there."
+        ],
+        "answer": 3,
+        "solution": "Use ‘are’ in place of ‘is’.\n\n‘cattle’ plural noun hai uske liye plural verb aayegi."
+      },
+      {
+        "id": 29,
+        "question": "The gentry of Mumbai does not / like Salman Khan at / all, even though he has / number of good movies to his credit.",
+        "options": [
+          "The gentry of Mumbai does not",
+          "like Salman Khan at",
+          "all, even though he has",
+          "number of good movies to his credit."
+        ],
+        "answer": 1,
+        "solution": "Use ‘do’ in place of ‘does’.\n\n‘gentry’ plural noun hai uske liye verb plural aayegi."
+      },
+      {
+        "id": 30,
+        "question": "Would you please / tell me how many / soaps do you / use in a month.",
+        "options": [
+          "Would you please",
+          "tell me how many",
+          "soaps do you",
+          "use in a month."
+        ],
+        "answer": 3,
+        "solution": "'Soap' uncountable noun hai iska direct's ya 'es' laga ke plural nahi kar sakte hai. ek se zyada soaps kehne ke liye 'cakes' ya 'bars of soap' likhna padega."
+      }
     ]
   }
 }

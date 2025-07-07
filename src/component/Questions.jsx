@@ -71,14 +71,14 @@ const Questions = () => {
               <button
                 disabled={current === 0}
                 onClick={() => setCurrent(current - 1)}
-                className='px-5 py-2 rounded font-medium bg-[#f11f3d] text-white disabled:opacity-50'
+                className='px-5 cursor-pointer py-2 rounded font-medium bg-[#f11f3d] text-white disabled:opacity-50'
               >
                 Previous
               </button>
               {current < questions.length - 1 && (
                 <button
                   onClick={() => setCurrent(current + 1)}
-                  className='px-9 py-2 rounded font-medium bg-[#296ff6] text-white'
+                  className='px-9 cursor-pointer py-2 rounded font-medium bg-[#296ff6] text-white'
                 >
                   Next
                 </button>
