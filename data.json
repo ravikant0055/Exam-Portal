@@ -3801,6 +3801,730 @@
         "answer": 3,
         "solution": "'Soap' uncountable noun hai iska direct's ya 'es' laga ke plural nahi kar sakte hai. ek se zyada soaps kehne ke liye 'cakes' ya 'bars of soap' likhna padega."
       }
+    ],
+    "Adverb Test 1": [
+      {
+        "id": 1,
+        "question": "Select the sentence with the appropriate use of adverb of manner.",
+        "options": [
+          "He done his work regularly.",
+          "He has just done his work.",
+          "He does his work carefully.",
+          "He has done his work on my table"
+        ],
+        "answer": 3,
+        "solution": "(c) Regularly – Adverb of frequency\nJust – adverb of time\nCarefully – adverb of manner"
+      },
+      {
+        "id": 2,
+        "question": "We seldom or ever/ go out these days/ because it is too cold now a days.",
+        "options": [
+          "We seldom or ever",
+          "go out these days",
+          "because it is too cold now a days",
+          "no error"
+        ],
+        "answer": 1,
+        "solution": "Use ‘seldom or never’ in place of ‘seldom or ever.’\nYeh meaning based question hai.\nseldom if ever - kabhi-kabhar.\nseldom or never- na ke barabar."
+      },
+      {
+        "id": 3,
+        "question": "The child was / gazing longingly / at the toy.",
+        "options": [
+          "gazing longingly",
+          "at the toy",
+          "No error",
+          "The child was"
+        ],
+        "answer": 3,
+        "solution": "(c)\nlongingly = adverb (chahat ke sath.)"
+      },
+      {
+        "id": 4,
+        "question": "Though he was brave / he could not face the ups and downs / of life manly.",
+        "options": [
+          "Though he was brave",
+          "he could not face the ups and downs",
+          "of life manly.",
+          "no error"
+        ],
+        "answer": 3,
+        "solution": "Use in ‘manfully/like a man/ a manly manner’ in place of ‘manly’. Yahan 'could not face' verb ko qualify karne ke liye adverb ki need hai aur 'manly' ek adjective hota hai."
+      },
+      {
+        "id": 5,
+        "question": "Select the sentence with the appropriate use of adverb of frequency.",
+        "options": [
+          "Radha goes to Nagpur with great affection.",
+          "Radha goes to Nagpur for her office work.",
+          "Radha often goes to Nagpur.",
+          "Radha goes to Nagpur to meet her uncle."
+        ],
+        "answer": 3,
+        "solution": "(c)\noften adverb of frequency (aksar)"
+      },
+      {
+        "id": 6,
+        "question": "He was fortunately / not present on / the rostrum when / the bomb exploded.",
+        "options": [
+          "He was fortunately",
+          "not present on",
+          "the rostrum when",
+          "the bomb exploded."
+        ],
+        "answer": 1,
+        "solution": "Use ‘Fortunately he was’ in place of ‘He was fortunately.’\nkyunki 'fortunately' yahan sentence adverb hai isliye sentence ke shuru me use hogi."
+      },
+      {
+        "id": 7,
+        "question": "He describes the place vivid / that inspired in us / a wish to visit / the same.",
+        "options": [
+          "He describes the place vivid",
+          "the same",
+          "a wish to visit",
+          "that inspired in us"
+        ],
+        "answer": 1,
+        "solution": "(a) use ‘vividly’ instead of ‘vivid’ kyunki yahan 'describe' verb ko qualify karne ke liye adverb ki need hai 'vivid' ek adjective hai aur 'vividly' adverb hai."
+      },
+      {
+        "id": 8,
+        "question": "This room is very / beautiful but too much / small to accommodate / all of you.",
+        "options": [
+          "This room is very",
+          "beautiful but too much",
+          "small to accommodate",
+          "all of you"
+        ],
+        "answer": 2,
+        "solution": "Use 'much too' in place of 'too much.' kyunki yahan 'small' adjective ko qualify karne ke liye adverb ki need hai.\ntoo much = adjective\nmuch too = adverb"
+      },
+      {
+        "id": 9,
+        "question": "He always / aimed highly / in life.",
+        "options": [
+          "No error",
+          "in life",
+          "aimed highly",
+          "He always"
+        ],
+        "answer": 3,
+        "solution": "(c) use ‘high’ instead of ‘highly’\n\nhigh(adjective) – ooncha\neg. the house has a high wall\nhigh(adverb) - ooncha ya value ya amount me zyada.\nhe jumped very high.\nYou should aim higher in life.\nhighly(adverb) - very, in praise\nhe is highly successful.\nhe speaks highly of you.\n(wo tumhari bahut tareef karta hai)"
+      },
+      {
+        "id": 10,
+        "question": "Hardly he likes / to hear my name / after the rift which occurred / between him and me.",
+        "options": [
+          "Hardly he likes",
+          "to hear my name",
+          "after the rift which occurred",
+          "between him and me."
+        ],
+        "answer": 1,
+        "solution": "Use ‘Hardly does he like’ in place of ‘Hardly he likes.’ kyunki ye sentence 'hardly' adverb se shuru hua hai isliye inversion ka use hoga."
+      },
+      {
+        "id": 11,
+        "question": "Bobo was / very richer than Jim / as he had illicitly accumulated / all his wealth.",
+        "options": [
+          "very richer than Jim",
+          "all his wealth.",
+          "as he had illicitly accumulated",
+          "Bobo was"
+        ],
+        "answer": 1,
+        "solution": "(a) use ‘much’ instead of ‘very’ kyunki comparative degree ko qualify karne ke liye 'much' ka use kiya jaata hai aur positive degree ke liye 'very' ka."
+      },
+      {
+        "id": 12,
+        "question": "Although he only earns / six hundred rupees a month / he manages to support / his family.",
+        "options": [
+          "Although he only earns",
+          "six hundred rupees a month",
+          "he manages to support",
+          "his family."
+        ],
+        "answer": 1,
+        "solution": "Use ‘earns only’ in place of ‘only earns’. kyunki yahan meaning ye dena hai ki wo sirf 600 rupees kamata hai."
+      },
+      {
+        "id": 13,
+        "question": "Her concerts / are very admired / by the foreigners /no error.",
+        "options": [
+          "are very admired",
+          "by the foreigners.",
+          "No error",
+          "Her concerts"
+        ],
+        "answer": 1,
+        "solution": "(a) use ‘much’ instead of ‘very’ kyunki past participle ko qualify karne ke liye 'much' ka use kiya jaata hai aur present participle ke liye 'very' ka.\nException :- kuchh past participles ke sath bhi 'very' lagaya jaate hai.\neg. very tired, very dejected, very contented, very discontented, very pleased, very drunk, very delighted etc."
+      },
+      {
+        "id": 14,
+        "question": "I am / quite absolutely / fine so I don't / need your help.",
+        "options": [
+          "I am",
+          "quite absolutely",
+          "fine so I don't",
+          "need your help."
+        ],
+        "answer": 2,
+        "solution": "(b) remove 'absolutely' after 'quite.' kyunki 'quite' apne aap me ek absolute adverb hai iske sath aur adverb nahi lagate."
+      },
+      {
+        "id": 15,
+        "question": "He was / paid handsomely for / his ability to handle / the crowd skillful.",
+        "options": [
+          "paid handsomely for",
+          "his ability to handle",
+          "the crowd skillful.",
+          "He was"
+        ],
+        "answer": 3,
+        "solution": "(c) use ‘skillfully’ instead of ‘skillful’ kyunki yahan 'handle' verb ko qualify karne ke liye adverb ki need hai 'skillful' ek adjective hai aur 'skillfully' ek adverb hai."
+      },
+      {
+        "id": 16,
+        "question": "I never remember / to have met a more intelligent / man in my life.",
+        "options": [
+          "I never remember",
+          "to have met a more intelligent",
+          "man in my life",
+          "no error"
+        ],
+        "answer": 1,
+        "solution": "Use 'I remember never to have met a more intelligent man in my life.' or 'I don't remember to have met a more intelligent man in my life.' in place of 'I never remember to have met a more intelligent man in my life'\n\nYeh meaning based error hai.\n\nI never remember to have met a more intelligent man in my life.\n=main kabhi yaad nahi rakhta isse intelligent aadmi se milna meri zindagi me.\n\nI remember never to have met a more intelligent man in my life.\n= mujhe yaad hai main kabhi nahi mila isse zyada intelligent aadmi se meri zindagi me.\n\nI don't remember to have met a more intelligent man in my life.\n= mujhe yaad nahi ki main mila hun isse zyada intelligent aadmi se meri zindagi me."
+      },
+      {
+        "id": 17,
+        "question": "He does not / know how to / draw quickly / and straightly.",
+        "options": [
+          "and straightly",
+          "He does not",
+          "know how to",
+          "draw quickly"
+        ],
+        "answer": 1,
+        "solution": "(a) use ‘straight’ instead of ‘straightly’ kyunki adjective and adverb form dono straight hi hoti hain."
+      },
+      {
+        "id": 18,
+        "question": "The man was / reportedly upset / over his sister’s death / about a fortnight behind.",
+        "options": [
+          "The man was",
+          "reportedly upset",
+          "over his sister’s death",
+          "about a fortnight behind."
+        ],
+        "answer": 4,
+        "solution": "Use ‘ago’ in place of ‘behind.’ kyunki past indefinite ke sath 'ago' ka use hota hai aur iske sath time bhi diya hai.\n2 months ago\n5 hours ago"
+      },
+      {
+        "id": 19,
+        "question": "She is quiet a generous woman / to have donated / such a large amount / for the flood affected people.",
+        "options": [
+          "to have donated",
+          "for the flood affected people.",
+          "such a large amount",
+          "She is quiet a generous woman"
+        ],
+        "answer": 4,
+        "solution": "(d) use ‘quite’ instead of ‘quiet’.\nQuiet (adj) - making very little noise.\nQuite (adv) – completely."
+      },
+      {
+        "id": 20,
+        "question": "We admired / his many / attempts bravely / to enter the burning building.",
+        "options": [
+          "We admired",
+          "his many",
+          "attempts bravely",
+          "to enter the burning building."
+        ],
+        "answer": 3,
+        "solution": "Use 'brave attempts' in place of 'attempts bravely'. sentence ke meaning ke according yahan 'bravely' 'admire' verb ke liye nahi aa sakta. 'brave' ko adjective bana ke attempts ke liye use kiya jayega."
+      },
+      {
+        "id": 21,
+        "question": "My granny says that / it is quite all right / to get married young, / though I do not absolute agree with her a bit on this.",
+        "options": [
+          "My granny says that",
+          "though I do not absolute agree with her a bit on this",
+          "it is quite all right",
+          "to get married young"
+        ],
+        "answer": 2,
+        "solution": "(b) use ‘absolutely’ instead of ‘absolute’ kyunki yahan 'agree' verb ko qualify karne ke liye adverb ki need hai 'absolute' ek adjective hai aur 'absolutely' ek adverb hai."
+      },
+      {
+        "id": 22,
+        "question": "They are working on / a rather interesting project which / will prove a boon to / those living in rural areas",
+        "options": [
+          "They are working on",
+          "a rather interesting project which",
+          "will prove a boon to",
+          "those living in rural areas"
+        ],
+        "answer": 2,
+        "solution": "Use ‘fairly interesting’ in place of ‘rather interesting.’ fairly को favourable adjective (tareef karne wale adjective) ke sath use karte hain aur 'rather' ko generally unfavourable adjectives (burai karne wale adjectives) ke sath."
+      },
+      {
+        "id": 23,
+        "question": "She is / the very ambitious woman / I have ever / come across.",
+        "options": [
+          "I have hard ever",
+          "She is",
+          "the very ambitious woman",
+          "come across"
+        ],
+        "answer": 3,
+        "solution": "(c) use ‘most’ instead of ‘very’ kyunki yahan is woman ka comparison un sab women se ho rha hai jinse 'I' matlab speaker aaj tak mila hai isliye superlative degree ka use hoga."
+      },
+      {
+        "id": 24,
+        "question": "This world is / very much cruel to one /and all of us , however / we love to live it at best.",
+        "options": [
+          "This world is",
+          "very much cruel to one",
+          "and all of us , however",
+          "we love to live it at best"
+        ],
+        "answer": 2,
+        "solution": "Use ‘very cruel’ in place of ‘very much cruel.’ cruel positive degree ka adjective hai iske sath 'much' ka use nahi hoga."
+      },
+      {
+        "id": 25,
+        "question": "He was enough tall / to be admitted / into the armed forces.",
+        "options": [
+          "into the armed forces",
+          "to be admitted",
+          "No error",
+          "He was enough tall"
+        ],
+        "answer": 4,
+        "solution": "(d) use ‘tall enough’ instead of ‘enough tall’ kyunki 'enough' adverb ka use adjective ke baad kiya jaata hai."
+      },
+      {
+        "id": 26,
+        "question": "Of course , you are going / to be a winner, / if you continue to work / with the same spirit.",
+        "options": [
+          "Of course , you are going",
+          "to be a winner,",
+          "if you continue to work.",
+          "with the same spirit"
+        ],
+        "answer": 1,
+        "solution": "Use ‘Certainly’ in place of ‘Of course.’\n\ncertainly- koi kaam jiske hone ki bahut zyada 'probability ho.\n\nof course- koi cheez jo obvious ho.\neg. You will certainly pass the exam, you study hard.\nOf course blood is the thicker that water."
+      },
+      {
+        "id": 27,
+        "question": "The helicopter of the enemies / hovered exact / over their bunker.",
+        "options": [
+          "No error",
+          "hovered exact",
+          "The helicopter of the enemies",
+          "over their bunker"
+        ],
+        "answer": 2,
+        "solution": "(b) use ‘exactly’ instead of ‘exact' kyunki yahan 'over the bunker' adverbial phrase of place ko qualify krane ke liye ek adverb ki need hai isliye 'exactly' adverb aayega na ki 'exact' adjective."
+      },
+      {
+        "id": 28,
+        "question": "I presently received / a piece of news and / it is so shocking that I do not / want to break it to others.",
+        "options": [
+          "I presently received",
+          "a piece of news and",
+          "it is so shocking that I do not",
+          "want to break it to others."
+        ],
+        "answer": 1,
+        "solution": "Use ‘I have just received’ in place of ‘I presently received.’ kyunki sentence ka meaning yeh dena hai ki news just abhi mili hai. Presently future action ke liye use hota hai."
+      },
+      {
+        "id": 29,
+        "question": "The child was irritable / because she had not / soundly slept / the previous night.",
+        "options": [
+          "soundly slept",
+          "The child was irritable",
+          "the previous night",
+          "because she had not"
+        ],
+        "answer": 1,
+        "solution": "(a) use ‘slept soundly’ instead of ‘soundly slept’ kyunki 'adverb of manner' ka use intransitive verb me verb ke baad hota hai."
+      },
+      {
+        "id": 30,
+        "question": "He is too intelligent / to handle the / situation in a / successful manner.",
+        "options": [
+          "He is too intelligent",
+          "to handle the",
+          "situation in a",
+          "successful manner."
+        ],
+        "answer": 1,
+        "solution": "Use ‘intelligent enough’ in place of ‘too intelligent.’\n'too' ka use 'zarurat se zyada' (negative sense) me karte hain. Yahan positive me paryapt wala meaning dena hai isliye 'enough' ka use hoga."
+      }
+    ],
+    "Adverb Test 2": [
+      {
+        "id": 1,
+        "question": "The old man climbed seven floors with hardly no effort at all.",
+        "options": [
+          "climbed",
+          "at all",
+          "The old man",
+          "hardly no effort"
+        ],
+        "answer": 4,
+        "solution": "(d) use ‘any’ instead of ‘no’ kyunki 'hardly' aur 'no' dono negative words hain\nDono ek sath use nahi kiye jayenge, isliye 'hardly' ke baad ek neutral word 'any' lagana padega."
+      },
+      {
+        "id": 2,
+        "question": "My last journey was / none too pleasant and i enjoyed / the allowing sights of flora and fauna / through the tinsel window pan.",
+        "options": [
+          "My last journey was",
+          "none too pleasant and i enjoyed",
+          "the allowing sights of flora and fauna",
+          "through the tinsel window pan"
+        ],
+        "answer": 2,
+        "solution": "Use ‘only too’ in place of ‘none too.’\nnone too = not very\nonly too = very\nYahan 'very' wala meaning dena hai."
+      },
+      {
+        "id": 3,
+        "question": "This question / is quite too / simple for me / to answer.",
+        "options": [
+          "to answer",
+          "is quite too",
+          "This question",
+          "simple for me"
+        ],
+        "answer": 2,
+        "solution": "(b) Remove ‘quite’ kyunki 'quite' ke sath aur koi adverb use nahi karte but aage infinitive diya hai aur 'too + infinitive' ka pair hota hai isliye 'quite' ko hi remove krna padega."
+      },
+      {
+        "id": 4,
+        "question": "So hoarse/he was that he could/not make the speech.",
+        "options": [
+          "So hoarse",
+          "he was that he could",
+          "not make the speech.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use was he in place of he was.\n'so + adverb of manner' se sentence shuru hua hai, aage inversion ka use hoga."
+      },
+      {
+        "id": 5,
+        "question": "There is a very little time / for them to prepare / for the show.",
+        "options": [
+          "for them to prepare",
+          "for the show",
+          "No error",
+          "There is a very little time"
+        ],
+        "answer": 4,
+        "solution": "use ‘too little time’ instead of ‘a very little time’ . sentence me aage infinitive hai isliye 'too' ka use hoga kyunki 'too+infinitive' ka pair hota hai."
+      },
+      {
+        "id": 6,
+        "question": "We should/ keep our belongings/ orderly.",
+        "options": [
+          "We should",
+          "keep our belongings",
+          "orderly",
+          "no error"
+        ],
+        "answer": 3,
+        "solution": "Use in an orderly manner in place of orderly. Yahan 'keep' verb ko qualify karne ke liye adverb ki need hai but 'orderly' ek adjective hota hai. Isliye 'in an orderly manner' adverbial phrase ka use hoga."
+      },
+      {
+        "id": 7,
+        "question": "Aarav’s mother / speaks four languages / fluently.",
+        "options": [
+          "fluently",
+          "Aarav’s mother",
+          "speaks four languages",
+          "No error"
+        ],
+        "answer": 4,
+        "solution": "'speak' verb ke liye 'fluently' adverb ka use hua hai. Is sentence me koi error nahi hai."
+      },
+      {
+        "id": 8,
+        "question": "She does her / work good as she / is a trained nurse.",
+        "options": [
+          "She does her",
+          "work good as she",
+          "is a trained nurse",
+          "no error"
+        ],
+        "answer": 2,
+        "solution": "Use well in place of good\n'does' verb ko qualify karne ke liye adverb ki need hai isliye 'well' ka use hoga.\ngood = adjective\nwell = adverb"
+      },
+      {
+        "id": 9,
+        "question": "The birds flew / fastly above / as we stood / on our terrace.",
+        "options": [
+          "on our terrace",
+          "as we stood",
+          "fastly above",
+          "The birds flew"
+        ],
+        "answer": 3,
+        "solution": "(c) use ‘fast’ instead of ‘fastly’ kyunki 'fast' ki adjective and adverb form 'fast' hi hoti hai."
+      },
+      {
+        "id": 10,
+        "question": "You will find everybody / Saying that it is / the much best movie / ever made in the Indian film industry.",
+        "options": [
+          "You will find everybody",
+          "Saying that it is",
+          "the much best movie",
+          "ever made in the Indian film industry"
+        ],
+        "answer": 3,
+        "solution": "Use 'much the best' or 'by far the best' in place of ‘the much best.’ superlative degree ki intensity badhane ke liye 'much the' ya 'by far the' ka use hota hai."
+      },
+      {
+        "id": 11,
+        "question": "The thief / entered the house, / in the middle of the night, / quiet.",
+        "options": [
+          "entered the house",
+          "in the middle of the night",
+          "The thief",
+          "quiet"
+        ],
+        "answer": 4,
+        "solution": "(d) use ‘quietly’ instead of ‘quiet’ kyunki yahan 'entered' verb ko qualify karne le liye adverb ki need hai 'quiet' ek adjective hai aur 'quietly' ek adverb hai."
+      },
+      {
+        "id": 12,
+        "question": "Not only we lost / what we had on our disposal / but we also / lost our patience.",
+        "options": [
+          "Not only we lost",
+          "what we had on our disposal",
+          "but we also",
+          "lost our patience"
+        ],
+        "answer": 1,
+        "solution": "Use did we lose in place of we lost.\n'not only' se sentence start hua hai isliye aage inversion ka use hoga."
+      },
+      {
+        "id": 13,
+        "question": "The careful crafted personality / of Anahita / did not help her much / in the electoral campaign.",
+        "options": [
+          "The careful crafted personality",
+          "in the electoral campaign",
+          "did not help her much",
+          "of Anahita"
+        ],
+        "answer": 1,
+        "solution": "(a) use ‘carefully’ instead of ‘careful’ kyunki yahan 'crafted' past participle (semi verb) ko qualify karne ke liye adverb ki need hai, 'careful' ek adjective hai aur 'carefully' ek adverb hai"
+      },
+      {
+        "id": 14,
+        "question": "He asked me to / completely forget her /but only I know / how easy it is to say so.",
+        "options": [
+          "He asked me to",
+          "completely forget her",
+          "but only I know",
+          "how easy it is to say so"
+        ],
+        "answer": 2,
+        "solution": "Use 'to forget her completely' in place of 'to completely forget her' kyunki infinitive ko split nahi karte aur adverb of manner 'completely' jo forget ke liye aaya hai use 'forget' ke object 'her' ke baad use krenge."
+      },
+      {
+        "id": 15,
+        "question": "The students / and the teachers / worked hardly / to make the event a success.",
+        "options": [
+          "The students",
+          "and their teachers",
+          "to make the event a success",
+          "worked hardly"
+        ],
+        "answer": 4,
+        "solution": "(d) use ‘hard’ instead of ‘hardly’\n\nHard - with a lot of physical or mental effort:\nHardly - only just; almost not:"
+      },
+      {
+        "id": 16,
+        "question": "Only by working / hard you can /succeed in this exam.",
+        "options": [
+          "Only by working",
+          "hard you can",
+          "succeed in this exam.",
+          "no error"
+        ],
+        "answer": 2,
+        "solution": "(b) Use 'can you succeed' in place of 'you can succeed'. adverb of manner se shuruaat hui hai aage inversion ka use hoga."
+      },
+      {
+        "id": 17,
+        "question": "You must avoid riding in a crowded bus / or travelling in a metro / during rush hour / as both are quiet unpleasant experiences.",
+        "options": [
+          "You must avoid riding in a crowded bus",
+          "during rush hour",
+          "as both are quiet unpleasant experiences",
+          "or travelling in a metro"
+        ],
+        "answer": 3,
+        "solution": "(c) use ‘quite’ instead of ‘quiet’\n\nQuiet (adj) - making very little noise.\nQuite (adv) – completely."
+      },
+      {
+        "id": 18,
+        "question": "She makes often these / types of mistakes that’s why / Mrs. Gomati always shouts at her.",
+        "options": [
+          "She makes often these",
+          "types of mistakes that’s why",
+          "Mrs. Gomati always shouts at her.",
+          "ne"
+        ],
+        "answer": 1,
+        "solution": "Use often makes in place of makes often. kyunki 'often' indefinite adverb of frequency hai jiski position verb se pehle rakhi jaati hai."
+      },
+      {
+        "id": 19,
+        "question": "Deepu’s mother / has repeated asked him / to lower the volume / of his mobile.",
+        "options": [
+          "has repeated asked him",
+          "to lower the volume",
+          "of his mobile",
+          "Deepu’s mother"
+        ],
+        "answer": 1,
+        "solution": "(a) use ‘repeatedly’ instead of ‘repeated’ kyunki yahan 'asked' verb ko qualify karne liye adverb ki zarurat hai 'repeated' ek adjective hai aur 'repeatedly' ek adverb hai."
+      },
+      {
+        "id": 20,
+        "question": "She reacted /yesterday very strangely / when I told her that I / had won a lottery.",
+        "options": [
+          "She reacted",
+          "yesterday very strangely",
+          "when I told her that I",
+          "had won a lottery"
+        ],
+        "answer": 2,
+        "solution": "(b) replace 'yesterday very strangely' with 'very strangely yesterday' .correct sequence of adverbs\n\nMANNER - PLACE - TIME"
+      },
+      {
+        "id": 21,
+        "question": "We are yet living in the same house.",
+        "options": [
+          "We are",
+          "same house",
+          "in the",
+          "yet living"
+        ],
+        "answer": 4,
+        "solution": "(d) use ‘still’ instead of ‘yet’ kyunki 'yet' ka use negative sentence me kiya jaata hai aur 'still' ka use affirmative sentence me kiya jaata hai."
+      },
+      {
+        "id": 22,
+        "question": "Nobody has ever listened to me so attentive.",
+        "options": [
+          "so attentive",
+          "ever listened",
+          "to me",
+          "Nobody has"
+        ],
+        "answer": 1,
+        "solution": "(a) use ‘attentively’ instead of ‘attentive’ kyunki yahan 'listened' verb ko qualify karne ke liye adverb ki zarurat hai 'attentive' ek adjective hai aur 'attentively' ek adverb hai."
+      },
+      {
+        "id": 23,
+        "question": "I learnt to adapt quickly to new schools because we moved to new places quite frequent",
+        "options": [
+          "I learnt to adapt quickly",
+          "we moved to new places",
+          "quite frequent",
+          "to new schools"
+        ],
+        "answer": 3,
+        "solution": "(c) use ‘frequently’ instead of ‘frequent’ kyunki yahan 'moved' verb ko qualify karne ke liye adverb zarurat hai 'frequent' ek adjective hai aur 'frequently' ek adverb hai."
+      },
+      {
+        "id": 24,
+        "question": "No matter he tries hard he cannot play the guitar.",
+        "options": [
+          "No matter",
+          "he tries hard",
+          "he cannot",
+          "play the guitar"
+        ],
+        "answer": 2,
+        "solution": "(b) use ‘No matter how hard he tries’ instead of ‘No matter he tries hard’. kyunki yahan sentence ka meaning ye hai ki 'koi farq nahi padta wo kitni bhi try kar le wo guitar nahi seekh sakta. isliye 'no matter how hard he tries' ka use hoga."
+      },
+      {
+        "id": 25,
+        "question": "They can't hardly believe that Article 370 is no longer valid in Jammu and Kashmir.",
+        "options": [
+          "is no longer valid",
+          "in Jammu and Kashmir.",
+          "that Article 370",
+          "They can't hardly believe"
+        ],
+        "answer": 4,
+        "solution": "(d) Use 'can hardly believe' or ‘can't believe’ in place of ‘can’t hardly believe' kyunki 'double negative' ek sath use nahi honge."
+      },
+      {
+        "id": 26,
+        "question": "Found in many parts of India, the frangipani tree is a small, low –branching tree which is especial used for several medicinal purposes.",
+        "options": [
+          "a small, low –branching tree",
+          "Found in many parts",
+          "The frangipani tree is",
+          "which is especial use"
+        ],
+        "answer": 4,
+        "solution": "(d) replace 'especial used for several medicinal purposes' with 'used especially for several medicinal purposes.’\n\nespecially ek adjective hota yahan 'khaas taur se' wala meaning dena hai 'for medicinal purposes' ke liye isliye 'especially' ka use hoga."
+      },
+      {
+        "id": 27,
+        "question": "She loved herself so more that she thought of no one else.",
+        "options": [
+          "thought of no one else",
+          "No error",
+          "so more that she",
+          "She loved herself"
+        ],
+        "answer": 3,
+        "solution": "(c) use ‘much’ instead of ‘more’ kyunki yahan kisi aur se comparison nahi hai toh comparative degree nahi lagegi. so adverb positive degree adjective ke liye aati hai ye bhi ek hint hai."
+      },
+      {
+        "id": 28,
+        "question": "I know that he wanted to go home earliest.",
+        "options": [
+          "go home earlies",
+          "I know that",
+          "No error",
+          "he wanted to"
+        ],
+        "answer": 1,
+        "solution": "(a) use ‘early या at the earliest’ instead of ‘earliest’\nearly - jaldi\nat the earliest - jitna jaldi ho sake."
+      },
+      {
+        "id": 29,
+        "question": "He has never/ supported me, nor you have.",
+        "options": [
+          "He has never",
+          "supported me,",
+          "nor you have.",
+          "No error"
+        ],
+        "answer": 3,
+        "solution": "nor have you. negative statement ka addition to statement structure\nneither/nor + helping verb + subject banta hai."
+      },
+      {
+        "id": 30,
+        "question": "This is a most / important chapter so you / should study it carefully.",
+        "options": [
+          "This is a most",
+          "important chapter so you",
+          "should study it carefully.",
+          "no error"
+        ],
+        "answer": 4,
+        "solution": "(d) no error\n\nYahan is chapter ka kisi aur chapter se comparison nahi hai isliye yahan superlative degree ka use nahi hoga. 'most' adverb ka matlab 'very' bhi hota hai.\n\nthis is a most important chapter = this is a very important chapter.\n\nNote:- agar ye sentence esa hota:\nthis is a most important chapter in your syllabus...\ntab is chapter ka comparison syllabus ke baaki chapters se mana jaata aur tab 'a most' ki jagah 'the most' ka use karte."
+      }
     ]
   }
 }
