@@ -4525,6 +4525,1458 @@
         "answer": 4,
         "solution": "(d) no error\n\nYahan is chapter ka kisi aur chapter se comparison nahi hai isliye yahan superlative degree ka use nahi hoga. 'most' adverb ka matlab 'very' bhi hota hai.\n\nthis is a most important chapter = this is a very important chapter.\n\nNote:- agar ye sentence esa hota:\nthis is a most important chapter in your syllabus...\ntab is chapter ka comparison syllabus ke baaki chapters se mana jaata aur tab 'a most' ki jagah 'the most' ka use karte."
       }
-    ]
+    ],
+    "Article Test 1": [
+      {
+        "id": 1,
+        "question": "It was / the very well-directed film / and we enjoyed it.",
+        "options": [
+          "and we enjoyed it",
+          "the very well-directed film",
+          "No error",
+          "It was"
+        ],
+        "answer": 2,
+        "solution": "use ‘a’ instead of ‘the’ kyunki yahan movie ke baare me first time baat hui hai sentence me pehle iska koi zikr nahi hai. article ka meaning bhi 'ek' wala aa rha hai.\n'veh ek well directed film thi'"
+      },
+      {
+        "id": 2,
+        "question": "Brahmaputra is /one of the longest rivers /that originate /in the Himalyas",
+        "options": [
+          "Brahmaputra is",
+          "one of the longest rivers",
+          "that originate",
+          "in the Himalyas"
+        ],
+        "answer": 1,
+        "solution": "Use The before Brahmaputra. River ke name se pehle 'the' article ka use hoga."
+      },
+      {
+        "id": 3,
+        "question": "It was a surprising / to receive the gift/ from my brother.",
+        "options": [
+          "No error",
+          "It was a surprising",
+          "from my brother",
+          "to receive the gift"
+        ],
+        "answer": 2,
+        "solution": "Remove a use ‘ it was surprising/it was a surprise ’ ka use karen, kyunki article ka use noun ke liye kiya jaata hai yahan 'surprising' koi noun nahi present participle (adjective) hai."
+      },
+      {
+        "id": 4,
+        "question": "This is /the most important /question which you have /to prepare very carefully.",
+        "options": [
+          "This is",
+          "the most important",
+          "question which you have",
+          "to prepare very carefully"
+        ],
+        "answer": 2,
+        "solution": "Use ‘a’ in place of ‘the.’\na most important question = a very important question\nYeh adverb chapter ka concept hai. 'most' ka matlab 'very' bhi hota hai. Yahan is question ki tulna kisi aur question se nahi karni hai isliye superlative degree 'most' ka use nahi hoga."
+      },
+      {
+        "id": 5,
+        "question": "Antique diamond necklace / was stolen / from the museum.",
+        "options": [
+          "was stolen",
+          "from the museum",
+          "Antique diamond necklace",
+          "No error"
+        ],
+        "answer": 3,
+        "solution": "use ‘an’ before antique diamond necklace kyunki singular countable noun se pehle article lagate hain."
+      },
+      {
+        "id": 6,
+        "question": "He went for the lunch /at 1 pm and then /returned.",
+        "options": [
+          "He went for the lunch",
+          "at 1 pm and then",
+          "returned",
+          "No Error"
+        ],
+        "answer": 1,
+        "solution": "Remove the before lunch. kyunki meal ke name se pehle article use nahi karte."
+      },
+      {
+        "id": 7,
+        "question": "Athens was / a most luminous / of all city-states / of ancient Greece.",
+        "options": [
+          "Athens was",
+          "of all city-states",
+          "of ancient Greece",
+          "a most luminous"
+        ],
+        "answer": 4,
+        "solution": "use ‘the most’ instead of ‘a most’ kyunki yahan 'athens' ka greece ki baaki ancient cities ke sath comparison karna hai, isliye superlateive degree lagegi.\na most = very\nthe most :- superlative degree banane ke liye use hota hai."
+      },
+      {
+        "id": 8,
+        "question": "When the principal entered the classroom /all boys shook /in their shoes.",
+        "options": [
+          "When the principal entered the classroom",
+          "all boys shook",
+          "in their shoes.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use all the boys in place of all boys.\nAll+ the +noun = particular\nAll + noun = general\nYahan us particular class ke ladkon ki baat ho rahi hai isliye 'all the boys' aayega."
+      },
+      {
+        "id": 9,
+        "question": "Sunil refused to / attend the meeting / of association on Saturday.",
+        "options": [
+          "No error",
+          "Sunil refused to",
+          "of association on Saturday",
+          "attend the meeting"
+        ],
+        "answer": 3,
+        "solution": "use ‘the’ before association kyunki singular countable noun se pehle article lagate hain aur sentence ke meaning ke according yahan ek particular association ki baat ho rhi hai isliye 'the association' aayega."
+      },
+      {
+        "id": 10,
+        "question": "The stadium was full/ of spectators/ from one end to other.",
+        "options": [
+          "The stadium was full",
+          "of spectators",
+          "from one end to other.",
+          "No Error"
+        ],
+        "answer": 3,
+        "solution": "Use the other in place of other\nYahan meaning dena hai 'ek end se dusre end tak' toh dusra end specific hai isliye 'the other end' ka use hoga."
+      },
+      {
+        "id": 11,
+        "question": "Ronaldo is / a famous / player of / the football.",
+        "options": [
+          "Ronaldo is",
+          "a famous",
+          "player of",
+          "the football"
+        ],
+        "answer": 4,
+        "solution": "Remove ‘the’ football proper noun hai 'games' ke names ke sath article nahi lagate kyunki wo generally proper noun hote hain."
+      },
+      {
+        "id": 12,
+        "question": "An ancient /considered that /knowledge had its limits.",
+        "options": [
+          "An ancient",
+          "considered that",
+          "knowledge had its limits.",
+          "No error"
+        ],
+        "answer": 1,
+        "solution": "Use The ancient in place of An ancient. the rich = rich people\nthe blind = blind people\nese hi.\nthe ancient = ancient people (purvaz)"
+      },
+      {
+        "id": 13,
+        "question": "There was an interesting article in the newspaper about the dangers to an environment.",
+        "options": [
+          "to an environment",
+          "in the newspaper",
+          "about the dangers",
+          "an interesting article"
+        ],
+        "answer": 1,
+        "solution": "use ‘the environment’ instead of ‘an environment’ kyunki environment, atmosphere, sky, etc. ek hi hain isliye wo sabke liye same hain (speaker and listener dono ke liye) isliye unke pehle 'the' article ka use hota hai."
+      },
+      {
+        "id": 14,
+        "question": "I felt privileged / to recite a poem in an honour of my teacher / at a recent school function.",
+        "options": [
+          "I felt privileged",
+          "to recite a poem in an honour of my teacher",
+          "at a recent school function",
+          "No Error"
+        ],
+        "answer": 2,
+        "solution": "Use the honour in place of an honour.\n‘of my teacher’ adjectival phrase se 'honour' noun specific kiya gaya hai isliye 'the honour' ka use hoga."
+      },
+      {
+        "id": 15,
+        "question": "The sea has become / an cheap dumping ground / for all kinds / of waste products.",
+        "options": [
+          "of waste products",
+          "an cheap dumping ground",
+          "for all kinds",
+          "The sea has become"
+        ],
+        "answer": 2,
+        "solution": "use ‘a’ instead of ‘an’ kyunki article 'an' ka use vowel sounding words se pehle ke liye kiya jaata hai jabki article 'a' ka use consonant sounding words se pehle kiya jaata hai."
+      },
+      {
+        "id": 16,
+        "question": "The accelerating pace of life in our metropolitan city / has had the tremendous effect/ on the culture and life-style of the people.",
+        "options": [
+          "The accelerating pace of life in our metropolitan city",
+          "has had the tremendous effect",
+          "on the culture and life-style of the people.",
+          "No Error"
+        ],
+        "answer": 2,
+        "solution": "Use a tremendous effect in place of the tremendous effect. Yahan tremendous effect ka jikr first time kiya gya hai aur article ka meaning 'ek' wala aa rha hai.\nCulture pe ek tremendous effect.\nIsliye 'a' tremendous effect' ka use hoga."
+      },
+      {
+        "id": 17,
+        "question": "Four of earliest civilisations / of the world / were located / on the banks of or near large rivers.",
+        "options": [
+          "were located on the banks of",
+          "of the world",
+          "Four of earliest civilisations",
+          "or near large rivers"
+        ],
+        "answer": 3,
+        "solution": "use ‘the’ before earliest kyunki superlative degree ke pehle definite article 'the' ka use kiya jaata hai."
+      },
+      {
+        "id": 18,
+        "question": "Now that she is living in her own flat,/ she cleans the windows, / twice a week in the summer and once a week in the winter.",
+        "options": [
+          "Now that she is living in her own flat,",
+          "she cleans the windows,",
+          "twice a week in the  summer and once a week in the winter.",
+          "No Error"
+        ],
+        "answer": 3,
+        "solution": "Remove the before ‘summer’ and ‘winter’ seasons ke name se pehle article ka use nahi karte."
+      },
+      {
+        "id": 19,
+        "question": "Do you mind lending me your book for a hour?",
+        "options": [
+          "Do you mind",
+          "your book",
+          "for a hour",
+          "lending me"
+        ],
+        "answer": 3,
+        "solution": "use ‘an’ instead of ‘a’ kyunki article 'an' ka use vowel sounding words se pehle ke liye kiya jaata hai jabki article 'a' ka use consonant sounding words se pehle kiya jaata hai."
+      },
+      {
+        "id": 20,
+        "question": "He has taught / me how to play / flute / without taking much time.",
+        "options": [
+          "He has taught",
+          "your book",
+          "flute",
+          "without taking much time"
+        ],
+        "answer": 3,
+        "solution": "Use the flute in place of flute.\n\nmusical instruments ke name se pehle 'the' article ka use karte hain."
+      },
+      {
+        "id": 21,
+        "question": "The captain scored a century in a second innings.",
+        "options": [
+          "scored a century",
+          "in a",
+          "The captain",
+          "second innings"
+        ],
+        "answer": 2,
+        "solution": "use ‘the’ instead of ‘a’ kyunki second ek ordinal hai aur iske use se 'innings' noun specific ho gya isliye 'the second innings' ka use hoga."
+      },
+      {
+        "id": 22,
+        "question": "He is not that /kind of a person who/ will go back on his words.",
+        "options": [
+          "He is not that",
+          "kind of a person who",
+          "will go back on his words.",
+          "no error"
+        ],
+        "answer": 2,
+        "solution": "Use 'kind of person' in place of 'kind of a person' 'kind/type/sort + of + noun' is structure me noun se pehle article ka use nahi karte."
+      },
+      {
+        "id": 23,
+        "question": "Whole country applauded the courage of our soldiers.",
+        "options": [
+          "courage of",
+          "our soldiers",
+          "Whole country",
+          "applauded the"
+        ],
+        "answer": 3,
+        "solution": "use ‘the’ before whole generally whole adjective se pehle 'the' article ka use hota hai kyunki ye kisi definite cheez ki complete quantity ko refer karta hai."
+      },
+      {
+        "id": 24,
+        "question": "Children enjoy listening to/ ghost stories / especially on Halloween night.",
+        "options": [
+          "Children enjoy listening to",
+          "ghost stories",
+          "especially on Halloween night.",
+          "No Error"
+        ],
+        "answer": 3,
+        "solution": "Use The Halloween night in place of Halloween night. Yahan 'special night' ki baat ho rahi hai jaise\non the diwali night\non the Christmas night\non the Halloween night\n\nNote:- Halloween angrezon ke ek festival ka naam hai."
+      },
+      {
+        "id": 25,
+        "question": "When I met Akbar Padamsee, one of a pioneers of Indian art, he was 87 but still alert and active.",
+        "options": [
+          "When I met",
+          "he was 87",
+          "one of a pioneers of Indian art",
+          "but still alert and active"
+        ],
+        "answer": 3,
+        "solution": "use ‘the’ instead of ‘a’ kyunki yahan 'pioneers' plural noun hai iske sath 'a' ka use nahi kiya jaa sakta hai, aur yahan 'pioneers' specific noun hai isliye definite article 'the' ka use karenge."
+      },
+      {
+        "id": 26,
+        "question": "On my request, / Navendera introduced me / to his girl friend / who is a singer and a dancer.",
+        "options": [
+          "On my request,",
+          "Navendera introduced me",
+          "to his girl friend",
+          "who is a singer and a dancer"
+        ],
+        "answer": 4,
+        "solution": "Use a singer and dancer in place of a singer and a dancer. ek hi person ko refer karne ke liye jab 2 nouns likhe jayen toh article sirf pehle wale ke sath lagate hain."
+      },
+      {
+        "id": 27,
+        "question": "Most of voters in Taiwan seem to have once again voted for the democratic party and President Tsai Ing-wen.",
+        "options": [
+          "the democratic party",
+          "in Taiwan seem to have",
+          "once again voted for",
+          "Most of voters"
+        ],
+        "answer": 4,
+        "solution": "use ‘Most of the voters in taiwan' in place of 'most of voters in taiwan' kyunki yahan 'voters' specific hain 'taiwan ke voters' isliye definite article 'the' ka use krenge."
+      },
+      {
+        "id": 28,
+        "question": "Gold / of South Africa / is exported to many countries.",
+        "options": [
+          "Gold",
+          "of South Africa",
+          "is exported to many countries",
+          "No Error"
+        ],
+        "answer": 1,
+        "solution": "Use The gold in place of Gold. Yahan specific type ke gold ki baat ho rahi hai."
+      },
+      {
+        "id": 29,
+        "question": "I think Virat Kohli will remain the captain of the Indian team in a year 2020.",
+        "options": [
+          "of the Indian team",
+          "in a year 2020",
+          "will remain",
+          "the captain"
+        ],
+        "answer": 2,
+        "solution": "use ‘the’ instead of ‘a’ kyunki yahan 'particular year' ki baat ho rhi hai isliye 2020 ek specific noun hai isliye definite article 'the' ka use karenge."
+      },
+      {
+        "id": 30,
+        "question": "The honesty / is one of the most essential qualities / for anyone to get respect in society.",
+        "options": [
+          "The honesty",
+          "is one of the most essential qualities",
+          "for anyone to get respect in society.",
+          "No Error"
+        ],
+        "answer": 1,
+        "solution": "Remove the before honesty. kyunki 'honesty' ek abstract noun hai jo yahan generalised sense me use ho rha hai isliye isse pehle kisi article ka use nahi hoga."
+      }
+    ],
+    "Article Test 2": [
+      {
+        "id": 1,
+        "question": "We were busy at the work and went for lunch only at 30 pm.",
+        "options": [
+          "We were busy",
+          "at the work",
+          "only at 30 pm",
+          "and went for lunch"
+        ],
+        "answer": 2,
+        "solution": "Remove ‘the’ kyunki 'at work/home' ye kuchh ek fix phrases hain.\nNote :- ese fix phrases ka reading se hi pta chalta hai inka koi grammar ka logic nahi hai."
+      },
+      {
+        "id": 2,
+        "question": "Kalidasa lived long before /Shakespeare so Shakespeare should /have been known as Kalidasa of England.",
+        "options": [
+          "Kalidasa lived long before",
+          "Shakespeare so Shakespeare should",
+          "have been known as Kalidasa of England.",
+          "No error"
+        ],
+        "answer": 3,
+        "solution": "Use the Kalidasa of England in place of Kalidas of  England\nKyunki yahan 'kalidasa' ko proper noun ki tarah nahi common noun ki tarah use kiya gya aur 'of England' phrase ki wajah se wo specific ho gya isliye 'the kalidasa' ka use hoga."
+      },
+      {
+        "id": 3,
+        "question": "The Prime Minister is holding the important meeting to review the security and safety of the doctors working in government hospitals.",
+        "options": [
+          "of the doctors",
+          "working in",
+          "to review",
+          "is holding the"
+        ],
+        "answer": 4,
+        "solution": "use ‘an important ’ instead of ‘the important meeting’ kyunki yahan meeting ki baat first time ki gayi hai aur meaning bhi 'ek important meeting' nikal raha hai isliye 'the' nahi 'an' article ka use."
+      },
+      {
+        "id": 4,
+        "question": "He said /that he did not feel /any need to discuss /the episode in the detail.",
+        "options": [
+          "He said",
+          "that he did not feel",
+          "any need to discuss",
+          "the episode in the detail"
+        ],
+        "answer": 4,
+        "solution": "Use in detail in place of in the detail\nkyunki 'in detail' ek fix phrase.\nNote:- ese fix phrases ka reading se hi pata chalta hai inka koi grammar ka logic nahi hai."
+      },
+      {
+        "id": 5,
+        "question": "Does an English examination begin at 10 o’clock?",
+        "options": [
+          "10 o’clock?",
+          "English examination",
+          "begin at",
+          "Does an"
+        ],
+        "answer": 4,
+        "solution": "use ‘the English examination ’ instead of ‘an English examination ’ kyunki sentence ke meaning se pata chal raha hai ki puchhne wala kisi 'particular examination' ka 'time' puchh rha hai. Meaning se yeh baat clear hai ki 'speaker' aur 'listener' dono ko yeh pata hai ki kis exam ki baat ho rhi hai isliye 'the english examination' ka use hoga."
+      },
+      {
+        "id": 6,
+        "question": "He boasts of /having good knowledge /of mathematics but everybody /knows how far he is good at mathematics.",
+        "options": [
+          "He boasts of",
+          "having good knowledge",
+          "of mathematics but everybody",
+          "knows how far he is good at mathematics."
+        ],
+        "answer": 2,
+        "solution": "Use a good knowledge in place of good knowledge\nwaise toh 'knowledge' uncountable noun hai but iske sath 'a good' phrase ka use allowed hai quantity ko refer karne ke liye, jaise 'a lot of/ a plenty of' etc. phrases ka use quantity ko dikhane ke liye hota hai yahan 'a good knowledge' ka meaning hai 'kaafi knowledge'"
+      },
+      {
+        "id": 7,
+        "question": "To write a poem I need a pen, a diary and also the quiet place.",
+        "options": [
+          "a diary",
+          "To write",
+          "and also the",
+          "I need"
+        ],
+        "answer": 3,
+        "solution": "Use ‘a quiet place’ instead of ‘the quiet place’\nkyunki yahan is place ki baat first time hui hai aur meaning bhi nikal raha hai 'ek quiet place'."
+      },
+      {
+        "id": 8,
+        "question": "When the house was /set on the fire, all the people /started crying at the top /of their voices.",
+        "options": [
+          "When the house was",
+          "set on the fire, all the people",
+          "started crying at the top",
+          "of their voices"
+        ],
+        "answer": 2,
+        "solution": "Use set on fire in place of set on the fire\n'Fire' noun ka use jab general aag wale meaning me karte hain toh yeh uncountable hota hai aur iske sath koi article nahi lagate."
+      },
+      {
+        "id": 9,
+        "question": "Due to a last minute snag, the mission on a moon had to be cancelled.",
+        "options": [
+          "on a moon",
+          "Due to a last minute snag",
+          "the mission",
+          "had to be cancelled"
+        ],
+        "answer": 1,
+        "solution": "Use ‘the’ instead of ‘a’\nkyunki 'celestial body' se pehle 'the' article ka use kiya jaata hai."
+      },
+      {
+        "id": 10,
+        "question": "I don’t like /that type of a man /who does nothing but /find out faults with others.",
+        "options": [
+          "I don’t like",
+          "that type of a man",
+          "who does nothing but",
+          "find out faults with others."
+        ],
+        "answer": 2,
+        "solution": "Use type of man in place of type of a man\n'Kind/type/sort + of + noun' is structure me noun se pehle article ka use nahi karte."
+      },
+      {
+        "id": 11,
+        "question": "With this heat wave on, we are having a terrible weather.",
+        "options": [
+          "heat wave on",
+          "a terrible weather",
+          "with this",
+          "we are having"
+        ],
+        "answer": 2,
+        "solution": "Remove ‘a’\nkyunki 'weather' ek uncountable noun hai, aur uncountable noun ke pehle 'a/an' ka use nahi kiya jaata hai."
+      },
+      {
+        "id": 12,
+        "question": "In 2016 after some unseemly back-and-forth to the commons and Lords, it was decided that Act of Parliament should no longer be printed on calfskin.",
+        "options": [
+          "It was decided",
+          "to the commons and Lords",
+          "after some unseemly back-and-forth",
+          "should no longer be printed on calfskin"
+        ],
+        "answer": 2,
+        "solution": "Use ‘the’ before Lords\nkyunki yahan 'commons' aur 'lords' do alag-alag category hain isliye 'lords' ke pehle article 'the' ka use kiya jayega."
+      },
+      {
+        "id": 13,
+        "question": "Tesla designed system for sending electricity over the air through a series of enormous towers.",
+        "options": [
+          "for sending electricity",
+          "Tesla designed system",
+          "through a series of enormous towers",
+          "over the air"
+        ],
+        "answer": 2,
+        "solution": "Use ‘a’ before system\nkyunki 'singular countable noun' bina article ke use nahi kiya jaata."
+      },
+      {
+        "id": 14,
+        "question": "After knowing truth, the jury took the right decision in the case.",
+        "options": [
+          "After knowing truth",
+          "In the case",
+          "No error",
+          "The jury took the right decision"
+        ],
+        "answer": 1,
+        "solution": "Use 'knowing the truth' instead of 'knowing truth'\nTruth (sachchai) ek hi hoti hai isliye use specific maan ke uske sath 'the' article ka use kiya jaata hai."
+      },
+      {
+        "id": 15,
+        "question": "Aniket lives in the small apartment in the suburbs.",
+        "options": [
+          "Aniket lives",
+          "in the small apartment",
+          "in the suburbs",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use 'a small apartment' instead of 'the small apartment'\nKyunki yahan 'apartment' ki baat first time hui hai aur meaning bhi ek 'small apartment' aa rha hai."
+      },
+      {
+        "id": 16,
+        "question": "The present-century threats to our environment, which include interfering species, ailments, pollution and a boiling temperature, were putting wildlife populations at peril.",
+        "options": [
+          "which include interfering species, ailments, pollution, and",
+          "The present-century threats to our environment",
+          "a boiling temperature, were putting wildlife populations at peril",
+          "No error"
+        ],
+        "answer": 3,
+        "solution": "Remove 'a' before boiling temperature\nKyunki yahan temperature (tapman) uncountable noun ki tarah use hua hai."
+      },
+      {
+        "id": 17,
+        "question": "Sky appears blue as it absorbs all colours and reflects only blue.",
+        "options": [
+          "Sky appears blue",
+          "all colours and",
+          "as it absorbs",
+          "reflects only blue"
+        ],
+        "answer": 1,
+        "solution": "Use 'the' article before sky\nKyunki sky, atmosphere, environment ye esi cheezen hain jo 'speaker' aur 'listener' done ke liye ek hi hoti hain isliye inse pehle 'the' article ka use kiya jaata hai."
+      },
+      {
+        "id": 18,
+        "question": "It was by a chance he saw a movie in a theatre.",
+        "options": [
+          "A",
+          "No error",
+          "B",
+          "C"
+        ],
+        "answer": 3,
+        "solution": "Use 'by chance' instead of 'by a chance'\nKyunki 'by chance' ek fixed phrase hai."
+      },
+      {
+        "id": 19,
+        "question": "You can fool some of the people all the time, and all the people some of the time; but you cannot fool all the people all the time.",
+        "options": [
+          "You can fool some of the people all the time",
+          "but you cannot fool all the people all the time.",
+          "and all the people some of the time",
+          "No error"
+        ],
+        "answer": 4,
+        "solution": "No error\nNote :- yeh sentence kisi ko dhokadhadi ke kaam chhodne ke liye advice ke roop me bola gya hai."
+      },
+      {
+        "id": 20,
+        "question": "He will return in a hour.",
+        "options": [
+          "He will",
+          "hour",
+          "return",
+          "in a"
+        ],
+        "answer": 4,
+        "solution": "Use 'an hour' in place of 'a hour'\n'hour' me 'h' silent hota hai isliye yeh vowel sound ka ho jaata hai."
+      },
+      {
+        "id": 21,
+        "question": "She was waiting for a opportunity to start her own business.",
+        "options": [
+          "She was waiting",
+          "own business",
+          "to start her",
+          "for a opportunity"
+        ],
+        "answer": 4,
+        "solution": "Use 'an' in place of 'a'\nKyunki vowel sound ke pehle 'a' nahi 'an' lagta hai."
+      },
+      {
+        "id": 22,
+        "question": "This will be most difficult of the adjustments we have to make because we have been used to spending a lot on guests.",
+        "options": [
+          "the adjustments we have to make",
+          "spending a lot on guests",
+          "This will be most difficult of",
+          "because we have been used to"
+        ],
+        "answer": 3,
+        "solution": "Use 'the' before most\nSuperlative degree se pehle 'the' article ka use hota hai."
+      },
+      {
+        "id": 23,
+        "question": "Maruti likes adventure stories, especially an adventures of Tarzan.",
+        "options": [
+          "Maruti likes",
+          "stories, especially",
+          "adventure",
+          "an adventures of"
+        ],
+        "answer": 4,
+        "solution": "Use 'the adventures of Tarzan' instead of 'an adventures of Tarzan'\nAdventures noun plural hai iske sath 'an' article nahi aayega. Yeh ek title bhi hai jisme 'the' already hota hai."
+      },
+      {
+        "id": 24,
+        "question": "The historians are a great asset to the field of academia.",
+        "options": [
+          "The historians",
+          "asset to the",
+          "are a great",
+          "field of academia"
+        ],
+        "answer": 1,
+        "solution": "Remove 'the' before historians\nYahan sab historians (plural noun) ki generalised sense me baat ho rahi hai isliye yahan koi article nahi aayega."
+      },
+      {
+        "id": 25,
+        "question": "Anti-party activities improved my relations with an opposition.",
+        "options": [
+          "with an opposition",
+          "Anti-party activities",
+          "No error",
+          "Improved my relations"
+        ],
+        "answer": 1,
+        "solution": "Use 'the opposition' in place of 'an opposition’\nThe ruling party - satta paksha, the opposition - vipaksha; yeh dono specific hote hain isliye inse pehle 'the' article ka use hota hai."
+      },
+      {
+        "id": 26,
+        "question": "She is in an hurry to meet her brother.",
+        "options": [
+          "an hurry",
+          "She is in",
+          "her brother",
+          "to meet"
+        ],
+        "answer": 1,
+        "solution": "Use 'in a hurry' instead of 'in an hurry'\nConsonant sound ke sath 'an' nahi 'a' article ka use hota hai. 'In a hurry' ek fix phrase hai."
+      },
+      {
+        "id": 27,
+        "question": "I love to read certain stories from a Mahabharata.",
+        "options": [
+          "to",
+          "a",
+          "Certain",
+          "love"
+        ],
+        "answer": 2,
+        "solution": "Use 'the Mahabharata' in place of 'a Mahabharata'\nEpics or holy books ke naam se pehle 'the' article lagta hai."
+      },
+      {
+        "id": 28,
+        "question": "The more he got to know her, more he got attracted towards her.",
+        "options": [
+          "The more he",
+          "got to know her,",
+          "more he got",
+          "attracted towards her"
+        ],
+        "answer": 3,
+        "solution": "Use 'the more' instead of 'more'\nGradual increase/decrease wale structure me dono clause se pehle 'the comparative' ka use hota hai."
+      },
+      {
+        "id": 29,
+        "question": "The president rewarded that soldier for an exceptional bravery that he showed in the war.",
+        "options": [
+          "The president rewarded",
+          "that soldier for",
+          "an exceptional bravery",
+          "that he showed in the war."
+        ],
+        "answer": 3,
+        "solution": "Use 'the exceptional bravery' instead of 'an exceptional bravery’\nYahan bravery specific hai jo us soldier ne war me dikhayi thi."
+      },
+      {
+        "id": 30,
+        "question": "The student ought to respect his teachers and should be obedient.",
+        "options": [
+          "The student ought to",
+          "respect his",
+          "teachers and should",
+          "be obedient."
+        ],
+        "answer": 1,
+        "solution": "Use 'a student' instead of 'the student'\nKyunki yahan kisi specific student ki nahi balki ek general student ki baat ho rhi hai."
+      }
+    ],
+    "SVA Test 1": [
+      {
+        "id": 1,
+        "question": "Rehan and Ronit are / good friends and / it don’t matter to them / as to who is wealthier.",
+        "options": [
+          "good friends and",
+          "it don’t matter to them",
+          "Rehan and Ronit are",
+          "as to who is wealthier"
+        ],
+        "answer": 2,
+        "solution": "use ‘doesn’t’ instead of ‘don’t’ kyunki yahan subject 'it' hai jo ki singular aayegi 'doesn't'"
+      },
+      {
+        "id": 2,
+        "question": "Each and every man, /woman and child were given /food yesterday evening.",
+        "options": [
+          "Each and every man,",
+          "woman and child were given",
+          "food yesterday evening.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use was in place of were\nagar distributive adjective ka use kiya jaaye toh bhale hi nouns 'and' se join kiye gaye ho verb singular verb aati hai."
+      },
+      {
+        "id": 3,
+        "question": "Neither the doctors nor / the nurse were present / when the patient / reached the hospital.",
+        "options": [
+          "Neither the doctors nor",
+          "the nurse were present",
+          "when the patient",
+          "reached the hospital."
+        ],
+        "answer": 2,
+        "solution": "use ‘was’ instead of ‘were’ kyunki agar do nouns neither…nor, either…..or, not only……but also, or, se connected ho tab verb, verb ke paas wale subject ke according aati hai, isliye yahan verb 'nurse' ke according singular aayegi."
+      },
+      {
+        "id": 4,
+        "question": "Five hours are too /short a time to/judge one’s character.",
+        "options": [
+          "Five hours are too",
+          "short a time to",
+          "judge one’s character.",
+          "No error"
+        ],
+        "answer": 1,
+        "solution": "Use is in place of are\nkyunki time, value, weight and length ko dikhane wale words jab ek unit ki tarah kaam karte hai toh unhe uncountable ki tarah treat kiya jaata hai."
+      },
+      {
+        "id": 5,
+        "question": "Both Reeta and Ronika / has won / the dance competition / this year.",
+        "options": [
+          "the dance competition",
+          "this year.",
+          "Both Reeta and Ronika",
+          "has won"
+        ],
+        "answer": 4,
+        "solution": "use ‘have’ instead of ‘has’ kyunki yahan 'Rita' aur 'Ronika' dono subject 'and' conjunction se joined hain isliye verb plural aayegi.\nNote:- 'both' koi distributive adjective nahi hai."
+      },
+      {
+        "id": 6,
+        "question": "The horse and /carriage have been standing at /the door for two hours.",
+        "options": [
+          "The horse and",
+          "carriage have been standing at",
+          "the door for two hours.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use has in place of have. yahan is sentence me 'the horse and carriage' (ghoda baggi) ek unit ki tarah kaam kar raha hai isliye verb singular aayegi."
+      },
+      {
+        "id": 7,
+        "question": "They all, except Shirin, were very sad / during the farewell party given / to the teacher retiring, and her / indifference were well noticed.",
+        "options": [
+          "They all, except Shirin, were very sad",
+          "during the farewell party given",
+          "indifference were well noticed",
+          "to the teacher retiring, and he"
+        ],
+        "answer": 3,
+        "solution": "use ‘was’ instead of ‘were’ kyunki yahan subject 'indifference' hai isliye singular verb aayegi."
+      },
+      {
+        "id": 8,
+        "question": "More persons /than one has been /involved in this quarrel.",
+        "options": [
+          "More persons",
+          "than one has been",
+          "involved in this quarrel.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use have in place of has.\nMore than one + noun(singular) + verb(singular)\nMore + noun(plural) + than one + verb(plural)"
+      },
+      {
+        "id": 9,
+        "question": "The boy, as well as / his friends, were / absent from the class / when the teacher came.",
+        "options": [
+          "absent from the class",
+          "when the teacher came",
+          "his friends, were",
+          "The boy, as well as"
+        ],
+        "answer": 3,
+        "solution": "use ‘was’ instead of ‘were’ kyunki as well as, except, in addition to, with, along with etc. yeh sab prepositional phrases hain isliye inke baad aane wala noun inka object ho jaata hai aur verb first wale noun ke according aati hai."
+      },
+      {
+        "id": 10,
+        "question": "It is I who has /always helped you /in time of need.",
+        "options": [
+          "It is I who has",
+          "always helped you",
+          "in time of need.",
+          "No error"
+        ],
+        "answer": 1,
+        "solution": "Use have in place of has.\nwho relative pronoun ka apna koi number gender nahi hota ye jisko refer karta hai usi ke according verb leta hai yahan yeh 'I' pronoun ke liye aaya hai isliye verb 'I' according 'have' aayegi."
+      },
+      {
+        "id": 11,
+        "question": "Children listens to people / speaking around them / for a long time before / they begin to speak.",
+        "options": [
+          "Children listens to people",
+          "speaking around them",
+          "they begin to speak",
+          "for a long time before"
+        ],
+        "answer": 1,
+        "solution": "use ‘listen’ instead of ‘listens’ kyunki 'child' ka plural children hota hai aur yahan subject 'children' hai toh iske according plural verb 'listen' aayegi."
+      },
+      {
+        "id": 12,
+        "question": "Many a profound thinker / believe that the march of civilization / has not coincided with real human progress.",
+        "options": [
+          "Many a profound thinker",
+          "believe that the march of civilization",
+          "has not coincided with real human progress.",
+          "No error"
+        ],
+        "answer": 2,
+        "solution": "Use believes in place of believe.\nMany a + noun (singular) + verb (singular)\n'many a' - distributive adjective ki tarah kaam karta hai."
+      },
+      {
+        "id": 13,
+        "question": "The number of students / attending their classes / are constantly decreasing / in our university.",
+        "options": [
+          "The number of students",
+          "attending their classes",
+          "in our university",
+          "are constantly decreasing"
+        ],
+        "answer": 4,
+        "solution": "use ‘is’ instead of ‘are’ kyunki –\nThe Number of + Noun (Plural) + Verb (Singular)\nA Number of + Noun (Plural) + Verb (Plural)"
+      },
+      {
+        "id": 14,
+        "question": "In the struggle / between the bad and the good, the / bad is ultimately defeated.",
+        "options": [
+          "In the struggle",
+          "between the bad and the good, the",
+          "bad is ultimately defeated.",
+          "No error"
+        ],
+        "answer": 3,
+        "solution": "Use are in place of is.\n‘the bad’ =  bad people\nthe + adj = Common plural noun\neg. the rich = rich people"
+      },
+      {
+        "id": 15,
+        "question": "One of the major challenges / he faced during his / undergraduate days were / the shortage of money.",
+        "options": [
+          "he faced during his",
+          "One of the major challenges",
+          "the shortage of money",
+          "undergraduate days were"
+        ],
+        "answer": 4,
+        "solution": "use ‘was’ instead of ‘were’ kyunki yahan is verb ka subject 'one' hai isliye iske according singular verb aayegi."
+      },
+      {
+        "id": 16,
+        "question": "The staff of his collage is / opposed to the takeover because / they are convinced that they will lose their jobs.",
+        "options": [
+          "The staff of his collage is",
+          "opposed to the takeover because",
+          "they are convinced that they will lose their jobs.",
+          "No error"
+        ],
+        "answer": 1,
+        "solution": "Use are in place of is.\n‘staff’ noun ke sath sentence ke according singular and plural dono verb aa sakti hain, sentence me aage ‘they’ and ‘their’ jaise words se clear ho rha hai ki ‘staff’ word ko plural me use kiya jayega."
+      },
+      {
+        "id": 17,
+        "question": "Every / curious child / want to / rip open a toy.",
+        "options": [
+          "rip open a toy",
+          "curious child",
+          "Every",
+          "want to"
+        ],
+        "answer": 4,
+        "solution": "use ‘wants’ instead of ‘want’\nevery + noun(singular) + verb (singular)"
+      },
+      {
+        "id": 18,
+        "question": "No one were / present when I / entered the hall.",
+        "options": [
+          "No one were",
+          "No error",
+          "entered the hall",
+          "present when I"
+        ],
+        "answer": 1,
+        "solution": "use ‘was’ instead of ‘were’ kyunki 'no-one' subject ke sath verb singular aati hai."
+      },
+      {
+        "id": 19,
+        "question": "The fisheries sector / have grown significantly / in the last one year.",
+        "options": [
+          "have grown significantly",
+          "in the last one year",
+          "No error",
+          "The fisheries sector"
+        ],
+        "answer": 1,
+        "solution": "use ‘has’ instead of ‘have’ kyunki 'the fisheries sector' ek particular sector ka name hai aur iske liye verb singular aayegi.\nNote:- fisheries sector hi sahi word hai na ki fishery sector, yeh yaad hi karna padega."
+      },
+      {
+        "id": 20,
+        "question": "The crew / of sailors / were not perturbed / by the strong gale.",
+        "options": [
+          "of sailors",
+          "by the strong gale",
+          "The crew",
+          "were not perturbed"
+        ],
+        "answer": 4,
+        "solution": "use ‘was’ instead of ‘were’ kyunki yahan 'the crew' ek collective noun hai aur jab collective noun ek single unit ki tarah use kiye jaate hain toh verb singular aati hai."
+      },
+      {
+        "id": 21,
+        "question": "The contrast between/Britain and other  countries/of Europe/are striking.",
+        "options": [
+          "The contrast between",
+          "are striking",
+          "Britain and other countries",
+          "of Europe"
+        ],
+        "answer": 2,
+        "solution": "use ‘is’ instead of ‘are’ kyunki yahan subject 'the contrast' hai jo ki singular hai isliye singular verb aayegi."
+      },
+      {
+        "id": 22,
+        "question": "The river Yamuna has many non-native species like goldfish that is affecting its ecosystem.",
+        "options": [
+          "its ecosystem",
+          "The river Yamuna",
+          "that is affecting",
+          "has many non-native species"
+        ],
+        "answer": 3,
+        "solution": "use ‘are’ instead of ‘is’ kyunki 'that' relative pronoun yahan 'non native species' ko refer karne ke liye rakha gya hai isliye 'that' ke baad plural aayegi."
+      },
+      {
+        "id": 23,
+        "question": "Great many students who are good at other subjects perform poorly in English.",
+        "options": [
+          "perform poorly",
+          "in English",
+          "who are good at",
+          "Great many students"
+        ],
+        "answer": 4,
+        "solution": "use ‘a great many’ instead of ‘great many' kyunki yahan mahaan students nahi bahut saare students wala meaning dena hai jo ki 'a good/great many + noun' se aata hai."
+      },
+      {
+        "id": 24,
+        "question": "Each member / of the team / receive a memorabilia / after the match is over.",
+        "options": [
+          "Each member",
+          "after the match is over",
+          "receive a memorabilia",
+          "of the team"
+        ],
+        "answer": 3,
+        "solution": "use ‘receives’ instead of ‘receive’ kyunki 'member' noun se pehle 'each' distributive adjective laga hai isliye member subject ki verb singular aayegi which is 'receives'"
+      },
+      {
+        "id": 25,
+        "question": "The blue Lotus is one of the most beautiful flowers which grows in her garden.",
+        "options": [
+          "is one of the most beautiful flowers",
+          "in her garden",
+          "The blue Lotus",
+          "which grows"
+        ],
+        "answer": 4,
+        "solution": "use ‘grow’ instead of ‘grows’ kyunki yahan 'which' ka antecedent 'flowers' plural noun hai uske according verb 'grow' aayegi."
+      },
+      {
+        "id": 26,
+        "question": "The perception / of success / vary / from person to person.",
+        "options": [
+          "The perception",
+          "of success",
+          "vary",
+          "from person to person"
+        ],
+        "answer": 3,
+        "solution": "use ‘varies’ instead of ‘vary’ kyunki yahan subject 'perception' hai jo ki singular  noun hai isliye verb singular aayegi."
+      },
+      {
+        "id": 27,
+        "question": "It have been only / through writing / that men have been able / to spread their ideas to mankind.",
+        "options": [
+          "It have been only",
+          "to spread their ideas to mankind",
+          "through writing",
+          "that men have been able"
+        ],
+        "answer": 1,
+        "solution": "use ‘has’ instead of ‘have’ kyunki yahan 'it' singular noun hai isliye iske according singular verb aayegi."
+      },
+      {
+        "id": 28,
+        "question": "Billionaire Philip is the owner of the luxury yacht Lionheart, which worth an estimated $150 million.",
+        "options": [
+          "which worth",
+          "the owner of",
+          "Billionaire Philip is",
+          "an estimated $150 million"
+        ],
+        "answer": 1,
+        "solution": "use ‘which is worth’ instead of ‘which worth’ kyunki 'worth' ek adjective hai yeh verb ka kaam nahi kar sakta isliye 'is' linking verb ka use karke structure sahi karna padega."
+      },
+      {
+        "id": 29,
+        "question": "One of / the biggest enterprise / in India / is declaring a lockout.",
+        "options": [
+          "in India",
+          "One of",
+          "is declaring a lockout",
+          "the biggest enterprise"
+        ],
+        "answer": 4,
+        "solution": "use ‘enterprises’ instead of ‘enterprise’ kyunki 'of' preposition yahan selection ke liye aati hai isliye aage likha noun plural form me aata hai.\nOne of + Noun (Plural) + Verb (Singular)"
+      },
+      {
+        "id": 30,
+        "question": "Participating in the Republic Day Parade are consideredan honour by many people.",
+        "options": [
+          "Participating in",
+          "the Republic Day Parade",
+          "by many people",
+          "are considered an honour"
+        ],
+        "answer": 4,
+        "solution": "use ‘is’ instead of ‘are’ kyunki yahan subject banne ka kaam 'participating' gerund kar rha hai aur 'gerund' ya infinitive jab subject ka kaam karte hain toh verb singular aati hai."
+      }
+    ],
+    "SVA Test 2":[
+  {
+    "id": 1,
+    "question": "Sterling is only twenty four but have achieved so much in his professional football career.",
+    "options": [
+      "but have achieved so much",
+      "in his professional football career",
+      "No Error",
+      "Sterling is only twenty four"
+    ],
+    "answer": 1,
+    "solution": "use ‘has’ instead of ‘have’ kyunki 'sterling' kisi person ka name hai jo ki proper noun ho jayega aur singular verb lega."
+  },
+  {
+    "id": 2,
+    "question": "The problem of world hunger arises because of the economic inequality that distort food distribution.",
+    "options": [
+      "The problem of",
+      "that distort food distribution",
+      "world hunger arises",
+      "because of the economic inequality"
+    ],
+    "answer": 2,
+    "solution": "use ‘distorts’ instead of ‘distort’ kyunki yahan that relative pronoun - the economic inequality ko refer kar rha hai jo ki singular noun hai isliye that ke sath singular verb aayegi"
+  },
+  {
+    "id": 3,
+    "question": "It is estimated that most of the addict, a whopping 85%, in God’s own country Kerala, are below 25 years of age.",
+    "options": [
+      "It is estimated that",
+      "are below 25",
+      "most of the addict",
+      "a whopping 85%"
+    ],
+    "answer": 3,
+    "solution": "use ‘most of the addicts’ instead of ‘most of the addict’ kyunki –Most of + Noun (Plural)\nmost of the addicts = jyadatar addicts"
+  },
+  {
+    "id": 4,
+    "question": "Our most memorable meeting with Spielberg happened while we were at the Berlin Film Festival in 1977, where the film ‘Shatranj ke Khilari ‘were being screened as India’s official entry.",
+    "options": [
+      "Our most memorable meeting",
+      "while we were at",
+      "where the film",
+      "were being screened"
+    ],
+    "answer": 4,
+    "solution": "use ‘was’ instead of ‘were’ kyunki yahan subject 'shatranj ke khiladi' ek movie ka name hai jo ki proper noun hoga isliye singular singular verb aayegi."
+  },
+  {
+    "id": 5,
+    "question": "A recent government report highlight that the shortage of teachers in higher educational institutions is greater than that in countries like China, Brazil, Sweden and Russia.",
+    "options": [
+      "A recent government report highlight",
+      "in higher educational institutions",
+      "that the shortage of teachers",
+      "is greater than"
+    ],
+    "answer": 1,
+    "solution": "use ‘highlights’ instead of ‘highlight’ ki yahan subject 'a recent government report' hai jo ki singular noun hai isliye singular verb aayegi."
+  },
+  {
+    "id": 6,
+    "question": "Despite warnings the driver continued to speed and have been caught by the traffic police.",
+    "options": [
+      "Despite warnings",
+      "and have been caught",
+      "the driver continued to speed",
+      "by the traffic police"
+    ],
+    "answer": 2,
+    "solution": "use ‘has’ instead of ‘have’ kyunki yahan 'continued' aur 'have been caught' dono verb ka subject 'driver' hai jo ki singular noun isliye singular verb aayegi."
+  },
+  {
+    "id": 7,
+    "question": "The news of his involvement in illegal activities have shocked everybody.",
+    "options": [
+      "have shocked everybody",
+      "in illegal activities",
+      "of his involvement",
+      "The news"
+    ],
+    "answer": 1,
+    "solution": "use ‘has’ instead of ‘have’ kyunki 'news' ek uncountable noun maana jaata hai isliye singular verb aayegi."
+  },
+  {
+    "id": 8,
+    "question": "He wanted to know the reason why his low score in Mathematics.",
+    "options": [
+      "why his low score",
+      "He wanted to know",
+      "the reason",
+      "in Mathematics"
+    ],
+    "answer": 1,
+    "solution": "use ‘why his score was low’ instead of ‘why his score low’ kyunki sentence ke grammar and meaning ko correct karne ke liye yahan his score ko subject banna padega aur uske baad verb 'was' lagayi jayegi aur 'low' subject complement ban jayega.\nNote :- Yahan ese bhi likh sakte hain:- he wanted to know the reason for his low score.\ndono hi structure sahi hain."
+  },
+  {
+    "id": 9,
+    "question": "Either Ramesh or Reema have the keys to the cupboard.",
+    "options": [
+      "the keys",
+      "to the cupboard",
+      "or Reema have",
+      "Either Ramesh"
+    ],
+    "answer": 3,
+    "solution": "use ‘has’ instead of ‘have’ kyunki agar do nouns neither…nor, either…..or, not only……but also, or, se connected ho tab verb apne paas wale noun ke according aati hai isliye yahan subject 'reema' ke according singular verb aayegi."
+  },
+  {
+    "id": 10,
+    "question": "Over the years, the writer Amish has evolved to what millions of youngsters aspires to be today – an intellectual.",
+    "options": [
+      "Over the years",
+      "aspires to be today",
+      "Amish has evolved",
+      "millions of youngsters"
+    ],
+    "answer": 2,
+    "solution": "use ‘aspire’ instead of ‘aspires’ kyunki yahan subject 'millions of youngsters' hai jo ki plural noun hai isliye iske according plural verb aayegi."
+  },
+  {
+    "id": 11,
+    "question": "When there were a strong wind, the pine trees made sad, eerie sounds.",
+    "options": [
+      "the pine trees made",
+      "sad, eerie sounds",
+      "a strong wind",
+      "When there were"
+    ],
+    "answer": 4,
+    "solution": "use ‘was’ instead of ‘were’ kyunki yahan 'there' introductory subject hai aur real subject 'a strong wind' hai jo ki ek singular noun ki tarah use kiya gya hai isliye singular verb aayegi."
+  },
+  {
+    "id": 12,
+    "question": "A large amount of money he invested were wasted.",
+    "options": [
+      "A large amount",
+      "he invested",
+      "were wasted",
+      "of money"
+    ],
+    "answer": 3,
+    "solution": "use ‘was wasted’ instead of ‘were wasted’ kyunki yahan is verb ka subject 'A large amount of money' hai jisme 'a large amount of' ek quantity ko dikhane wala adjectival phrase hai aur 'money' subject hai jo ki ek uncountable noun hota hai isliye singular verb aayegi."
+  },
+  {
+    "id": 13,
+    "question": "Despite incessant rains, she is the only one who plan to attend the meeting at the ministry.",
+    "options": [
+      "Despite incessant rains",
+      "who plan to attend",
+      "the meeting at the ministry",
+      "she is the only one"
+    ],
+    "answer": 2,
+    "solution": "use ‘plans’ instead of ‘plan’ and 'that' instead of 'who' kyunki yahan 'the only one' ko refer karna hai jiske liye relative pronoun that aayega aur 'that' ke baad singular verb aayegi."
+  },
+  {
+    "id": 14,
+    "question": "Organizing World Cup matches in England imply that rains can be a constant threat.",
+    "options": [
+      "be a constant threat",
+      "in England imply",
+      "that rains can be",
+      "Organizing World Cup matches"
+    ],
+    "answer": 2,
+    "solution": "use ‘implies’ instead of ‘imply’ kyunki yahan subject ka kaam 'organizing' gerund kar rha hai 'world cup matches' gerund ka object hai. Gerund ya infinitive jab subject bante hain toh verb singular lagayi jaati hai."
+  },
+  {
+    "id": 15,
+    "question": "We must plan how can we cope with the present situation.",
+    "options": [
+      "cope with the",
+      "present situation",
+      "how can we",
+      "We must plan"
+    ],
+    "answer": 3,
+    "solution": "use ‘how we can cope with’ instead of ‘how can we cope with’ kyunki sentence ke meaning se pata chal rha hai ki yeh interrogative nahi hai yahan koi kisi se kuchh puchh nahi rha balki bta rha hai isliye verb interrogative nahi assertive structure me likhi jayegi yaani subject ke pehle nahi baad me likhi jayegi."
+  },
+  {
+    "id": 16,
+    "question": "Most of the work of this NGO are of little benefit to the disadvantages.",
+    "options": [
+      "Most of the work",
+      "of this NGO",
+      "to the disadvantages",
+      "are of little benefit"
+    ],
+    "answer": 4,
+    "solution": "use ‘is’ instead of ‘are’ kyunki all/most/some/plenty etc ke case me verb us noun ke according aati hai jisko ye refer krte hain yahan wo noun 'work' hai jo ki ek uncountable noun hai, isliye singular verb aayegi."
+  },
+  {
+    "id": 17,
+    "question": "A Royal Bengal tigress and her three cubs was poison and their carcasses left to rot in the Wildlife Sanctuary in Goa.",
+    "options": [
+      "A Royal Bengal tigress",
+      "and their carcasses left to rot",
+      "in the Wildlife Sanctuary in Goa",
+      "and her three cubs was poison"
+    ],
+    "answer": 4,
+    "solution": "use ‘were poisoned’ instead of ‘was poison’ kyunki yahan subject 'A Royal Bengal tigress and her three cubs' plural hai isliye plural verb aayegi."
+  },
+  {
+    "id": 18,
+    "question": "We noticed that most of the shoppers in the mall looking for packets of ready to cook food.",
+    "options": [
+      "packets of ready to cook food",
+      "We noticed that",
+      "most of the shoppers",
+      "in the mall looking for"
+    ],
+    "answer": 4,
+    "solution": "use ‘in the mall were looking for’ instead of ‘in the mall looking for’ kyunki yahan shoppers subject hai aur iske liye verb ki zarurat hai 'looking' ke sath 'were helping' verb ka use karke sentence correct karna padega."
+  },
+  {
+    "id": 19,
+    "question": "The neighbourhood were getting disturbed with the loud music that was playing at the wedding party in the big bungalow.",
+    "options": [
+      "in the big bungalow",
+      "The neighbourhood were getting disturbed",
+      "that was playing",
+      "at the wedding party"
+    ],
+    "answer": 2,
+    "solution": "use ‘was’ instead of ‘were’ kyunki yahan 'neighborhood' singular noun hai isliye iske according singular verb aayegi."
+  },
+  {
+    "id": 20,
+    "question": "According to environment activists, demolition of unauthorised apartment complexes are became a lesson for land encroachers.",
+    "options": [
+      "demolition of unauthorised apartment complexes",
+      "are became",
+      "for land encroachers",
+      "According to"
+    ],
+    "answer": 2,
+    "solution": "yahan subject 'demolition' hai jo ki singular noun hai isliye singular verb aayegi. Sentence ke meaning ke according yahan 'has become/became/is becoming' in verbs ka use kiya jaa sakta hai."
+  },
+  {
+    "id": 21,
+    "question": "People with full time sedentary jobs who commuting long distances, may have sleep problems due to lack of exercise.",
+    "options": [
+      "due to lack of exercise",
+      "may have sleep problems",
+      "People with full time sedentary jobs",
+      "who commuting long distances"
+    ],
+    "answer": 4,
+    "solution": "use ‘who commute’ instead of ‘who commuting’ kyunki yahan verb ke sath subject ‘who’ hai jo ki people ko refer kar rha hai. Commute verb ka correct form present indefinite me commute hi hoga."
+  },
+  {
+    "id": 22,
+    "question": "Prasad recalled that meeting people have been a part of his life as a student activist.",
+    "options": [
+      "meeting people have been",
+      "Prasad recalled that",
+      "a part of his life",
+      "as a student activist"
+    ],
+    "answer": 1,
+    "solution": "use ‘meeting people has been’ instead of ‘meeting people have been’ kyunki yahan subject gerund ‘meeting’ hai jo ki singular hota hai isliye singular verb has lagegi."
+  },
+  {
+    "id": 23,
+    "question": "The simplest way to get proper recognition are through doing things with dedication and sincerity.",
+    "options": [
+      "with dictation and sincerity",
+      "are through doing things",
+      "to get proper recognition",
+      "The simplest way"
+    ],
+    "answer": 2,
+    "solution": "use ‘is’ instead of ‘are’ kyunki yahan subject ‘The simplest way’ hai jo ki singular hai isliye singular verb aayegi."
+  },
+  {
+    "id": 24,
+    "question": "The man with a lost eye have been accused for murder of two girls in his neighbourhood.",
+    "options": [
+      "have been accused for",
+      "in his neighbourhood",
+      "murder of two girls",
+      "The man with a lost eye"
+    ],
+    "answer": 1,
+    "solution": "use ‘has been accused of’ instead of ‘have been accused for’ kyunki subject singular hai aur accuse ke sath preposition ‘of’ ka use hota hai."
+  },
+  {
+    "id": 25,
+    "question": "The Prime Minister, along with the other ministers have left for America.",
+    "options": [
+      "for America",
+      "The Prime Minister, along with",
+      "have left",
+      "the other ministers"
+    ],
+    "answer": 3,
+    "solution": "use ‘has’ instead of ‘have’ kyunki jab singular noun ke sath ‘along with’ use hota hai toh verb us singular noun ke according hi lagti hai."
+  },
+  {
+    "id": 26,
+    "question": "Everything that I like to eat are fattening.",
+    "options": [
+      "to eat",
+      "are fattening",
+      "I like",
+      "Everything that"
+    ],
+    "answer": 2,
+    "solution": "use ‘is’ instead of ‘are’ kyunki ‘Everything’ singular subject hai isliye singular verb aayegi."
+  },
+  {
+    "id": 27,
+    "question": "Only one copy of the book, running into 1200 pages, on Gandhiji's visit to the State of Andhra Pradesh, remain now.",
+    "options": [
+      "running into 1200 pages",
+      "remain now",
+      "on Gandhiji's visit to the State",
+      "Only one copy of the book"
+    ],
+    "answer": 2,
+    "solution": "use ‘remains’ instead of ‘remain’ kyunki subject ‘Only one copy’ singular hai isliye singular verb aayegi."
+  },
+  {
+    "id": 28,
+    "question": "Those who follow a healthy routine is likely enjoying good health.",
+    "options": [
+      "good health",
+      "a healthy routine",
+      "is likely enjoying",
+      "Those who follow"
+    ],
+    "answer": 3,
+    "solution": "use ‘are likely to enjoy’ instead of ‘is likely enjoying’ kyunki subject plural hai aur correct grammatical structure ‘are likely to + verb’ hoti hai."
+  },
+  {
+    "id": 29,
+    "question": "The famous author and actor are being honoured at a function today.",
+    "options": [
+      "at a function today",
+      "The famous author and actor",
+      "No error",
+      "are being honoured"
+    ],
+    "answer": 2,
+    "solution": "use ‘is’ instead of ‘are’ kyunki ‘author and actor’ ek hi person ke liye use hua hai isliye subject singular maana jaayega."
+  },
+  {
+    "id": 30,
+    "question": "The birth of a girl bring great joy to Neha’s family.",
+    "options": [
+      "The birth",
+      "of a girl",
+      "to Neha’s family",
+      "bring great joy"
+    ],
+    "answer": 4,
+    "solution": "use ‘brings’ instead of ‘bring’ kyunki subject singular hai isliye singular verb aayegi."
+  }
+
+
+
+]
+
   }
 }
